@@ -67,14 +67,14 @@ events:
     era: remean
     title: Reme raises a naval staging ground on the tip of Ertra (Valabuium)
     match: "naval staging ground"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: balboa-hilltop-fort
     year: -650
     era: remean
     title: Hilltop fort raised above the Ertran staging harbour
     match: "hilltop fort raised"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: prophet-enlightenment
     year: -355
@@ -190,7 +190,7 @@ events:
     era: dark_ages
     title: Balboa's Five Generations of Expansion, ending in defeat at Gaviatolis
     match: "Five Generations of Expansion"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: balboan-companies-released
     year: 830
@@ -198,7 +198,7 @@ events:
     era: dark_ages
     title: Balboa releases its standing regiments as free mercenary companies
     match: "released from state service"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: hundred-years-vacancy
     year: 888
@@ -228,7 +228,7 @@ events:
     era: corsairs
     title: War of the Three Kings between Lavion, Cendrelac and Balboa
     match: "War of (the )?Three Kings"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", Balboa.md, "Geography/Regions/Circulean/The Varsenne Basin.md"]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Lavion and its Vassals/Balboa.md", "Geography/Regions/Circulean/The Varsenne Basin.md"]
 
   - id: siege-of-balboa
     year: 1119
@@ -236,14 +236,14 @@ events:
     era: corsairs
     title: Siege of Balboa; surrender and the Second Princely Compact
     match: "Siege of Balboa"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: azure-codex
     year: 1122
     era: corsairs
     title: The Azure Codex regulates the Balboan mercenary companies
     match: "Azure Codex"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: great-disputation
     year: 1178
@@ -273,7 +273,7 @@ events:
     era: corsairs
     title: Gaviatolis returns to Balboa by marriage
     match: "Gaviatolis, by contrast"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: maritime-reforms
     year: 1246
@@ -294,7 +294,7 @@ events:
     era: aetheric
     title: Fiurisci joins Balboa in personal union
     match: "Fiurisci followed"
-    sources: [Balboa.md]
+    sources: ["Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: crisis-of-the-commonwealth
     year: 1341
@@ -325,7 +325,7 @@ events:
     era: imperial
     title: The Great War
     match: "Great War \\("
-    sources: ["Timekeeping/Events/The Great War A Chronological Account.md", Balboa.md]
+    sources: ["Timekeeping/Events/The Great War A Chronological Account.md", "Organisations/Lavion and its Vassals/Balboa.md"]
 
   - id: piatrium-barvella
     year: 1571
@@ -346,4 +346,4 @@ events:
     era: imperial
     title: The Peace of Balboa ends the Great War
     match: "Peace of Balboa"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Timekeeping/Events/The Great War A Chronological Account.md", Balboa.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Timekeeping/Events/The Great War A Chronological Account.md", "Organisations/Lavion and its Vassals/Balboa.md"]

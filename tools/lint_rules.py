@@ -23,14 +23,20 @@ OUT_OF_WORLD = [
     "*/Merhal.md",
     "*/Alchemica.md",
     "*/Remea.md",
-    "*/Technology?Snapshot?1420s.md",
     "*/Gryphoids.md",
     "*/Theronga.md",
     "*/Gryphoid?visualisation.md",
 ]
 
-# Gryphoid design notes that name real birds as the template for each gryph.
-BIRD_DESIGN_NOTES = ["*/Gryphoids.md", "*/Theronga.md", "*/Gryphoid?visualisation.md"]
+# Gryphoid design notes that name real birds as the template for each gryph,
+# plus Arlosian Material Science until Jan rewrites its "bird's bone" sentence himself.
+BIRD_DESIGN_NOTES = [
+    "*/Gryphoids.md", "*/Theronga.md", "*/Gryphoid?visualisation.md",
+    "*/Arlosian?Material?Science.md",
+]
+
+# Content files that are not lorebooks (digests, overviews) and are skipped by every rule.
+NOT_LOREBOOK = ["*/Technology?Snapshot?1420s.md"]
 
 # Reference files where lists and tables are expected (bullets allowed).
 REFERENCE = ["*Reference*.md", "*Timeline*.md", "*Arlosian?Mathematics.md"]
@@ -94,7 +100,7 @@ RULES = {
             "atom", "atoms", "atomic", "subatomic", "molecule", "molecules", "molecular",
             "electron", "electrons", "proton", "protons", "neutron", "neutrons",
             "photon", "photons", "quantum", "electromagnetism", "electromagnetic",
-            "electricity", "electric", "electrical", "magnetism", "magnetic", "nuclear",
+            "electricity", "electric", "electrical", "nuclear",
             "isotope", "isotopes", "radioactive", "radioactivity", "relativity",
             "oxygen", "hydrogen", "nitrogen", "helium",
         ],

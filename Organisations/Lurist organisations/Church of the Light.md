@@ -10,7 +10,7 @@ aliases:
 The Church of the Light considers itself the guardian of Lurism in Arlos. It is also called the Hierophancy as a pars pro toto, using its highest office to stand in for the church as a whole. From the outside, it is refered to as the "Anish Rite" from its roots in ancient An-Mirda, and its adherents as "Virellite" from the figure of Saint Virellian, a pivotal figure in its early history. Terms such as First, Second or Third Hierophancy refer not to clear-cut organisational antecedents and successors, but are historiographic terms pointing to milestone changes in doctrine or polity the Church underwent in its nearly two millenia of existence.
 ## History
 
-The revelation at An‑Mirda in -355 AR set the faith in motion, but only the rise of the theocratic First Hierophancy in the early centuries AR marks the beginning of the Church proper. When it fell in 325 AR with the Sack of An-Mirda by the [[Starkin]] [[On the Peoples of the Circle Sea]] under [[Ejitwe the Thronebreaker]], the Second Hierophancy extended ecclesiastical influence deep into [[Rimec-Suur]], but it in turn suffered deepening internal fractures leading to the Interregnum beginning in 888 AR. That unsettled season closed in the late tenth century AR as Genovrast [[de Lavion]] consolidated the realm and sought religious backing; the modern, Third Hierophancy thereafter retained spiritual authority while relinquishing most temporal reach. Through all these turns, the Eternal Dominion drove expansion -- sometimes by persuasion, often by steel.
+The revelation at An‑Mirda in -355 AR set the faith in motion, but only the rise of the theocratic First Hierophancy in the early centuries AR marks the beginning of the Church proper. When it fell in 336 AR with the Sack of An-Mirda by the [[Starkin]] under [[Ejitwe the Thronebreaker]], the Second Hierophancy extended ecclesiastical influence deep into [[Rimec-Suur]], but it in turn suffered deepening internal fractures leading to the Interregnum beginning in 888 AR. That unsettled season closed in the late tenth century AR as Genovrast [[de Lavion]] consolidated the realm and sought religious backing; the modern, Third Hierophancy thereafter retained spiritual authority while relinquishing most temporal reach. Through all these turns, the Eternal Dominion drove expansion -- sometimes by persuasion, often by steel.
 
 ### Early Lurism and the Judges
 
@@ -74,7 +74,7 @@ In the first generation after the fall, rival obediences grew from the same sing
 
 But partisans of the ruined holy city insisted only an An-Mirda line could be lawful, while Aramoor's bishops and magistrates argued that the Light's harmony lived where the Church could still speak in full sentences in synod, statute, and seal.
 
-### The Covenant of Concord (360s AR)
+### The Covenant of Concord (337 AR)
 
 The immediate contest between An-Mirda and Aramoor gave Stranu's already independently minded bishops their moment. Meeting at the First Synod of Santra, they framed an autocephalic settlement called the Covenant of Concord: a church ordered by charter and council, jealous of its freedom to keep the peace at home. While properly known as the Autocephalous Church of the West, common parlance gives its thought the moniker "[[Concordianism]]". Its tone is conciliatory and civic, but its reach remains where it began -- in Stranu and what will become the Commonwealth's dioceses and prince-bishoprics. Concordianism does not share the earlier Lurist appetite for zealous expansion; it stays Western by choice and design.
 

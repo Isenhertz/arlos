@@ -7,7 +7,6 @@ Worldbuilding bible for Arlos, a secondary world centred on the Circle Sea, writ
 | Folder | Contents |
 |---|---|
 | `Cosmology/`, `Flora & Fauna/`, `Geography/`, `Languages/`, `Material Reality/`, `Media/`, `Organisations/`, `Peoples/`, `Timekeeping/` | Lorebooks, grouped by subject |
-| `canon/` | Lorebooks from the original scaffold not yet placed in the subject folders |
 | `data/` | Structured canon; `timeline.yaml` holds the dated events the lorebooks are checked against |
 | `notes/` | Decisions from conversation that are not yet folded into a lorebook |
 | `sources/` | Converted source documents: older drafts, the comparative catechism table, the measurement tables |

@@ -16,7 +16,6 @@ Media/              in-world documents, crests, portraits
 Organisations/      polities, houses, Lurist churches and orders
 Peoples/            Alvai, Dvergr, humankind, beastkin
 Timekeeping/        calendars, events, timelines
-canon/              lorebooks from the scaffold not yet placed in the folders above
 manuscript/         empty until the novel starts
 ```
 

@@ -4,7 +4,7 @@
 #   negative, the Fall of Reme is 0. `end` is set only for spans.
 # circa: true where the lorebooks say "around" or "c.".
 # match: a regular expression naming the event in prose. tools/check_timeline.py
-#   finds every sentence in canon/ that matches it and carries an explicit year,
+#   finds every sentence in the content files that matches it and carries an explicit year,
 #   and reports sentences whose years disagree with this file.
 # sources: lorebooks that state the date.
 #
@@ -213,7 +213,7 @@ events:
     era: dark_ages
     title: Settlement of the Varsa; Genovrast founds Lavion and the Third Hierophancy
     match: "Settlement of the Varsa"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/polities/The_Varsenne_Basin.md, "Organisations/Lurist organisations/Church of the Light.md"]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Geography/Regions/Circulean/The Varsenne Basin.md", "Organisations/Lurist organisations/Church of the Light.md"]
 
   - id: guard-of-the-common-weal
     year: 1024
@@ -228,7 +228,7 @@ events:
     era: corsairs
     title: War of the Three Kings between Lavion, Cendrelac and Balboa
     match: "War of (the )?Three Kings"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", Balboa.md, canon/polities/The_Varsenne_Basin.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", Balboa.md, "Geography/Regions/Circulean/The Varsenne Basin.md"]
 
   - id: siege-of-balboa
     year: 1119
@@ -287,7 +287,7 @@ events:
     era: corsairs
     title: Revolt of the Commons; Lavion concedes the Commons' Chamber
     match: "Revolt of the Commons"
-    sources: [canon/polities/The_Varsenne_Basin.md]
+    sources: ["Geography/Regions/Circulean/The Varsenne Basin.md"]
 
   - id: fiurisci-joins-balboa
     year: 1319
@@ -309,7 +309,7 @@ events:
     era: imperial
     title: Reign of Roburic II "the Iron Crown"; the Imperial Turn
     match: "Roburic II \\(|Roburic II \"(the )?Iron"
-    sources: [canon/polities/The_Varsenne_Basin.md, "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
+    sources: ["Geography/Regions/Circulean/The Varsenne Basin.md", "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
 
   - id: undeclared-war
     year: 1541
@@ -317,7 +317,7 @@ events:
     era: imperial
     title: The Undeclared War in the Rim of Fire
     match: "Undeclared War"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/history/The_Great_War_A_Chronological_Account.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Timekeeping/Events/The Great War A Chronological Account.md"]
 
   - id: great-war
     year: 1561
@@ -325,25 +325,25 @@ events:
     era: imperial
     title: The Great War
     match: "Great War \\("
-    sources: [canon/history/The_Great_War_A_Chronological_Account.md, Balboa.md]
+    sources: ["Timekeeping/Events/The Great War A Chronological Account.md", Balboa.md]
 
   - id: piatrium-barvella
     year: 1571
     era: imperial
     title: The Barvella process yields piatrium
     match: "metallurgical line succeeded"
-    sources: ["Material Reality/Engineering/Arlosian Metallurgy.md", canon/science/Arlosian_Material_Science.md]
+    sources: ["Material Reality/Engineering/Arlosian Metallurgy.md", "Material Reality/Engineering/Arlosian Material Science.md"]
 
   - id: desolation-of-santra
     year: 1572
     era: imperial
     title: The Desolation of Santra
     match: "Desolation of Santra"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/history/The_Great_War_A_Chronological_Account.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Timekeeping/Events/The Great War A Chronological Account.md"]
 
   - id: peace-of-balboa
     year: 1574
     era: imperial
     title: The Peace of Balboa ends the Great War
     match: "Peace of Balboa"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/history/The_Great_War_A_Chronological_Account.md, Balboa.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Timekeeping/Events/The Great War A Chronological Account.md", Balboa.md]

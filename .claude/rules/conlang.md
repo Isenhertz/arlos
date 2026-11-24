@@ -1,6 +1,6 @@
 ---
 paths:
-  - "conlang/**"
+  - "Languages/**"
 ---
 
 # Conlang conventions

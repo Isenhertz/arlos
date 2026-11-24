@@ -12,7 +12,8 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-GLOBS = ["canon/**/*.md", "conlang/**/*.md", "manuscript/**/*.md", "notes/**/*.md"]
+sys.path.insert(0, str(ROOT / "tools"))
+import corpus  # noqa: E402
 LINK = re.compile(r"!?\[\[([^\]|#^]+)(?:[#^][^\]|]*)?(?:\|[^\]]*)?\]\]")
 
 
@@ -34,7 +35,7 @@ def frontmatter(text):
 
 
 def main():
-    files = sorted({p for g in GLOBS for p in ROOT.glob(g)})
+    files = corpus.content_files(extra_top=("notes",))
     targets = {}
     for f in files:
         text = f.read_text(encoding="utf-8")

@@ -1,0 +1,11 @@
+ >From the account of Vizier Aset-na-Mer, servant of Thesun-Khetep, of the Conquest of the Merhal a thousand years before the Fall of Reme
+ 
+ _I had thought our levy sufficient -- noble chariots, spearmen from the levee towns, the black-reed slingers of the upper cutbanks. We stood on the crown of the dike with the granaries behind us, a formidable array. Then the invaders from far Rem-ê-Atu came into view and I learned something new._
+
+_They advanced in panes, shields on their left arms, each step exact, each rank closed, as if the wind itself kept time for them. At first glance I mistook them for a host of women -- tall, clean-limbed, and smooth of voice, no men there at all save the desert scouts they hired. I then learned that their blood-craft erases the coarse differences we live in, such that they read as androgynes perfected to a single mold, powerful yet lithe, like the River-Mother made innumerable. It must be said that the effect of such martial perfection on a line of farmers is profound._
+
+_Their front carried long spears like ship's masts that tipped the sun into our eyes. The back ranks held throwing spears ready to strike. Every chest shone with cast bronze muscle cuirasses and scale, greaves broad, helmets cheeked and high. Their shields were deep boards faced in bronze, rubbed with gums against the humidity. Behind the line stood their archers, bearing belly-bows no normal body could arm, though their soldiers wound them by hand and hip as if merely lifting a basket to market._
+
+_It is a hateful thing to watch perfection in motion when one must contend with peasants barely capable of forming a straight line. Not once did I hear one of their captains shout; they raise a hand, a horn signal, and every head turns the same degree. I called the Mother of Rivers and promised her a thousand goats if she would wash their line aside; the river did not answer._
+
+_We bargained, in the end, for even kings must answer to arithmetic demands. At least the Remeans do not gloat; they simply tell you what you can keep._

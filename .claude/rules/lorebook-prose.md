@@ -1,13 +1,9 @@
----
-paths:
-  - "canon/**"
-  - "manuscript/**"
----
-
 # Lorebook prose conventions
 
+These apply to every content file (see `tools/corpus.py`) except the conlang folder `Languages/`.
+
 - Declarative voice. No hedged phrasing in final documents; in-world historiographic uncertainty is voiced as the record's uncertainty, never the author's.
-- No bullet points in lorebook prose. Tables are fine in reference files (`canon/reference/`) and the timeline is a list by nature.
+- No bullet points in lorebook prose. Tables and lists are fine in reference files (calendars, mathematics) and timelines.
 - Each lorebook is a standalone account: no cross-references to source filenames, no "see the X document". `[[Wikilinks]]` to other entries are fine.
 - No em-dashes or en-dashes. Use " -- " for asides.
 - Numeric ranges take a plain hyphen with no spaces: 1117-1121.

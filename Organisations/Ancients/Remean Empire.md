@@ -1,0 +1,42 @@
+---
+tags:
+  - geopolitical
+  - historic
+  - remean
+  - timeline
+  - antiquity
+aliases:
+  - Ancient Reme
+  - Remeans
+  - Ancients
+  - Remean
+  - Remea
+---
+> [!infobox|right wikipedia]+
+> # Remean Empire
+> ![[crest Remean Empire.png|Crest of the Remean Empire]]
+> Blazon: _Gules a laural wreath or surrounding a capital letter R_
+
+The Remean Empire was the defining polity of antiquity, ending the reign of the [[Sorceror-King|Sorcerer-Kings]] and controlling much of the [[Circle Sea|Circulean]] before the advent of [[The Light|Lurism]] rang its death knell. It endures not in living memory but in fragments, patterns etched into crumbling stone, subterranean baths whose heat has never cooled, the curvature of marble lips worn smooth by centuries of silence. The study of its history is more reconstruction than historiography, as the obliteration that followed its fall was not merely the razing of a great city, but the systematic dismantling of a worldview that the [[Eternal Dominion]] sought to unmake through a _damnatio memoriae_. Iconoclasts sanctioned by the Hierophancy scoured the south for traces of the ancients, reducing statuary to gravel, manuscripts to ash, and memory to distortion. What survives today owes its persistence not to preservation but to accident, to the margins -- a misfiled inscription in a distant archive, an architectural anomaly long mistaken for natural formation, or the hostile recollections of Lurist chroniclers who saw in Reme not simply an adversary but a blasphemy incarnate.
+
+## Rise
+
+The rise of Reme is hence concealed, both by time and the intentions of those who sought to unmake it. Even the earliest reconstructable details, tentatively dated to the late Rivian Epoch, offer no narrative arc in the style of later historiography. Instead, they suggest a civic order whose emergence was shaped more by harmonic congruence than by political necessity. A growing consensus among Circulean historians now posits that though we understand Reme as an empire, it was in all likelihood not a singular polity, but a synoecism of earlier riverine and hill cities, bound by compacts and exchange. As their rites aligned, first crop cycles, then civic calendars, then training patterns converged. Tolls disappeared; mint marks centralized; matrilineality bound lineages across former frontiers. Within a few generations, what had been a league of peers functionally merged, uniting the [[Ertra|Ertrese Peninsula]] into a recognizable polity. As guarded techniques of [[Shaping]] were first championed, then shared, the public forum began to speak one cadence; the body became the instrument of the mind and soul, to be tuned in accordance with the requirements of Reme's harmonies.
+
+Extrapolated eastward, this logic helps explain the manner of the empire's expansion. Where the legions triumphed, annexation did not immediately erase local names or rites. Conquered and conciliated cities were offered concordats: daughters to the shaping colleges, envoys to the forum, adoption of the metropolitan calendar and ratioed measures, reciprocal recognition of matrilineal inheritance, and the empire's protective umbrella for trade. Compliance brought prestige, protection, and gradual absorption as civic rhythms were retimed to the metropolitan pulse. Refusal brought isolation: tariff walls, the withdrawal of shaping expertise, and the quiet siphoning of talent toward cities already in tune. In time, many eastern polities were synchronized to Reme -- a federation in form, a single cadence in fact.
+
+## Reign
+
+During its thousand-year reign -- if the surviving indications of its founding are to be believed -- Reme thus exercised influence through more than merely its unmatched legions. Its methods were often immersive rather than imposed: cultural gravitation rather than outright annexation. The Ancients built bridgeheads of their polity along the coasts -- forts, tradeposts, extraction sites -- from where Remean civic principles, architecture, and material practices spread along trade routes and through diplomatic emulation and rapprochement. The city itself was a vector for transformation. Central to this diffusion was the practice of Shaping: the internal modulation of the human body. Unlike the mechanistic arts of other cultures, Remean technology turned inward. Physical perfection, utility, and aesthetic balance were achieved not by crafting tools but by crafting the self. Shaped individuals were the infrastructure of the city: laborers capable of enduring backbreaking work with no visible strain; runners who covered distances in hours that took others days; guardians who held formation with the precision of a single body. Shaping was cosmetic, functional, and inseparable from beauty. The Remean aesthetic, fused into flesh, became the measure of order.
+
+The political architecture that undergirded such a system remains obscure. No singular authority is named, no triumvirate commemorated. Only the term 'Capitolinae' recurs across scattered inscriptions, usually in association with ritual spaces or civic pronouncements. Its meaning, however, remains elusive -- it may have denoted a class of magistrates, a ruling council, or a sacral order -- but what is clear is that public representation, just like artistic representation, was deeply and singularly gynoid. The surviving statuary from [[City of Balboa|Balboa proper]], then a city on the imperial periphery spared the capital's full destruction, offers the clearest lens into this ethos. These figures defy classification in our everyday model of gendered representation: they possess wide hips but waists sculpted for poise, chests deliberately ambiguous, and faces whose expressions are soft even in the display of power. 
+
+## Ruin
+
+The ruin of Reme was not a defeat but a rupture. When the Eternal Dominion turned its legions south, they prepared for a campaign of territorial conquest. What they met was an empire whose citizens moved as if of a single will, whose shaped soldiers responded not to shouted command but to pulse and breath. Whole formations turned in silence; cities absorbed assault with choreographed elasticity. And yet, Reme fell.
+
+The consensus among post-Dominion theologians and dissenting scholars alike is that the empire, faced with inevitable annihilation or capitulation, invoked the [[Noble Element]] of Fire. No testament of its intent remains, but what followed was not siege, but sublimation: the city consumed itself in a moment of incandescent wrath, its doom a spectacle of finality. The land vitrified; the air burned. The crusaders' own scribes tell us that the Gyres stilled in awe, stopping the approaching Dominion fleets, and later authors tell us they remained unstable for decades after. Even the triumphant crusaders recoiled. Early Hierophantic edicts forbade any return to the ruins, or disclosure of their location, under pain of death. Chronicles that spoke plainly of the city's end were suppressed or lost.
+
+In the centuries that followed, the church enacted a concerted program of cultural annihilation. Sculptures bearing shaped forms were desecrated and discarded. Surviving texts were expurgated of names. The mere possession of a shaping artifact became cause for inquisition. Lurist doctrine, predicated on the belief in a harmonious cosmos sustained by divinely instituted distinctions, could not tolerate the Remean collapse of boundary, of its civic tradition that shaped gender into irrelevance and dissolved hierarchies into harmonies. To Lurism, this was not simply heretical, but destabilizing -- a civilizational contagion. The response was erasure.
+
+Yet Reme persists. It persists not in history, but in aftermath. In the subterranean thermals of Balboa's oldest cisterns, where shaped stone still radiates warmth. In the silent modulation of certain chamber acoustics whose proportions mirror ancient ratio. In the resistant ambiguity of broken statuary, defaced but unmistakably Remean. It endures in what cannot be unmade: the sexagesimal ghosts in modern hours and minutes, the aetheric truth that resonance can shape materiality, and in the very foundation of our reckoning of time, counting the years "After Reme". For all that its shape was lost and its patterns condemned, its resonance has not yet faded.

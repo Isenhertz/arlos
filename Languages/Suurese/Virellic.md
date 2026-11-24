@@ -1,0 +1,1 @@
+Modern form of [[Ancient Aniric]], spoken by the inhabitants of the [[Kingdom of Lavion]], and as a second language by almost everyone around the [[Circle Sea]].

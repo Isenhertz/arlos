@@ -3,7 +3,7 @@
 
 1. Schema: required fields, unique ids, integer years, end >= year, known eras,
    year inside its era, source files that exist, events in chronological order.
-2. Cross-check: for every event with a `match` pattern, find sentences in canon/
+2. Cross-check: for every event with a `match` pattern, find sentences in the content files
    that match it and contain explicit years ("336 AR", "177 BR", "-355 AR",
    "the 360s AR", "(1117-1121)"). A sentence is reported when none of its years
    falls on the event's year or inside its span (circa events get +/-25 years).
@@ -18,6 +18,8 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "tools"))
+import corpus  # noqa: E402
 TIMELINE = ROOT / "data" / "timeline.yaml"
 CIRCA_SLACK = 25
 
@@ -127,7 +129,7 @@ def fmt(y):
 
 
 def cross_check(data):
-    docs = sorted(ROOT.glob("canon/**/*.md"))
+    docs = corpus.content_files()
     texts = {d: list(sentences(d.read_text(encoding="utf-8"))) for d in docs}
     reports = []
     for ev in data["events"]:

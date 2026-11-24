@@ -43,7 +43,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 - The Mendicants began as a western "restoration" of the Judges after the fall of the Hierophancy, a return to earlier simplicity: a heresy persisting through the Dark Ages and probably into the Age of Corsairs, resisting full absorption into the mainline church. Mendicants may still claim spiritual descent from the Judges today.
 - The validity of oaths sworn to the "wrong" obedience, and opportunistic switching of obediences, is a major political vector of the Dark Ages but not fully heretical; Genovrast suppresses it hard for political reasons, not on Church doctrine. Likewise the Six Relations as warrant for rightful rebellion: the East holds a rescindable mandate (Earth analogue: Mandate of Heaven) that the King of Kings must uphold; no one in the West would countenance it.
 - Apocryphal "burned fragments" (from the Sack's archives) and disputes over the order of the Prophet's episodes are recurring doctrinal problems through all ages, most prevalent in the Dark Ages.
-- Unbound crusaders turn to a quasi-Manichaean reading of the Light, especially in far-periphery fortress-monasteries (the Lupines; the Salt Road against encroaching Kharunites). This folds in with the elemental heresy of Fire (Phlogistophor) as the Light's Executioner.
 - Rural elemental appeasement resurfaces from the Interregnum; ground burial returns where pyres are too costly, the same trajectory of older beliefs resurfacing.
 
 ## Remean military (first-principles revision, November 2026)

@@ -145,15 +145,15 @@ events:
     year: 327
     era: enlightenment
     title: Ejitwe the Thronebreaker begins gathering his coalition
-    match: "Ejitwe"
+    match: "Ejitwe[^.]*coalition"
     sources: ["Organisations/Lurist organisations/Church of the Light.md", "Geography/Regions/Circulean/An-Suur.md"]
 
   - id: sack-of-an-mirda
     year: 336
     era: enlightenment
     title: Sack of An-Mirda; end of the First Hierophancy
-    match: "[Ss]ack of An-Mirda"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md", Peoples/Alvai/Alvai.md]
+    match: "[Ss]ack of An-Mirda|[Ff]all of An-Mirda"
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md", Peoples/Alvai/Alvai.md, Geography/Settlements/An-Mirda.md]
 
   - id: covenant-of-concord
     year: 337

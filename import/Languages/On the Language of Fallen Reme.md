@@ -39,12 +39,12 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Aralaris Rubicessa** -- the Remean name for Phlogistophor, Noble Element of Fire, read in Remean theology as Ambigen, consistent with the empire's convergence-ideal extended to the Noble Elements. Kenning: Hearthkeeper -- rendered in full as *Vinastolis Ignitonerum*, "Great Warden of the Hearths" (*Vinastis*, "warden," + augmentative *-ol-* + *Igniton*, "hearth," Genitive Plural *-erum*). *Rubicessa*, "the Reddest," is the superlative-personification-erosion of *Rubicum*, "red" -- see *Sarissa*, and Grammar, Productive Markers, Characterization.
 - **Erta Rubicessa** -- "Mount Rubicessa", the main shield volcano upon whose slopes Remea was built.
 - **Lapiatris Ertelema** -- the Remean name for the Noble Element of Stone, "the one who manifests mountains." *Ertelema* compounds *Ertas* ("mountain") and *Eleme* ("to manifest"), personified directly -- see Grammar, Productive Markers, Characterization. *Lapiatris* itself is the reconstructed original; cf. the later calque Piatros.
-- **Lur** -- the Prophet, attested only obliquely, via the genitive *Luris* in the phrase *fidion Luris*, "the cult of Lur" (see *fidion*, below). Confirms Second Declension's nominative/genitive syncretism once more.
+- **Lur** -- the Prophet, attested only obliquely, via the genitive *Luris* in the phrase *fidion Luris*, "the cult of Lur" (see *fidion*, below).
 - **Maêra Ventia** -- the Remean name for Morwynt, Noble Element of Air. The personification of *Maêras* "lightning" and *Ventis* "wind" -- see Grammar, Productive Markers, Characterization.
 - **Remea** -- the mother-city itself.
 - **Seziona** -- "the Six (Noble Elements); the world; the cosmos". *Sez* ("six") + collective *-ion* = *Sezion*, "the group of six", personified into First Animate.
 - **Solia Eicristris** -- the Remean name for the Noble Element of Soil, "the one who creates life." *Solia* personifies *Solis*, "fertile earth" -- see Grammar, Productive Markers, Characterization. *Eicristris* is the *-(s)tris* agentive of *Eicrie* ("to create life," *Eia* + *Crie*). an otherwise unattested form.
-- **Valabuium** -- the cape region combining a harbor and a hillfort, back-formed to a singular *-ium* toponym (compare *Zaemarium*) from the regular descriptive phrase *statia vala buia*, "the stations between the currents" (*Statia*, "stations" + *Vala*, "between" + *Buia*, Acc. Pl. of *Buium*, "current"). Plural *Valabuia*, "the posts of Valabuium." The two settlements' eventual union gave rise to modern Balboa; the descent *Valabuium* → *Balboa* shows loss of the medial syllable and a shift of initial *V* to *B*.
+- **Valabuium** -- the cape region combining a harbor and a hillfort, back-formed to a singular *-ium* toponym (compare *Zaemarium*) from the regular descriptive phrase *statia vala buia*, "the stations between the currents" (*Statia*, "stations" + *Vala*, "between" + *Buia*, Acc. Pl. of *Buium*, "current"). The lexicalized form *Valabuia*, "the posts of the Valabuium," for the two settlements' eventual union gave rise to modern Balboa; the descent *Valabuia* → *Balboa* shows loss of the medial syllable and a shift of initial *V* to *B*.
 - **Zaemarium** -- "the Merhal," "the land beyond the sea" -- a toponym in the register of "Outremer." *Zae-* ("beyond") + *Mar-* (the root of *Maris*, "sea") + *-ium*.
 - **Zuabis, Azabis, Ilivia, Raesavis, Iovita, Cassis** -- personal names of properly Harmonized citizens of the metropolitan core, Long War era. *Zuabis* is very likely built on *Zuabin*, "blood" -- "the Bloody one; the sanguine one," a kenning-style name (see *Zuabin*, Nouns).
 
@@ -55,7 +55,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Abeicion, Abeicionis** -- inanimate: "wealth; chattels; estate" (the pastoral concept of owning livestock translating into a measure of wealth).
 - **Abestris, Abestritis** -- "owner".
 - **Abestrium, Abestriî** -- "ownership".
-- **Adivium, Adiviî** -- "grease" (fat, organic substance).
+- **Adivium, Adiviî** -- "grease; fat".
 - **Aer, Aerei** -- "air; gas," specifically static, ambient air, distinct from *Ventis*, air in motion. In a volcanic region prone to poisonous haze, *Aer* carries a real sense of danger that *Ventis* doesn't (see *Fluaer*). Survives as a loanword into later languages.
 - **Aifos, Aifoti** -- "soap."
 - **Aina, Ainae** -- "wife". The familiar in-group register for a married partner, contrasted with the formal *Aionaris*. In the Harmonized and ambigen Remean society, this term meant both husband and wife, but the female term is used in glossing.  
@@ -64,14 +64,15 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Aionaris, Aionaritis** -- "spouse". The outsider term for a married person's partner.
 - **Aistris, Aistritis** -- "lover" (*ai-* + agentive).
 - **Aistrium, Aistriî** -- "the act of loving; care".
-- **Aitis, Aititis** -- "beloved; darling".
+- **Aitis, Aititis** -- "beloved; darling; sweetie".
 - **Aium, Aiî** -- "love" (the emotion).
+- **Alacolis, Alacolitis** -- "great-awl; rapier; estoc". The long fencing weapon of true brass.
 - **Alax, Alacis** -- "awl; needle." Shares its root, *Ala-*, with *Alare*, "to sew."
 - **Alilan, Alilenis** -- "pin" (Fourth Declension, bare *-n*). Diminutive of *Alax*, "awl; needle" -- "little awl".
 - **Alium, Aliî** -- "oil."
 - **Allapium, Allapiî** -- "lava", specifically the molten rock held in the cauldron.
 - **Allapton, Allaptonis** -- "volcanic cauldron".
-- **Alvis, Alvitis** -- "an Alvai," Remean calque of the Kin's endonym built directly on *Alvu*, "White" -- fitting, considering the fact that Reme encountered the Kins of Sun and Moon first, which tend to run fair-haired and even silvery on occasion in contrast to the dark hair of the Remeans. *Alva*, the highest-tier reverence version, is rare but independently attested, likely a coinage of the late Remean Era after the Moonkin under Badhighal had repelled the legions from the slopes of the Lupines.
+- **Alvis, Alvitis** -- "an Alvai," Remean calque of the Kin's endonym built directly on *Alvu*, "White" -- fitting, considering the fact that Reme encountered the Kins of Sun and Moon first, which tend to run fair-haired and even silvery on occasion in contrast to the dark hair of the Remeans. *Alva*, the highest-tier reverence version, is rare but independently attested, likely a coinage of the late Remean Era after the Moonkin under Badhiga had repelled the legions from the slopes of the Lupines.
 - **Alvix, Alvissis** -- "belly" (lower part of body, abdomen). Animate on visible internal vitality rather than active expression -- shifting organs, digestion, and pregnancy all go on inside it, and belching and belly-grumbles are its own outward signs of that ongoing activity.
 - **Alvu, Alvû** -- "the color white" (noun). Cf. *Alvicum* (adjective) and *Alvis* (the Alvai ethnonym).
 - **Amas, Amati** -- "rain" (noun).
@@ -83,7 +84,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Arca, Arcae** -- "bow" -- both the weapon category and its basic form.
 - **Arcola, Arcolae** -- "giant-bow". The attested belly-bow, a cousin of the real-world gastraphetes, usable only by a Shaped legionary. Augmentative of *Arca*, infix *-ol-*.
 - **Aris, Aritis** -- "doer; agent; active party" -- *are*'s own irregular agentive, standing alone with no noun attached.
-- **Aristrium, Aristriî** -- "action."
+- **Aristrium, Aristriî** -- "action".
 - **Arva, Arvae** -- the neutral-register kinship term for the bearing-parent role. *Avva* and *Abba* are eroded forms of the same word, worn down through informal and childhood/endearment use respectively.
 - **Arvila, Arvilae** -- "aunt" -- the bearing-parent's sibling, treated kinship-wise as a parent. Diminutive of *Arva*, "little/dear Arva" (infix *-il-*), in its endearment sense. Also does double duty as a more neutral third-person form of address, extended to an older woman of no blood relation -- much as English "auntie" is used for a family term stretched to a stranger.
 - **Arvola, Arvolae** -- augmentative of Arva, "great mother; matriarch; head of the family" (infix *-ol-*).
@@ -103,8 +104,10 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Baris, Baritis** -- "fox."
 - **Belana, Belanae** -- one of the three named moons. Namesake of the Belanar calendar.
 - **Belaninas, Belaninati** -- "Belanar pass". A calendrical period reckoned by that moon, on the same pattern as *Eminas*, below.
+- **Belanion, Belanionis** -- "galley; sexaginty." The root here is *belan* "60" rather than the moon, refering to the standard crew size of the Remean galleys that then lent its name to a tactical unit of 60 legionaries.
 - **Belenos, Belenoti** -- "season."
 - **Benicas, Benicati** -- "kindness."
+- **Biabelanion, Biabelanionis** -- "double-galley." The standard of the Remean navy, a monoreme galley of three rowers per oar on forty oars.
 - **Bracimen, Braciminis** -- "bronze."
 - **Branilis, Branilitis** -- "calf; heifer."
 - **Branimarix, Branimarissis** -- "female cow" (specifically). *Bran-* + linking *-i-* + *Marix* ("dam") -- exemplary of the general breeding-pair compounding pattern (species root + *-i-* + *Marix*/*Massix*).
@@ -116,12 +119,13 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Calertix, Calertissis** -- "volcano."
 - **Canis, Canitis** -- "dog". Grammatically animate: dogs clear the behavioral-complexity bar that lice and fish don't.
 - **Capilium, Capiliî** -- "hat; cap." Literally "little head-thing" -- *Cap-* (the root of *Capis*) + diminutive *-il-* + *-ium*. Shifts to First Declension inanimate rather than preserving *Capis*'s Second Declension animate, the same way *Nexilum* does against *Nexos* -- the diminutive here names an artifact resembling the base noun rather than a smaller instance of the same referent, and that distinction seems to be what licenses the declension shift.
-- **Capis, Capitis** -- "head" (anatomic). Animate not by personhood, behavioral complexity, or precaution, but because the head carries outsized weight in communication and the visible expression of will -- see *Vis* ("eye") for the parallel case, and the animacy note under Grammatical Structure. Cf. *Capolis* ("dome; cupola," the regular augmentative) and, further, *Capitolium* -- see both, below.
+- **Capis, Capitis** -- "head" (anatomic). Animate not by personhood, behavioral complexity, or precaution, but because the head carries outsized weight in communication and the visible expression of will -- see *Vis* ("eye") for the parallel case, and the animacy note under Grammatical Structure.
 - **Capitoleton, Capitoletonis** -- "council hall; (physical) seat of government". *Capitol-* (the root of *Capitolium*) + epenthetic *-e-* + place-of *-ton* -- the same pattern as *Legeton* and *Fideton*.
-- **Capitolina, Capitolinae** -- "councilor; magistrate," from *Capitolium* ("council; government") plus the noun-to-animate-agent marker *-na* (see Productive Markers). Plural *Capitolinae*, "the Capitolinae," the collective magistral body.
-- **Capitolium, Capitoliî** -- "council; government," the inanimate institution; cf. *Capitolina*. Analyzable as *Capis* ("head") + a linking *-t-* + the augmentative infix *-ol-* + the First Inanimate *-ium* -- literally "the great head," the augmented, collective seat of authority. Its own root, *Capitol-*, is the basis of *Capitoleton*, "council hall" -- see below.
+- **Capitolina, Capitolinae** -- "councilor; magistrate," from *Capitolium* ("council; government") plus the noun-to-animate-agent marker *-na* (see Productive Markers).
+- **Capitolion, Capitolionis** -- "the magistracy," as the people making up the ruling class. No inanimate form is attested, which seems to have been taken wholly by *Capitolium*, below. 
+- **Capitolium, Capitoliî** -- "council; government," the inanimate institution; cf. *Capitolina*. Analyzable as *Capis* ("head") + a linking *-t-* + the augmentative infix *-ol-* + the First Inanimate *-ium* -- literally "the great head," the augmented, collective seat of authority.
 - **Capolicas, Capolicati** -- "arrogance." Quality-noun of *Capolicum*, "-um" replaced with "-as."
-- **Capolium, Capoliî** -- "dome; cupola." The reading is architectural, a big-head shape read onto a roofline.
+- **Capolium, Capoliî** -- "dome; cupola."
 - **Cautium, Cautiî** -- "hole; ditch; furrow"
 - **Cavolitium, Cavolitiî** -- "cave; cavern."
 - **Cifluan, Cifluenis** -- "smooth, ropy, unbroken flowing lava".
@@ -133,18 +137,18 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Cimmas, Cimmati** -- "ash-fall".
 - **Cinos, Cinoti** -- "ash(es)".
 - **Coduax, Coduacis** -- "tail".
-- **Collegina, Colleginae** -- "co-worker; compatriot".
+- **Collegina, Colleginae** -- "co-worker; compatriot" (*Collegion*, in its institutional sense, + the animate-agent marker *-na*).
 - **Collegion, Collegionis** -- animate: "the group working together; colleagues" (the people). *College* ("to work together") + collective *-ion*.
 - **Collegion, Collegionis** -- inanimate: "a governing body" (the institution) -- a governing body under the old Capitolinae. Survives as a loanword into later languages.
 - **Collegion formatrium** -- "collegiate of the Shapers" or "collegiate of Shaping." Ambiguous between First Inanimate nominative singular and Second Animate genitive plural -- see *Formatrium*, below, for the fuller analysis.
 - **Comilos, Comiloti** -- "comb." Diminutive of *Comare*'s own root, *Coma-* ("rake") -- "little rake." Underlies *Comilare*, "to comb."
-- **Corium, Coriî** -- "heart" -- not treated under the active-expression animacy criterion; a heart, unlike the tongue or hand, doesn't outwardly express anything.
+- **Corium, Coriî** -- "heart" -- not treated under the active-expression animacy criterion; a heart, unlike the tongue or hand, doesn't outwardly express anything, and the Remeans seem to have conceptually placed a person's lifeforce in the gut and head instead of the heart.
 - **Corvicilium, Corviciliî** -- "necklace; gorget; torq." Diminutive of *Corvos*, "neck" -- "little neck-thing."
 - **Corvos, Corvoti** -- "neck".
-- **Crians, Criante** -- "product; creation; result".
+- **Crians, Criante** -- "product; creation; result". *Cri-* + epenthetic *-a-* + product-of *-ns*, the same Class C epenthesis as *Magians*.
 - **Crinolium, Crinoliî** -- "fur; pelt." Augmentative of *Crinum*, preserving declension exactly like *Arva → Arvola* -- "big/extended hair," an animal's full coat rather than human head-hair.
 - **Crinum, Crinî** -- "hair" (on head of humans).
-- **Cristrium, Cristriî** -- "production; process".
+- **Cristrium, Cristriî** -- "production; process". *Cri- + s + trium*, the front vowel *-i-* triggering the *-s-* allomorphy, the same pattern as *Fidestrium* and *Aistrium*.
 - **Cubesaton, Cubesatonis** -- "territory" (Fourth Declension, inanimate). Literally "the place that is being ruled" -- *Cubesare* (the Affective of *Cubere*, "to rule") + *-ton*, the *-r-* eliding before the consonant-initial suffix.
 - **Cuneium, Cuneiî** -- "wedge". See *Anabis Cuneia* (Proper Names) for the personified epithet built on the same root.
 - **Dabis, Dabitis** -- "eater" (agentive). *Dab-* (the root of *Dabe*, "to eat") + *-is*. Underlies *Volidabis*, "elephant."
@@ -154,6 +158,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Dentolas, Dentolati** -- "molar." Augmentative of *Dentas*, "big tooth."
 - **Descitrax, Descitracis** -- "equinox."
 - **Dias, Diati** -- "day".
+- **Dinamium, Dinamiî** -- "impeller; stone-lance." A class of Remean siege weapon that worked on aetheric principles, accelerating a slug along a trough through direct modulation of Motility, activated through rhythmic triggering of successive stage. These went from small devices using two strikers to massive anti-siege installations utilizing several squads. Outsider sources often referred to these as stone-lances, a gloss also provided here.
 - **Dirium, Diriî** -- "glory."
 - **Dômen, Dôminis** -- "bronze".
 - **Dromix, Dromissis** -- "camel."
@@ -179,14 +184,16 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Eminas, Eminati** -- "Aureal month". *Em-* (the root of *Emis*) + *-inum* "relating to the Moon" + *-as* "quality of relating to the Moon", same pattern as _Ellanas_. Reckoned by *Aurea*, implicitly the primary moon for calendrical purposes.
 - **Enta, Entae** -- "older sibling". Affectionate *Enna* (*-nt- → -nn-*, the general kinship-gemination pattern).
 - **Eoloressium, Eoloressiî** -- "greed". Cf. *Eoloressicum*, "greedy" -- see Adjectives.
-- **Erau, Eravu** -- "choice"
-- **Ertas, Ertati** -- "mountain" (not hill). Very likely the toponymic root behind *Ertra*, the continent already established elsewhere in the lore.
-- **Ertium, Ertiî** -- "the top; the thing at the height".
+- **Erau, Eravu** -- "choice."
+- **Erimen, Eriminis** -- "brass." Specifically the "true brass" from purified zinc, the secret of which was a monopoly of Reme. Cemented brass was known as *erimen aracum* or "unrefined brass."
+- **Ertas, Ertati** -- "mountain" (not hill). Very likely the toponymic root behind *Ertra*.
+- **Ertium, Ertiî** -- "summit; top; the thing at the height".
 - **Erx, Ercis** -- "dust."
 - **Esmium, Esmiî** -- "feeling" (First Declension inanimate). *Esm-* (the root of *Esme*, "to feel") + *-ium*. Underlies *Esmicum* and, further, *Tenesmicum* -- see Adjectives.
 - **Essix, Essissis** -- "donkey."
 - **Esterdinium, Esterdiniî** -- "firmament; night-sky"
 - **Esternovas, Esternovati** -- "foolishness." Quality-noun of *Esternovum*, "-um" replaced with "-as."
+- **Estertoton, Estertotonis** -- "trireme; prime cohort." A double-strength cohort of 720 soldiers, necessary to crew the empire's line triremes that outperformed Anish sixes and sevens for centuries.
 - **Falvu, Falvû** -- "the color yellow" (noun). Cf. *Falvicum*, the adjective.
 - **Fidens, Fidente** -- "belief; dogma" (*fid-* + epenthetic *-e-* + *-nt*).
 - **Fidestrina, Fidestrinae** -- "cleric" (*Fidestrium* + the animate-agent marker *-na*).
@@ -196,7 +203,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Fidion, Fidionis** -- animate: "the congregation" (the assembled believers). *Fid-* + collective *-ion*, "the group who believes."
 - **Fidion, Fidionis** -- inanimate: "cult; church" (the institution; the faith itself). Attested in the phrase *fidion Luris*, "the cult of Lur."
 - **Finautas, Finautati** -- "rope; braid; plait." Plausibly the quality-noun of an implied resultative *\*Finautum*, "twisted," built on *Finave*.
-- **Finilans, Finilante** -- "thread." *Finau-* ("to spin") + diminutive *-il-* + product-of *-ans* -- "the little spun thing," the thin counterpart to *Finautas*, "rope." A heavy vowel elision of expected but unattested *\*Finavilans*. 
+- **Finilans, Finilante** -- "thread." *Finau-* ("to spin") + diminutive *-il-* + product-of *-ans* -- "the little spun thing," the thin counterpart to *Finautas*, "rope." A heavy vowel elision of expected but unattested *\*Finauvilans*. 
 - **Firda, Firdae** -- "horse."
 - **Firdix, Firdissis** -- "mule." Shares its root, *Fird-*, with *Firda* -- fitting, given a mule is a horse cross.
 - **Fisicas, Fisicati** -- "cruelty." Quality-noun of *Fisicum*, "-um" replaced with "-as."
@@ -210,12 +217,13 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Fluvium, Fluviî** -- "(standing) water; well; pond".
 - **Fonta, Fontae** -- the neutral-register kinship term for the engendering-parent role. *Fonna* and *Bonna* are eroded forms of the same word, worn down through informal and childhood/endearment use respectively.
 - **Fontax, Fontacis** -- "root" (botanical). Shares its root, *Font-*, directly with *Fonta* -- the same wellspring/source concept split across declensions, animate for the kinship sense and inanimate (Third Declension) for the botanical one.
-- **Formans, Formante** -- "shape".
-- **Formatrium, Formatriî** -- "the act of shaping."
+- **Formans, Formante** -- "shape" (*forma-* + product-of *-ns*, no epenthesis needed on the vowel-final stem).
+- **Formatrium, Formatriî** -- "the act of shaping." Analyzed as the same agentive formant seen in *formatris* ("-tr-"), declined inanimate (*-ium*) rather than animate (*-is*) -- see *-(s)trium* under Productive Markers.
 - **Frigis, Frigitis** -- "ice; cold" (the elemental force). Animate on cosmological/elemental grounds, like *Ella*/*Fluis*/*Ventis*/*Ignis*/*Lapis*/*Solis* -- see the animacy note under Grammatical Structure.
 - **Fumen, Fuminis** -- "incense; frankincense." Likely related to *Fumex* "smoke".
 - **Fumex, Fumecis** -- "smoke" (noun, of fire).
 - **Furvas, Furvati** -- "tremor; earthquake".
+- Furux, Furucis -- "siege impeller." Literal gloss would be "earth-shaker".
 - **Fusos, Fusoti** -- "spindle; spool."
 - **Galex, Galecis** -- "helmet."
 - **Gallix, Gallissis** -- "chicken."
@@ -230,7 +238,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Gredix, Gredissis** -- "vermin; mouse, rat; rodent."
 - **Grîfa, Grîfae** -- "giant gryph". Originally specifically the Giant Fishtail gryph, apex predator of the Ertran shores (see _Pescoladabis_), extended to all large members of the gryph clade. Survives as a loanword into later usage, giving the modern clade-wide term "gryph."
 - **Grîfilis, Grîfilitis** -- "gryph" -- the ordinary members of the clade, and the general clade-wide term itself.
-- **Ignans, Ignante** -- "embers". *Ign-* + product-of *-ns*, "the product of fire".
+- **Ignans, Ignante** -- "embers". *Ign-* + product-of *-ns*, "the product of fire" -- the same derivation pattern as *Formans* and *Fidens*, and directly related to *Igne*, "to burn" (Verbs).
 - **Ignis, Ignitis** -- "Fire" (the elemental force). Animate on cosmological/elemental grounds, see the animacy note under Grammatical Structure.
 - **Ignium, Igniî** -- "flame; fire" (the mundane natural force).
 - **Igniton, Ignitonis** -- "hearth; firepit; brazier".
@@ -238,7 +246,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Irmis, Irmitis** -- "snake."
 - **Iscos, Iscoti** -- "liver".
 - **Langea, Langeae** -- one of the three named moons. See *Emis*.
-- **Lapis, Lapitis** -- "(precious) stone" (the elemental force, distinct from ordinary rock). Animate on cosmological/elemental grounds, like *Ella*/*Fluis*/*Ventis*/*Ignis* -- see the animacy note under Grammatical Structure. Deliberately shortened from an earlier *Lapidis* to mesh with *Lapiatris*, the Remean name for the Noble Element of Stone.
+- **Lapis, Lapitis** -- "Stone" (the elemental force, distinct from ordinary rock). Animate on cosmological/elemental grounds, like *Ella*/*Fluis*/*Ventis*/*Ignis* -- see the animacy note under Grammatical Structure..
 - **Lapitium, Lapitiî** -- "jewel; gem." *Lapit-* + *-ium* -- a worked, crafted object.
 - **Lapium, Lapiî** -- "stone; rock; ore" (the mundane substance).
 - **Latiaris, Latiaritis** -- "tailor."
@@ -298,7 +306,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Nexolos, Nexoloti** -- "swordbelt; baldric."
 - **Nexos, Nexoti** -- "belt; girdle." Root *Nex-*, also seen in *Nexare*, "to tie."
 - **Nin, Ninis** -- "nose".
-- **Ninos, Ninoti** -- "smell; odor." *Nin* ("nose") + *-os*, the plain, unmarked term against *Nium*'s more evocative sense.
+- **Ninos, Ninoti** -- "smell; odor." *Nin* ("nose") + *-os*, the plain, unmarked term against *Ninium*'s more evocative sense.
 - **Ninium, Niniî** -- "aroma; scent." The evocative/characterful term, contrasted with *Ninos*, the flat, clinical one.
 - **Nivi, Lapidi, Soli, Igni, Venti, Mari** -- the six days of the Auralian week (Snow, Stone, Soil, Flame, Wind, Sea), each a lexicalized, indeclinable noun.
 - **Nivium** -- "snow; snowflake".
@@ -338,10 +346,10 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Porras, Porrati** -- "distance; periphery; hinterland."
 - **Quenis, Quenitis** -- "pig."
 - **Querium, Queriî** -- "ease; peace; calm; serenity."
-- **Quinavium, Quinaviî** -- "five-bank galley; polyreme".
 - **Raccabbas, Raccabbati** -- "thunder." Likely onomatopoeic.
 - **Rasata, Rasatae** -- "lion." Possibly calqued from "Rasha-Tarô" via contact with the Alvai of the Sunkin.
 - **Redêcans, Redêcanti** -- "folly." *Re-* + *Dêce* ("to think") -- "un-thinking," the same base *\*Redêce* also underlies *Redêcicum*, "unwise." *\*Redêce* itself is unattested independently, inferable only from these two derived words.
+- **Relemium, Relemiî** -- "center-line impeller." The "destructor" was a ship-sized impeller aboard the empire's war-galleys, capable of tremendous destruction. 
 - **Renexos, Renexoti** -- "breeches; trousers; skirt" -- literally "that which is worn below the belt." *Re-* ("down; below") + *Nexos* ("belt").
 - **Revidium, Revidiî** -- "mirror." *Re-* ("back") + *Vid-* (the root of *Vidare*, "to see") + *-ium* -- "the thing that sees back."
 - **Rissicrinum, Rissicrinî** -- "wool." *Rix*'s own oblique stem, *Rissi-* (the *-ss-* infix, as in the Genitive *Rissis*), + *Crinum* ("hair") -- "hair of the sheep," rather than *Crinolium* ("fur"), likely reflecting the difference in use: wool as spun and woven strands sits closer to human-style hair than to a pelt. Inherits *Crinum*'s own irregular bare *-um* rather than the regular *-ium*.
@@ -373,8 +381,12 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Silaper, Silaperei** -- "rubble; gravel".
 - **Sinquimen, Sinquiminis** -- "zinc".
 - **Solens, Solense** -- "plant; sprout; shoot." *Sol-* (the root of *Sole*, "to grow; to flower") + epenthetic *-e-* + product-of *-ns* -- "the product of growing."
-- **Solis, Solitis** -- "(fertile) earth; topsoil" (the elemental force, distinct from ordinary ground). Animate on cosmological/elemental grounds, like *Ella*/*Fluis*/*Ventis*/*Ignis*/*Lapis*/*Maris* -- see the animacy note under Grammatical Structure.
+- **Solis, Solitis** -- "Soil" (the elemental force, distinct from ordinary ground). Animate on cosmological/elemental grounds, like *Ella*/*Fluis*/*Ventis*/*Ignis*/*Lapis*/*Maris* -- see the animacy note under Grammatical Structure.
+- **Solium, Soliî** -- "(fertile) earth; topsoil", the natural earth and soil.
 - **Sons, Sonte** -- "sound; noise."
+- **Spiracion, Spiracionis** -- "squad; a group of legionaries," the usually twelve soldiers that formed the smallest military group in the empire. The neutral sense of "group of rowers" is fully lost in this military term. 
+- **Spirastris, Spirastritis** -- "rower; oarsman."
+- **Spirax, Spiracis** -- "oar."
 - **Spunix, Spunissis** -- "hemp" (the plant).
 - **Statium, Statiî** -- "post; station; fortified settlement".
 - **Suatra, Suatrae** -- "sword".
@@ -388,6 +400,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Tôen, Tôenis** -- "clay"
 - **Tonium, Toniî** -- "brick"
 - **Torix, Torissis** -- "duck."
+- **Toton, Totonis** -- "bireme; cohort." A double-bank galley, three rowers to an oar with two levels of 30 oars each to a side. The 360 soldiers thus crewing a bireme formed a military cohort in the legion. 
 - **Trax, Tracis** -- "length."
 - **Ulis, Ulitis** -- "wolf."
 - **Umbium, Umbiî** -- "counter; counting-device." *Umbi-* (the root of *Umbiare*, "to count") + *-ium*. Underlies *Secumbium*, "clock" -- see below.
@@ -397,7 +410,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Valertas, Valertati** -- "valley."
 - **Venans, Venante** -- "arrival".
 - **Ventanas, Ventanati** -- "weather."
-- **Ventis, Ventitis** -- "wind" (air in motion, distinct from static *Aer*). Animate on cosmological/elemental grounds, like *Ella*/*Fluis* -- see the animacy note under Grammatical Structure.
+- **Ventis, Ventitis** -- "Wind" (air in motion, distinct from static *Aer*). Animate on cosmological/elemental grounds, like *Ella*/*Fluis* -- see the animacy note under Grammatical Structure.
 - **Verans, Verante** -- "fact."
 - **Verium, Veriî** -- "truth". *Ver-* (the root of *Verare*, "to know") + *-ium*, "the thing known."
 - **Veru, Verû** -- "the color green" (noun). Cf. *Vericum*, the adjective.
@@ -413,8 +426,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Volium, Voliî** -- "leaf" (botanics).
 - **Vonix, Vonissis** -- "bird".
 - **Zaelatium, Zaelatiî** -- "cloak; coat." *Zae-* ("beyond") + *Latium* ("clothing") -- "over-clothes," an outer garment worn atop everything else.
-- **Zaenata, Zaenatae** -- "grandchild." *Zae-* ("beyond") + *Nata* ("child") -- extending past the child's own generation.
-- **Zaren, Zarinis** -- "sand".
+- **Zaenata, Zaenatae** -- "grandchild." *Zae-* ("beyond") + *Nata* ("child") -- extending past the own child's generation.
 - **Zarx, Zarcis** -- "flesh" (meat, flesh).
 - **Zuabin, Zuabinis** -- "blood".
 - **Zuaretas, Zuaretati** -- "bravery; courage."
@@ -433,7 +445,7 @@ Each number has three distinct forms: an abstract citation form for the number-c
 - **Bia** / **Biavum** / **Biacum** -- 2 / two / second.
 - **Trae** / **Traevium** / **Traecum** -- 3 / three / third.
 - **Catra** / **Catrium** / **Catricum** -- 4 / four / fourth.
-- **Quin** / **Quinum** / **Quincum** -- 5 / five / fifth. Cf. *Quiner*, above.
+- **Quin** / **Quinum** / **Quincum** -- 5 / five / fifth.
 - **Sez** / **Sezum** / **Sezicum** -- 6 / six / sixth.
 - **Zeben** / **Zebium** / **Zebicum** -- 7 / seven / seventh.
 - **Octra** / **Octrium** / **Octricum** -- 8 / eight / eighth.
@@ -481,11 +493,11 @@ Adjectives take a dedicated citation-form marker, *-um*, distinct from the ordin
 - **Ellanum** -- "solar; relating to the sun." *Ell-* (the root of *Ella*) + *-anum*. Cf. *Ellanas*, "year" -- see Nouns.
 - **Ellitum** -- "light" (in color).
 - **Ellum** -- "bright." Root *Ell-*, the same root as *Ella*, "sun."
-- **Embiavum** -- "ambigen; androgyn; hermaphroditic." *Em-* + *Biavum* (the adnominal "two") -- "the two-having one." A dignified descriptor for the Harmonized citizenry's converged nature that makes no reference to Shaping at all, in contrast to *Modisarion*/*Modisarentis*.
+- **Embiavum** -- "ambigen; androgyn; hermaphroditic." *Em-* + *Biavum* (the adnominal "two") -- "the two-having one." A dignified descriptor for the Harmonized citizenry's converged nature.
 - **Eoloressicum** -- "greedy". Cf. *Eoloressium*, "greed" -- see Nouns.
 - **Ertanum** -- "high." *Ert-* (the root of *Ertas*) + *-anum*, the same derivation as *Ellanum* from *Ella*.
 - **Esmicum** -- "sensitive."
-- **Esternovum** -- "foolish". *Ester-* (intensive) + *Novum* ("new") -- "much too new," lacking experience. Cf. *Esternovas*, "foolishness."
+- **Esternovum** -- "foolish". *Ester-* (intensive) + *Novum* ("new") -- "much too new," ie, lacking experience. Cf. *Esternovas*, "foolishness."
 - **Falvicum** -- "yellow." From *Falvu* ("the color yellow") + *-icum*, same vowel-elision pattern.
 - **Femilum** -- "female." Diminutive (infix *-il-*) of an unattested plain *Femum*. Used of breeding animals.
 - **Fisicum** -- "cruel". *Fis-* (the root of *Fisum*) + *-icum*. Cf. *Fisicas*, "cruelty."
@@ -500,10 +512,10 @@ Adjectives take a dedicated citation-form marker, *-um*, distinct from the ordin
 - **Legerum** -- "aggressive; combative" (*leg-* + epenthetic *-e-* + tendency *-rum*).
 - **Legionaranum** -- "relating to legionaries" (*legionar-* + *-anum*).
 - **Legionaricum** -- "like a legionary" (*legionar-*, the root of *legionaris*, + *-icum*).
-- **Limicum** -- "sour (natural sourness: fruit); tangy; tart." *Lim-* (the root of *Limos*, "citrus") + *-icum*.
+- **Limicum** -- "sour (natural sourness: fruit); tangy; tart." Cf. *Limos*, "citrus."
 - **Lubum** -- "soft."
 - **Magicum** -- "learned; knowledgeable". *Magi-* (the root of *Magium*) + *-icum*. Cf. *Magicas*, "knowledgeability; sophistication."
-- **Mascilum** -- "male." Diminutive (infix *-il-*) of an unattested plain *Mascum*. Used of animals.
+- **Mascilum** -- "male." Possibly the diminutive (infix *-il-*) of an unattested plain *Mascum*, but cf. *Mascix* "sire; breeding male."
 - **Midicum** -- "blue."
 - **Miduranum** -- "pertaining to flax." *Midur-* + *-anum*, the same relational-adjective derivation as *Ellanum*. Attested in *alium miduranum*, "linseed oil."
 - **Miduricum** -- "made of linen." *Midur-* (the same alternate stem) + *-icum*.
@@ -514,7 +526,7 @@ Adjectives take a dedicated citation-form marker, *-um*, distinct from the ordin
 - **Necum** -- "no; none."
 - **Niavum** -- "sweet."
 - **Novum** -- "new" (inanimate agreement). Animate agreement, *Novis*, glosses as "young" instead: "lacking age" reads as *new* for an object and *young* for a living being.
-- **Octatricum** -- "victorious." *Octatr-* (the root of *Octatris*) + *-icum*. Cf. *Octatricas*, "victory."
+- **Octatricum** -- "victorious." *Octatr-* (the root of *Octatris*) + *-icum*.
 - **Olectum** -- "malodorous." Lexicalized resultative of *Olecare* ("to stink") -- the regular form would predict *\*Olecatum*.
 - **Ormietum** -- "asleep; resting."
 - **Pecolum** -- "heavy."
@@ -526,7 +538,7 @@ Adjectives take a dedicated citation-form marker, *-um*, distinct from the ordin
 - **Quesum** -- "each; every" (distributive, contrasted with the collective *Totum* and the mass quantifier *Polium*).
 - **Redêcicum** -- "unwise". *Redêc-* (the root of the unattested *\*Redêce*, "to un-think") + *-icum*. Cf. *Redêcans*, "folly" -- see Nouns.
 - **Remeanum** -- "Remean; relating to Remea." *Reme-* + *-anum*, root left fully intact.
-- **Resuatum** -- "dull" (an edge lost). *Re-* ("reversal") + *Suatum* ("sharp") -- "un-sharp." The first attested prefix-onto-adjective compound, distinct from the established prefix-onto-verb and prefix-onto-noun patterns.
+- **Resuatum** -- "dull" (an edge lost). *Re-* ("reversal") + *Suatum* ("sharp") -- "un-sharp."
 - **Rissicrinicum** -- "woollen." *Rissicrin-* (the root of *Rissicrinum*) + *-icum*.
 - **Ruccarum** -- "generous."
 - **Ruquum** -- "round."
@@ -537,10 +549,10 @@ Adjectives take a dedicated citation-form marker, *-um*, distinct from the ordin
 - **Senum** -- "old."
 - **Sicum** -- "dry" (substance).
 - **Situm** -- "light" (in weight).
-- **Sontolum** -- "loud; blaring; noisy." Augmentative of *Sons* ("sound"), revealing its true root *Sont-* -- see Nouns.
-- **Spunicum** -- "hempen." *Spuni-* (the root of *Spunix*) + *-cum*, the doubled *-i-* simplifying to one.
+- **Sontolum** -- "loud; blaring; noisy."
+- **Spunicum** -- "hempen." *Spunic-* (the root of *Spunix*) + *-cum*, the doubled *-c-* simplifying to one.
 - **Stadum** -- "upright; vertical; tall." Cf. *Stadare*, "to stand," via the causative.
-- **Suanexilicum** -- "unmarried" (usually animate agreement only, since this describes a person). *Sua-* (negation) + *Nexil-* (the root of *Nexilium*, "sash") + *-icum* -- "not [yet configured for] the sash," referencing the marital-status distinction *Nexilum* itself marks.
+- **Suanexilicum** -- "unmarried" (usually animate agreement only, since this describes a person). *Sua-* (negation) + *Nexil-* (the root of *Nexilium*, "sash") + *-icum* -- "not sashed," referencing the marital-status distinction that wearing the *Nexilium* itself marks.
 - **Suatum** -- "sharp."
 - **Sueium** -- "barren"
 - **Tenesmicum** -- "humble". *Ten-* ("small") + *Esmicum* ("having the quality of feeling") -- "small-feeling." Cf. *Tenesmicas*, "humility."
@@ -587,11 +599,11 @@ The productive class is formed by replacing an adjective's *-um* with the invari
 
 - **Alanis** -- "someone else".
 - **Alis** -- "someone". *Alum* ("some") + *-is*.
-- Cêr -- "who", the interrogative pronoun.
+- **Cêr** -- "who", the interrogative pronoun.
 - **Descis** -- "the same one; the aforementioned one". *Descum* ("same") + *-is*.
 - **Ilês** -- "some people" (*plurale tantum*). *Ilum* ("several") + *-ês*, no singular, the same pattern as *Omnês*.
 - **Mea** -- first person.
-- **Nix** -- "no one". *Necum* ("no; none") + root *Nec-* + the Third Declension *-ix*, simplified from the expected *Necix*.
+- **Nix** -- "no one". *Nec-* (root of *Necum* "no; none") + the Third Declension *-ix*, simplified from the expected *Necix*.
 - **Omnês** -- "everyone," a rare plural-only (*plurale tantum*) Second Animate form -- no singular exists, since the sense itself has none.
 - **Polês** -- "many people" (*plurale tantum*). *Polium*'s root, *Poli-*, plus *-ês*, with the *-i-* contracting before the ending -- the same pattern as *Ilês*/*Omnês*.
 - **Quesis** -- "each one; every one". *Quesum* ("each; every") + *-is* -- contrasted with the collective *Omnês*, "everyone."
@@ -613,7 +625,7 @@ The productive class is formed by replacing an adjective's *-um* with the invari
 - **Nectrê** -- "none of that!" A heavily contracted form of *Necum têrei*, "none of that (behavior of yours)," .
 - **Nenu** -- polar-question particle, *Ne* + *Nu* contracted, posing a negated question and expecting a negative-confirming answer -- see Grammar, Questions and Answers.
 - **Nu** -- neutral polar-question particle, no expectation either way -- see Grammar, Questions and Answers.
-- **Quer** -- modal particle, explicit permission in an imperative, "feel free to" -- see Grammar, Modal Particles and Conjunctions. Lexicalized from *Quericum* ("peaceful, calm") as permission-granting.
+- **Quer** -- modal particle, explicit permission in an imperative, "be at ease; feel free" -- see Grammar, Modal Particles and Conjunctions. Lexicalized from *Quericum* ("peaceful, calm") as permission-granting.
 - **Quovo** -- modal particle, reassurance, downplaying doubt, "it'll be fine" -- see Grammar, Modal Particles and Conjunctions.
 - **Scai** -- modal particle, high uncertainty or surprise. Sentence-final it often reinforces *nu/nenu/nam* in question formation, and in verb-fronted informal speech it can replace the question markers outright: "Veneri scai?". In exclamations it is a rhetorical tag ("really; indeed; after all") or, as a standalone, bare surprise ("What! How!").
 - **So** -- urgency or warning. Marks strong assertion and conviction -- correction, resolve, an expectation of compliance -- especially as sentence-final modal, such that even a verb in Plain form can feel like an informal imperative.
@@ -651,7 +663,7 @@ A closed set of clause- and phrase-level connectors -- see Grammar, Modal Partic
 - **Quem** -- "therefore."
 - **Ser** -- "or."
 - **Volo** -- "when" (subordinating).
-- **Zei** -- "if." Not built on bare *Si*, which is already the locative demonstrative "over there."
+- **Zei** -- "if."
 
 ### Prefixes
 
@@ -684,7 +696,7 @@ A set of prefixes on the same preverb-to-prefix cline that already produced *Cu*
 
 - **Bi-** -- "two-; twice-; doubled; again-" (repeated). Ties directly to *Bia*, "two."
 - **Poli-** -- "many-." Ties directly to *Polium*, "many."
-- **Un-** -- "one-; single-." Ties directly to *Un*, "one" -- notably the *opposite* of the negative sense "un-" carries in English and Latin, a divergence that falls directly out of Remean's own established grammar and vocabulary rather than being an oversight.
+- **Un-** -- "one-; single-." Ties directly to *Un*, "one" -- notably the *opposite* of the negative sense "un-" carries in English.
 
 ### Verbs
 
@@ -702,6 +714,7 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Aralare** (Class A) -- "to heat." Causative *-are* on *Aral-* (the root of *Aralum*, "hot").
 - **Arare** (Class A) -- "to give honor."
 - **Are** (irregular) -- "to do."
+- **Arve** (Class C) -- "to give birth to"
 - **Aste** (Class B) -- "to sparkle." Cf. *Astilium*, "star" -- root *Ast-* plus diminutive *-il-* plus *-ium*.
 - **Audifare** (Class A) -- "to tear down."
 - **Audvêle** (Class B) -- "to put away; to hide something." *Aut* + *Vêle* ("to put") -- *Aut*'s final *-t-* voices to *-d-* before *v*.
@@ -716,7 +729,7 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Care** (irregular) -- "to give."
 - **Catere** (Class A) -- "to earn"
 - **Cattare** (Class A) -- "to buy."
-- **Cau** (Class C) -- "to dig; to hollow out."
+- **Cave** (Class C) -- "to dig; to hollow out."
 - **Cidere** (Class A) -- "to kill."
 - **College** (Class B) -- "to work together." Cf. *Collegion*.
 - **Comare** (Class A) -- "to rake." Underlies *Comilos*, "comb" -- see Nouns.
@@ -734,11 +747,11 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Duce** (Class B) -- "to remain." *Duc-* (the root of *Duc*, "still; yet") + *-e* -- "to still-be," an adverb converted directly into a verb root.
 - **E** -- "to be" (fully irregular/suppletive). Potential *Eve*, "to be able to be"; Irrealis *Esse*, "were to be,".
 - **Êgradere** -- "to leave" (irregular, alongside *Cidere*/*Gradere* -- see Grammar, Conjugation). *Ê* ("out of") + *Gradere* ("to walk") -- "to walk out of."
-- **Eicare** -- "to give life" (irregular, inheriting *Care*'s own irregular conjugation). *Eia* ("life") + *Care* ("to give"), the shared vowel contracting -- a noun-incorporation compound, distinct from the preposition-plus-verb compounding of *Sûdêce*/*Cuvenare*. Underlies *Eicarestris*, the epithet of Solia (Proper Names).
+- **Eicare** -- "to give life" (irregular, inheriting *Care*'s own irregular conjugation).
 - **Eleme** (Class B) -- "to manifest; to embody." Cf. *Elemens*, *Elementis*.
 - **Ellare** (Class A) -- "to shine." Root *Ell-*, the same root as *Ella*, "sun," and *Ellum*, "bright."
-- **Emmorsie** (Class C) -- "to bite off; to tear away." *Em-* ("into") + *Morsie* ("to bite") -- "to bite into," extended to biting a piece free. *Em-*'s *-m* fully assimilates to the following *m*.
-- **Encubere** -- "to dominate; to take over" (irregular, inheriting *Cubere*'s own irregular conjugation). *En* ("into") + *Cubere* ("to rule") -- "to rule into," extended to ruling over.
+- **Emmorsie** (Class C) -- "to bite off; to tear away." *En-* ("into") + *Morsie* ("to bite") -- "to bite into," extended to biting a piece free.
+- **Encubere** -- "to dominate; to take over" (irregular, inheriting *Cubere*'s own irregular conjugation). *En* ("into") + *Cubere* ("to rule") here as extending one's rule into new territory.
 - **Endêce** (Class B) -- "to guess; to wonder."
 - **Endine** (Class B) -- "to animate; to activate"
 - **Enigne** (Class B) -- "to ignite."
@@ -749,7 +762,7 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Esterode** (Class B) -- "to blabber; to talk nonsense." *Ester-* (intensive) + *Ode* ("to say") -- "to over-say."
 - **Fide** (Class B) -- "to believe." Potential *Fidue*, "to be able to believe."
 - **Finave** (Class C) -- "to spin; to twist."
-- **Fluaere** (Class B) -- "to expel steam or smoke; to outgas"
+- **Fluaere** (Class B) -- "to expel steam or smoke; to outgas".
 - **Fluire** (Class A) -- "to gush; to stream".
 - **Fluve** (Class C) -- "to flow; to well up".
 - **Formare** (Class A) -- "to shape; to give form." Cf. *formatris*, *formatrium*, *formans*.
@@ -766,10 +779,10 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Latare** (Class A) -- "to wear; to put on." Underlies *Latium*, "clothing," and the resultative *Latatum*, "worn" -- see Nouns, Adjectives.
 - **Lecâre** (Class A) -- "to read."
 - **Lege** (Class B) -- "to fight." Cf. *legestris*, *legion*, *legeton*, *legerum*, and the whole legion word-family.
-- **Legionare** -- "to fight as a group" (*legion* + the *are*-light-verb).
+- **Legionare** (Class A) -- "to fight as a group" (*legion* + the *are*-light-verb).
 - **Magie** (Class C) -- "to teach." Cf. *magistris*, *magisarion*, *magiton*, *magians*.
-- **Manare** (Class A) -- "to take; to grasp." Denominal, built on *Mana*'s bare root *Man-* rather than the full inflected noun -- the verb-forming *-are* strips the noun's own case ending first.
-- **Manasse** (Class B) -- "to hold." Built on the same *Mana-* root as *Manare*, extended to the sustained sense with a geminate *-ss-*, distinguishing the ongoing state from *Manare*'s momentary action.
+- **Manare** (Class A) -- "to take; to grasp."
+- **Manasse** (Class B) -- "to hold." Built on the same root as *Manare*, extended to the sustained sense with a geminate *-ss-*, distinguishing the ongoing state from *Manare*'s momentary action.
 - **Manesme** (Class B) -- "to feel; to touch." *Man-* ("hand") incorporated into *Esme* ("to feel") -- "to hand-feel," narrowing to tactile touch specifically, distinct from *Esme*'s general sense.
 - **Modie** (Class C) -- "to harmonize; to bring into accord; to unify." Cf. *modisarion*, *modisarens*.
 - **More** (Class B) -- "to die."
@@ -797,7 +810,7 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Quopennare** (Class A) -- "to underwrite; to sign; to approve." *Quo* ("for; on behalf of") + *Pennare* ("to write") -- "to write on behalf of."
 - **Rebenare** (Class A) -- "to bungle; to blunder." *Re* ("reversal") + *Benare* ("to improve") -- "to make worse by trying to improve," an ironic backfire sense of reversal.
 - **Releme** (Class B) -- "to erase; to destroy."
-- **Ruccare** -- "to support someone; to succor someone" (irregular, inheriting *Care*'s own irregular conjugation). *Ruc* ("again, returning") + *Care* ("to give") -- "to give repeatedly"; not used for structural support. *Ruc*'s final consonant fully assimilates to the following *c*.
+- **Ruccare** -- "to support someone; to succor someone" (irregular, inheriting *Care*'s own irregular conjugation). *Ruc* ("again, returning") + *Care* ("to give") -- "to give repeatedly"; not used for structural support.
 - **Rucode** (Class B) -- "to repeat; to reiterate; to stress." *Ruc* + *Ode* ("to say") -- "to say again."
 - **Ruquare** (Class A) -- "to make round; to make go in circles." Causative *-are* on *Ruquum*, underlies the epithet *Ruquarestris* (Amaregis, Proper Names).
 - **Ruquenare** (Class A) -- "to return." *Ruc* ("again") + *Venare* ("to come") -- the *-c-*+*-v-* boundary cluster coalescing into *-qu-*.
@@ -808,6 +821,7 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Sede** (Class B) -- "to sit."
 - **Sicare** (Class A) -- "to make dry."
 - **Sole** (Class B) -- "to grow; to flower." Root *Sol-*, tying directly to *Solis*, "fertile earth."
+- **Spirare** (Class A) -- "to row."
 - **Stadare** (Class A) -- "to stand; to erect."
 - **Suafide** (Class B) -- "to disbelieve; to scorn; to discredit."
 - **Suaive** (Class B) -- "to deny." *Sua-* + *Eve* ("to be able," the Potential of *E-*) -- "to un-enable," the dissimilar vowels at the boundary merging into the diphthong *ai* rather than simplifying.
@@ -818,7 +832,7 @@ Citation (Plain) forms, serving as the model exemplars for each stem class -- se
 - **Tracare** (Class A) -- "to lengthen."
 - **Trare** (Class A) -- "to carry."
 - **Udie** (Class C) -- "to learn."
-- **Umbiare** (Class A) -- "to count." Visibly carries *Bia* ("two") within it, tying the verb back to the numeral system.
+- **Umbiare** (Class A) -- "to count." Visibly carries assimilated *Un* ("one") and *Bia* ("two") within it.
 - **Uspere** (Class B) -- "to suspect; to forebode."
 - **Uve** (Class C-u) -- "to be able to do." The suppletive Potential of *Are*, root *Uu-* -- see Grammar, Conjugation. Its own Affective, *Uvare*, is "to enable; to make able."
 - **Tôere** (Class A) -- "to form from clay; to make pottery; to mould". 
@@ -900,7 +914,7 @@ Personhood extends by undeniability of agency and will, a category reaching past
 
 #### Agreement
 
-**Adjectives, participles, comparatives, superlatives, and possessives all agree with the noun they modify in animacy as well as case and number.** However, agreement does not track the target's own specific declension. Any animate noun, whichever of the three animate declensions it belongs to, forces its attending adjectives into agreement in the Second Animate paradigm _-is_; any inanimate noun takesforces the First Inanimate paradigm _-um_, with its linking *-i-* dropped throughout (unlike the noun paradigm itself, which keeps it).
+**Adjectives, participles, comparatives, superlatives, and possessives all agree with the noun they modify in animacy as well as case and number.** However, agreement does not track the target's own specific declension. Any animate noun, whichever of the three animate declensions it belongs to, forces its attending adjectives into agreement in the Second Animate paradigm _-is_; any inanimate noun forces the First Inanimate paradigm _-um_, with its linking *-i-* dropped throughout (unlike the noun paradigm itself, which keeps it).
 
 **The copula itself also splits by animacy, the same way its modifiers do.** The irregular verb *e* ("to be") is used for animate referents; when the referent is inanimate, *sere* ("to exist," A-irregular, root *se-*) is used. The split carries through every derived use: conjecture via the Volitional works identically on the inanimate side, *Seri* standing in for *Eri* -- *Navium ema cissum seri*, "the ship is probably fast," against *Legionaris ema zuaretis eri*, "the legionary is probably brave."
 
@@ -1058,7 +1072,7 @@ The numbers one through twelve each show two forms, split by function: an abstra
 - **Exception**: *Quincum* elides despite *Quin* being consonant-final and needing no elision in its adnominal form (*Quinum*) -- a lexicalized irregularity, plausibly simply from being a very high-frequency ordinal.
 
 **Beyond twelve.** Remean counting is base-60 overall, with the duodecimal (base-12) set outlined above underneath. Past twelve, the system turns genuinely compositional, and does so in two distinct tiers with different rules:
-- **Thirteen through fifty-nine** build additively on *Zel* ("twelve"), with no connecting word -- thirteen is simply *Zelun* (*Zel + Un*, "twelve-one"), not *Zel-cu-un*. Adnominal and ordinal forms past twelve are fully regular: *-um*/*-icum* directly on the number root, eliding any vowels at the junction. The multiples of *Zel* below 60 elide *Zel*'s own initial *z-* and the multiplier's final vowel: *Bia* ("two") *+ Zel → Biel* (24); *Trae* ("three") *+ Zel → Trael* (36); *Catra* ("four") *+ Zel → Catrel* (48). An additive remainder attaches after a space: *Biel bia*, "twenty-six" (24 + 2) -- adnominal *Bielbium*, ordinal *Bielbicum*, both fully fused with no space, as per the rule that adnominal/ordinal forms elide .
+- **Thirteen through fifty-nine** build additively on *Zel* ("twelve"), with no connecting word -- thirteen is simply *Zelun* (*Zel + Un*, "twelve-one"), not *Zel-cu-un*. Adnominal and ordinal forms past twelve are fully regular: *-um*/*-icum* directly on the number root, eliding any vowels at the junction. The multiples of *Zel* below 60 elide *Zel*'s own initial *z-* and the multiplier's final vowel: *Bia* ("two") *+ Zel → Biel* (24); *Trae* ("three") *+ Zel → Trael* (36); *Catra* ("four") *+ Zel → Catrel* (48). An additive remainder attaches after a space: *Biel bia*, "twenty-six" (24 + 2) -- adnominal *Bielbium*, ordinal *Bielbicum*, both fully fused with no space, as per the rule that adnominal/ordinal forms elide.
 - **Sixty and up** run on two independently named units rather than continued multiples of *Zel*: *Belan* ("sixty," compare *Belana*, the moon on a stable and predictable 60-day cycle) and *Tot* ("three hundred sixty," *60 × 6* or a full cycle of *Belan* -- cf. *Totum*, "all"). Multiplication at this tier works differently from the *Zel* tier: no elision at all, just plain concatenation of the multiplier onto *Belan*/*Tot* -- *Bia + Belan = Biabelan* (120), *Catra + Belan = Catrabelan* (240), *Quin + Tot = Quintot* (1800). A space separates each multiplied grouping, including from any further additive remainder: *Biabelan trae*, "one hundred twenty-three" (120 + 3) -- adnominal *Biabelantrum*, ordinal *Biabelantricum*, again fully fused. Numbers spanning multiple tiers simply stack groupings left to right, largest to smallest, each separated by a space: *Quintot catrabelan trael noa*, "two thousand eighty-five" (1800 + 240 + 36 + 9).
 
 ### Prepositions
@@ -1153,7 +1167,7 @@ Ceis modis odente?* "Which citizen spoke?"
 
 *Cestum verex teium sere?* "What kind of leather is this?"
 
-*Cestis e sêr?* "What is she like?"
+*Cestis e sea?* "What is she like?"
 
 *Ceis*/*Cecum* also act as the relative pronoun, marked for whatever case the referent's role in the subordinate clause necessitates, and agreeing in animacy with the antecedent:
 
@@ -1234,7 +1248,7 @@ Remean knows three regular stem classes: **Class A** stems end regularly in *-a*
 
 **First order** -- Negative, Positive, Volitional -- is exclusive and necessary: every finite verb form carries exactly one of these three, and a bare stem with none of them is not a grammatically complete word.
 
-**Second order** -- Potential, Irrealis, Affective, Past -- are infixes, stacking in this fixed sequence, always onto a stem that goes on to take its required first-order marker. Each step's own class-conditioning follows from the shape the stem has taken by that point, not from the base verb's original class. *Leg- + u (potential) + sa (affective) + retis (adnominal) = legusaretis*, "who can be fought."
+**Second order** -- Potential, Irrealis, Affective, Past -- are infixes, stacking in this fixed sequence, always onto a stem that goes on to take its required first-order marker. Each step's own class-conditioning follows from the shape the stem has taken by that point, not from the base verb's original class. *Leg- + u (potential) + sa (affective) + retis (adnominal, animate) = legusaretis*, "who can be fought."
 
 **Final order** -- Imperative, Adnominal, Resultative -- is exclusive and terminal, and the Adnominal and Resultative agree in animacy with what they modify, the same as any ordinary adjective. For final-order modification, the Negative forms irregularly on *-(r)anetum* for the Negative Adnominal, *-(r)antum* for the Negative Resultative (the Negative Imperative is formed periphrastically, see below).
 
@@ -1345,10 +1359,10 @@ Remean speech in formal situations expects an elevated register to fit such inte
 
 #### The Four Registers
 
-|                                          | Ordinary self-reference (*Mea*) | Third-person self-reference (*Sis*) |
-| ---------------------------------------- | ------------------------------- | ----------------------------------- |
-| **Finite verb**                          | Normal                          | Humble                              |
-| **Periphrastic stem + *E*/*Are*/*Nare*** | Polite                          | Deferential                         |
+|                                          | Ordinary self-reference (*Mea*) | Humble self-reference (*Mêr*) |
+| ---------------------------------------- | ------------------------------- | ----------------------------- |
+| **Finite verb**                          | Normal                          | Humble                        |
+| **Periphrastic stem + *E*/*Are*/*Nare*** | Polite                          | Deferential                   |
 
 **Normal**, used between equals, is ordinary Remean without modification: standard SOV order, the ordinary first-person pronoun *Mea*, the verb asserted directly.
 
@@ -1360,11 +1374,11 @@ Remean speech in formal situations expects an elevated register to fit such inte
 
 **Humble**, a highly formal register that defaces the self in deference to someone of higher standing, replaces the ordinary first person with the proximal demonstrative *Mêr* and optionally usually fronts the object, while keeping the verb itself finite and direct.
 
-*Example: Legionarim mêr vidare.* "The legionary, that one sees."
+*Example: Legionarim mêr vidare.* "The legionary, this one sees."
 
 **Deferential**, the most formal register attested, combines both moves at once: object-fronted word order, *Mêr* in place of *Mea*, and the periphrastic construction together.
 
-*Example: Legionarim sis vide are.* "The legionary, that one is one who sees."
+*Example: Legionarim mêr vide are.* "The legionary, that one is one who sees."
 
 #### Humble Self-Reference
 

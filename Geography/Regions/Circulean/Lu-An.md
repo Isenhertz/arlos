@@ -68,4 +68,4 @@ Three facts recur. First, **logistics**: graze and water do not favor fixed garr
 
 ### Continuities Across the Ages
 
-From legion skirmishes to hetman rides, Lu-An's story is not a vacuum between coasts but a long continuity of motion. Prides and kinbands remain the atom of order; compacts and courts appear, travel, and dissolve; and the greatest states adapt to that rhythm rather than erase it. The iron on the shore buys tools and hulls and makes distant furnaces glow; the hoof on the inland makes law and memory and keeps the sky wide and owned by none.
+From legion skirmishes to hetman rides, Lu-An's story is not a vacuum between coasts but a long continuity of motion. Prides and kinbands remain the root of order; compacts and courts appear, travel, and dissolve; and the greatest states adapt to that rhythm rather than erase it. The iron on the shore buys tools and hulls and makes distant furnaces glow; the hoof on the inland makes law and memory and keeps the sky wide and owned by none.

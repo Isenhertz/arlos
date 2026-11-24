@@ -20,7 +20,7 @@ Technologically, these 1300s balloons are still crude. Fabric is waxed or oil-tr
 
 But those feast-day rigs are also a laboratory. They let artisans watch how envelopes deform under gusts, how ballast and wind interact, and how little control you actually have without some sort of directed thrust. They also convince people that if you want air travel to be anything but a parish fair trick, you will need something more disciplined than a bunch of sweating apprentices at the winch.
 
-## 1320–1360 AR: Proto-dirigibles and the birth of dynamic lift
+## 1320-1360 AR: Proto-dirigibles and the birth of dynamic lift
 
 Right on schedule, aetheric engineering throws more fuel on the fire. In the late 13th and early 14th centuries, Academy savants close their thermoacoustic pipes into rings, insert regenerators and heat exchangers, and produce proper traveling-wave choir engines: compact, reliable acoustic heat engines that can feed steady power into pistons, fans, and screws.
 
@@ -32,7 +32,7 @@ The breakthroughs in this period are not glamorous but vital: pilots and designe
 
 Though these craft are mostly experimental and prestige items -- observation platforms in sieges, naval scouts for wealthy ports, or mobile pulpits for particularly theatrical bishops -- they prove that you can steer in three dimensions. Still, they are fragile, fuel-hungry, and terrifying in bad weather.
 
-## 1360–1390 AR: From toys to tools -- practical semi-rigids
+## 1360-1390 AR: From toys to tools -- practical semi-rigids
 
 By the mid-14th century, a lot of things snap into place at once.
 
@@ -46,7 +46,7 @@ Operationally, things move from circus tricks to scheduled service. The first st
 
 By the end of this period you can plausibly book passage on such a craft if you are rich, important, or very lucky. They remain expensive, maintenance-heavy, and not entirely trusted, but they are no longer novelties.
 
-## 1410–1450 AR: The Aeronave Age and the first heavier-than-air temptations
+## 1410-1450 AR: The Aeronave Age and the first heavier-than-air temptations
 
 ^2ab1b6
 

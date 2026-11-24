@@ -10,7 +10,7 @@ aliases:
 
 **Morphology:** Plumage tawny to sand with pale chevrons along the long neck; fur sandy over the loins and thighs; wings short, banner‑like pennons used for display and balance; beak deep and hatchet‑shearing; foretalons small but dexterous for stripping twigs; legs tall and springy with two forward toes and a stabilizing dewclaw; tail long and weighty for counterbalance.
 
-**Size:** Body 2.8–3.2 m; tail 0.9–1.1 m extra; pennon span 1.4–1.8 m.
+**Size:** Body 2.8-3.2 m; tail 0.9-1.1 m extra; pennon span 1.4-1.8 m.
 
 **Call:** A booming "oom‑oom" punctuated by display bill‑clacks "klock‑klock" and a rough alarm "krorr!"
 

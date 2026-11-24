@@ -7,7 +7,7 @@ Below is an excerpt from the reconstructed **field notes of Orthobastimus of Sig
 _Recovered from the estate workshop archive, currently held under seal in the Royal Collection at Virell._
 
 > _"If one more baldpated 'Celebrant of the Light' tells me the Spiral of Accord must be included at the breech because it ‘aligns with the third veil of Lur’s truth’, I shall insert the veil in a place most anatomically misaligned."_  
-> — margin note, fol. 42r
+> -- margin note, fol. 42r
 
 ---
 
@@ -20,11 +20,11 @@ The efficiency of aether-channeling in energized brass cores is **measurably aff
 
 - **Spiral forms** (Lurist-favored) _do_ hold well at first ignition.
 - But **tri-line lattice (my design)** **resists fatigue** longer, especially in higher-resonance bursts.
-- **Sigguri interlace**, a looping knot form inspired by roof-slate geometry, **conducts smoothly** when using bloodsilver inlays—potential **elemental resonance effect?** Must test further.
+- **Sigguri interlace**, a looping knot form inspired by roof-slate geometry, **conducts smoothly** when using bloodsilver inlays -- potential **elemental resonance effect?** Must test further.
 
 **Conclusion (tentative):**  
 Patterns are **not holy** -- they are **structures of stress**.  
-They **hold energy the way arches hold weight**—through distribution. That the Lightful call them “revelations” is a trick of language. They mistake **discovery for doctrine.**
+They **hold energy the way arches hold weight** -- through distribution. That the Lightful call them “revelations” is a trick of language. They mistake **discovery for doctrine.**
 
 ---
 
@@ -43,14 +43,14 @@ Replied that **steel doesn’t care about liturgy**.
 
 #### Experimental Annotation: On Pattern and Will
 
-There is a sensation when a design **"clicks"**—not unlike music aligning into rhythm.  
+There is a sensation when a design **"clicks"** -- not unlike music aligning into rhythm.  
 This **is not divine affirmation.** It is the **feedback loop of structure meeting force.**  
 If Lur made such laws, then He made them blind and indifferent.  
-And if He didn't—then the pattern is mine.
+And if He didn't -- then the pattern is mine.
 
 ---
 
-#### Prototype VI – The Fork-Spiral Housing
+#### Prototype VI -- The Fork-Spiral Housing
 
 - Uses a **partial spiral intercut by directional forks**, allowing for energy to bleed off in failed resonance events.
 - Result: **No barrel flare**, **reduced recoil**, **lesser elemental echo**.

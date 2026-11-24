@@ -38,19 +38,19 @@ The Zanori travel in tight kinbands and claim the steppe not as property but as 
 
 Reme's first touch was maritime. As the legions swept east along the Gyre, they raised emporia and light forts on deltas and lagoons, and sent probing columns inland along the river lanes. The probes did not penetrate deep, for Zanori kinbands -- swift, horned, and deadly from the gallop -- broke infantry screens and bled Remean columns until the polity learned to hug the tidewater. Sunkin prides, similarly, made river garrisons uneconomical. Shaping gave the legions a massive advantage over its human opponents; it did little on wind-flattened flats where thirst does most of the damage, and where even Shaped legs could not pursue foes adept at vanishing into the horizon.
 
-### Withdrawal to the Shore and the Quiet Collapse (0–300 AR)
+### Withdrawal to the Shore and the Quiet Collapse (0-300 AR)
 
 When Reme fell, its littoral works in Lu-An did not die under sack so much as under silence. Without the sea's convoys the outposts ate their stores, bargained with whatever caravans dared the estuaries, and then eroded -- stone to village quay, quay to scavenged lintel. The hinterland neither noticed nor needed them. Prides and kinbands did what they had always done: moved with water and graze, traded news for safe passage, fought when honor or trespass demanded, and named the year by storms.
 
-### The Years Between: Silence and Sedimentation (300–800 AR)
+### The Years Between: Silence and Sedimentation (300-800 AR)
 
 In the centuries after the Fall, the plains wrote their own calendar. Herds and storms set routes; oath-circles set law. Sunkin prides ringed oasis-holds in the high savannahs and ranged far afield as wardens, guides, or proud enemies. Zanori bands stitched trade and raid across escarpments and reedbelts, storing wealth in hornwork, horses, and vows. Along the western edge under the Wolves' Teeth, human raider-peoples in the land called **Karsova** began to consolidate into compacts and seasonal courts, proving that riders could bind more than a single season's allegiance without surrendering speed. That Karsovan habit -- oath before wall, portable court before fixed capital -- would echo east.
 
-### Karsova's Lesson and the First Confederacies (8th–10th centuries AR)
+### Karsova's Lesson and the First Confederacies (8th-10th centuries AR)
 
 As Karsova hardened its compacts, Lu-An's open societies experimented with larger tents of allegiance. Early horde-bound confederacies rose from rallying songs, great hunts, and vengeance cycles settled by prize and verse. Some were coalitions that marched under shared banners to break a drought-barter gone sour; others were caravans that turned raider in the lean year and merchant in the fat. A few became famous enough that distant chroniclers gave them names -- the kind that stick to memory more than map: the Red-Banner Horde, the Seven-Horn Court, the Summer Host. What matters is not their exact borders but their pattern: leaders chosen by deed and testimonial; tribute gathered as movable wealth; law traveling with the tent and the drum.
 
-### Traders Return to the Shore (10th–13th centuries AR)
+### Traders Return to the Shore (10th-13th centuries AR)
 
 The end of the Dark Ages drew foreign attention back to Lu-An's coast. Charters from all around the Circulean touched down as wary posts, interested less in hinterland conquest than in the black iron sands sluiced down from Ertra's shield volcanoes and gathered by the Gyre along Lu-An and Lu-Pto. Ports learned caution -- stout palisades, generous guest-right, and one hand on the hilt when hinterlanders came to trade.
 

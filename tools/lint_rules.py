@@ -32,7 +32,6 @@ OUT_OF_WORLD = [
 # plus Arlosian Material Science until Jan rewrites its "bird's bone" sentence himself.
 BIRD_DESIGN_NOTES = [
     "*/Gryphoids.md", "*/Theronga.md", "*/Gryphoid?visualisation.md",
-    "*/Arlosian?Material?Science.md",
 ]
 
 # Content files that are not lorebooks (digests, overviews) and are skipped by every rule.

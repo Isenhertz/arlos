@@ -153,7 +153,7 @@ events:
     era: enlightenment
     title: Sack of An-Mirda; end of the First Hierophancy
     match: "[Ss]ack of An-Mirda"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md", canon/polities/Alvai.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md", Peoples/Alvai/Alvai.md]
 
   - id: covenant-of-concord
     year: 337

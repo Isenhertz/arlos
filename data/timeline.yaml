@@ -81,7 +81,7 @@ events:
     era: remean
     title: The Prophet Lur-Illuhan declares a spiritual renewal at An-Mirda
     match: "revelation at An.Mirda|declares a spiritual renewal|Enlightenment of the Prophet"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/faith/Church_of_the_Light.md, Timekeeping/Calendars_of_Arlos_Reference.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, "Organisations/Lurist organisations/Church of the Light.md", Timekeeping/Calendars_of_Arlos_Reference.md]
 
   - id: light-reaches-rimec-suur
     year: -300
@@ -103,7 +103,7 @@ events:
     era: remean
     title: Investiture of Maverel the Undimmed, First Hierophant
     match: "Maverel the Undimmed|Maerel the Undimmed|Marevel the Undimmed"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/faith/Church_of_the_Light.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, "Organisations/Lurist organisations/Church of the Light.md"]
 
   - id: fall-of-reme
     year: 0
@@ -118,7 +118,7 @@ events:
     era: enlightenment
     title: The First Crusade against the Moonkin of the Wolves' Teeth
     match: "First Crusade \\("
-    sources: [canon/faith/Church_of_the_Light.md]
+    sources: ["Organisations/Lurist organisations/Church of the Light.md"]
 
   - id: accord-of-salt-mouth
     year: 56
@@ -146,7 +146,7 @@ events:
     era: enlightenment
     title: Ejitwe the Thronebreaker begins gathering his coalition
     match: "Ejitwe"
-    sources: [canon/faith/Church_of_the_Light.md, canon/polities/An-Suur.md]
+    sources: ["Organisations/Lurist organisations/Church of the Light.md", canon/polities/An-Suur.md]
 
   - id: sack-of-an-mirda
     year: 336
@@ -206,14 +206,14 @@ events:
     era: dark_ages
     title: The Hundred Years' Vacancy (Interregnum) after the death of Solvrand III
     match: "Hundred Years' Vacancy|Interregnum beginning"
-    sources: [canon/faith/Church_of_the_Light.md, canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Lurist organisations/Church of the Light.md", canon/polities/Commonwealth_of_Principalities.md]
 
   - id: settlement-of-the-varsa
     year: 998
     era: dark_ages
     title: Settlement of the Varsa; Genovrast founds Lavion and the Third Hierophancy
     match: "Settlement of the Varsa"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/The_Varsenne_Basin.md, canon/faith/Church_of_the_Light.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/The_Varsenne_Basin.md, "Organisations/Lurist organisations/Church of the Light.md"]
 
   - id: guard-of-the-common-weal
     year: 1024

@@ -29,7 +29,7 @@ events:
     era: rivian
     title: Set-Ahotep-Imekh ends the First-and-Only and casts his body into the estuary
     match: "First-and-Only's body|casts his body into the estuary"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, "Geography/Regions/Circulean/Merhal.md"]
 
   - id: set-ahotep-death
     year: -1450
@@ -44,7 +44,7 @@ events:
     era: rivian
     title: She-With-Skin-of-Silver falls to a triumvirate; the rule of the Lesser Kings begins
     match: "triumvirate|Lesser Kings begins"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, "Geography/Regions/Circulean/Merhal.md"]
 
   - id: golden-bull-subdued
     year: -1050
@@ -52,7 +52,7 @@ events:
     era: remean
     title: Thesun-Khetep subdues the Cult of the Golden Bull at Op-ê-Aru
     match: "subdue[sd]? the (long-independent )?Cult of the Golden Bull"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, "Geography/Regions/Circulean/Merhal.md"]
 
   - id: merhal-conquest
     year: -1000
@@ -60,7 +60,7 @@ events:
     era: remean
     title: Reme defeats Thesun-Khetep at the walls of Omt-î-Thes and takes the Merhal
     match: "walls of Omt-î-Thes"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, "Geography/Regions/Circulean/Merhal.md"]
 
   - id: balboa-staging-harbour
     year: -687
@@ -81,7 +81,7 @@ events:
     era: remean
     title: The Prophet Lur-Illuhan declares a spiritual renewal at An-Mirda
     match: "revelation at An.Mirda|declares a spiritual renewal|Enlightenment of the Prophet"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/faith/Church_of_the_Light.md, canon/reference/Calendars_of_Arlos_Reference.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/faith/Church_of_the_Light.md, Timekeeping/Calendars_of_Arlos_Reference.md]
 
   - id: light-reaches-rimec-suur
     year: -300
@@ -96,7 +96,7 @@ events:
     era: remean
     title: Martyrdom of Judge Saint Kharun under a Remean tribunal; the Long War begins
     match: "[Mm]artyrdom of (Judge )?Saint Kharun"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/reference/Calendars_of_Arlos_Reference.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, Timekeeping/Calendars_of_Arlos_Reference.md]
 
   - id: maverel-investiture
     year: -7
@@ -258,7 +258,7 @@ events:
     era: aetheric
     title: The compression-expansion work cycle demonstrated at the Grand Academy
     match: "compression-expansion work cycle"
-    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/science/Arlosian_Engines.md]
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, "Material Reality/Engineering/Arlosian Engines.md"]
 
   - id: law-of-harmonic-conversion
     year: 1240
@@ -332,7 +332,7 @@ events:
     era: imperial
     title: The Barvella process yields piatrium
     match: "metallurgical line succeeded"
-    sources: [canon/science/Arlosian_Metallurgy.md, canon/science/Arlosian_Material_Science.md]
+    sources: ["Material Reality/Engineering/Arlosian Metallurgy.md", canon/science/Arlosian_Material_Science.md]
 
   - id: desolation-of-santra
     year: 1572

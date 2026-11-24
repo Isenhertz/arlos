@@ -6,8 +6,8 @@ Worldbuilding bible for Arlos, a secondary world centred on the Circle Sea, writ
 
 | Folder | Contents |
 |---|---|
-| `canon/` | Lorebooks, one file per topic, grouped into polities, history, science, faith, nature and reference |
-| `conlang/` | Remean grammar and vocabulary |
+| `Cosmology/`, `Flora & Fauna/`, `Geography/`, `Languages/`, `Material Reality/`, `Media/`, `Organisations/`, `Peoples/`, `Timekeeping/` | Lorebooks, grouped by subject |
+| `canon/` | Lorebooks from the original scaffold not yet placed in the subject folders |
 | `data/` | Structured canon; `timeline.yaml` holds the dated events the lorebooks are checked against |
 | `notes/` | Decisions from conversation that are not yet folded into a lorebook |
 | `sources/` | Converted source documents: older drafts, the comparative catechism table, the measurement tables |
@@ -15,7 +15,9 @@ Worldbuilding bible for Arlos, a secondary world centred on the Circle Sea, writ
 | `tools/` | Checks for house style, canon constraints, links and dates |
 | `manuscript/` | Empty until the novel starts |
 
-The folder opens as an Obsidian vault: `[[wikilinks]]` and the `aliases:` frontmatter resolve there.
+Everything outside `data/`, `notes/`, `sources/`, `maps/` and `tools/` counts as content for the checks, so subject folders can be added or renamed without touching the tools.
+
+The repo root is an Obsidian vault: `[[wikilinks]]` and the `aliases:` frontmatter resolve there.
 
 ## Working on it
 

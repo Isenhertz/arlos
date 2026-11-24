@@ -4,22 +4,34 @@ Worldbuilding bible for Arlos, a secondary world centred on the Circle Sea (Circ
 
 ## Layout
 
+The repo root is Jan's Obsidian vault. Lorebooks live in content folders grouped by subject:
+
 ```text
-canon/          lorebooks, one file per topic
-  polities/     peoples and polities (Balboa, Svenu, Commonwealth, Remea ...)
-  history/      timeline, Great War, Fulminant Turn
-  science/      elements and aether, materials, metallurgy, engines, naval
-  faith/        Church of the Light, Concordianism
-  nature/       gryphoids
-  reference/    calendars, mathematics
-conlang/        Remean grammar and vocabulary
-data/           structured canon (timeline.yaml first)
-sources/        converted source documents (older versions, catechism table, measurements)
-maps/           map images
-notes/          decisions from chat sessions not yet folded into a lorebook
-tools/          lint, link and timeline checks
-manuscript/     empty until the novel starts
+Cosmology/          elements, aetheric arts, ineffable forces
+Flora & Fauna/      gryphoids
+Geography/          regions, settlements, water features
+Languages/          conlang and naming (Remean, Suurese, others)
+Material Reality/   engineering, metallurgy, measurements, currencies
+Media/              in-world documents, crests, portraits
+Organisations/      polities, houses, Lurist churches and orders
+Peoples/            Alvai, Dvergr, humankind, beastkin
+Timekeeping/        calendars, events, timelines
+canon/              lorebooks from the scaffold not yet placed in the folders above
+manuscript/         empty until the novel starts
 ```
+
+Working and tooling folders sit beside them and are not content:
+
+```text
+data/               structured canon (timeline.yaml first)
+sources/            converted source documents (older versions, catechism table, measurements)
+maps/               map images
+notes/              decisions from chat sessions not yet folded into a lorebook
+tools/              lint, link and timeline checks
+.obsidian/          vault settings, plugins and themes
+```
+
+The checks treat every Markdown file outside the working folders as content (`tools/corpus.py`), so content folders can be added or renamed freely. Links resolve by file name, not path.
 
 `sources/` holds older or raw material. When a source and a lorebook disagree, the lorebook wins.
 
@@ -45,7 +57,7 @@ Dates use the civil count: years before the Fall of Reme are BR, after it AR, th
 ## How we work
 
 - Drafting loop: Claude proposes, Jan corrects, then the corrections are integrated as targeted edits. Never rewrite a whole file to apply a correction.
-- Before drafting anything, search `canon/`, `notes/` and `data/` for what is already established, and cross-reference before introducing new material.
+- Before drafting anything, search the content folders, `notes/` and `data/` for what is already established, and cross-reference before introducing new material.
 - Earth-historical shorthand (Charlemagne, the Rhine, a Viking analogue) is fine in conversation and in `notes/`, never in lorebook prose.
 - Do not flag open threads or pending decisions in replies. Jan tracks them separately.
 - Prose conventions for lorebooks are in `.claude/rules/lorebook-prose.md`; conlang conventions in `.claude/rules/conlang.md`.

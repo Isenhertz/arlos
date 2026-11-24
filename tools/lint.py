@@ -2,7 +2,7 @@
 """House-style and canon-constraint linter for the Arlos bible.
 
 Modes
-  python3 tools/lint.py                 lint every Markdown file under canon/ and conlang/
+  python3 tools/lint.py                 lint every content Markdown file (see tools/corpus.py)
   python3 tools/lint.py PATH [PATH...]  lint the given files
   python3 tools/lint.py --summary       per-rule counts per file (baseline report)
   python3 tools/lint.py --hook          Claude Code PostToolUse hook: reads the hook JSON on
@@ -23,9 +23,8 @@ from fnmatch import fnmatch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_GLOBS = ["canon/**/*.md", "conlang/**/*.md", "manuscript/**/*.md"]
-
 sys.path.insert(0, str(ROOT / "tools"))
+import corpus  # noqa: E402
 import lint_rules  # noqa: E402
 
 
@@ -45,7 +44,9 @@ def rel(path):
 
 
 def applies(rule, relpath):
-    include = rule.get("paths", ["**"])
+    if rule.get("scope") == "prose" and any(fnmatch(relpath, p) for p in corpus.CONLANG):
+        return False
+    include = rule.get("paths", ["*"])
     exclude = rule.get("exclude", [])
     return any(fnmatch(relpath, p) for p in include) and not any(fnmatch(relpath, p) for p in exclude)
 
@@ -81,7 +82,7 @@ def special_chars(line, allowed):
 def lint_lines(relpath, numbered_lines, rules, cfg):
     """numbered_lines: iterable of (lineno, text). Returns list of findings."""
     findings = []
-    out_of_world = relpath in cfg.get("out_of_world", [])
+    out_of_world = any(fnmatch(relpath, g) for g in cfg.get("out_of_world", []))
     allowed = set(cfg.get("allowed_special_chars", ""))
     in_frontmatter = False
     in_code = False
@@ -148,10 +149,7 @@ def changed_lines(path):
 
 
 def default_files():
-    files = []
-    for g in DEFAULT_GLOBS:
-        files.extend(sorted(ROOT.glob(g)))
-    return files
+    return corpus.content_files()
 
 
 def print_findings(findings, stream):
@@ -168,7 +166,7 @@ def run_hook(rules, cfg):
     if not path or not path.endswith(".md"):
         return 0
     relpath = rel(path)
-    if not any(fnmatch(relpath, g) for g in DEFAULT_GLOBS):
+    if not corpus.is_content(relpath):
         return 0
     if not Path(path).exists():
         return 0

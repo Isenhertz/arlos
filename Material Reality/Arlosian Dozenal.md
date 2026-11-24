@@ -32,7 +32,7 @@ In the present day, the Circle Sea world shows the layered result of this histor
 ## Details
 ### Base-60 Notation
 
-**(In use c. -1500 AR to ~0 AR in the west, still current in Vel Kiriya)**
+**(In use c. 1500 BR to ~0 AR in the west, still current in Vel Kiriya)**
 
 - **Used by**: Ancient Reme, Riv-î-Tep, and Vel Kiriya
 - **Base**: 60 (sexagesimal), likely due to calendrical and astronomical utility given the synchronicity with Belana's 60-day cycle
@@ -49,7 +49,7 @@ In the present day, the Circle Sea world shows the layered result of this histor
 
 ### Traditional Dozenal Notation
 
-**(Emerging c. -300 AR, spreading with Lurism)**
+**(Emerging c. 300 BR, spreading with Lurism)**
 
 - **Base**: 12 (duodecimal)
 - **Notation**: Multiplicative-additive; composite values built by combining glyphs from largest to smallest

@@ -116,8 +116,8 @@ The dominant civil and liturgical calendar of the modern Circle Sea. 360 days, d
 | Tradition | Epoch | Offset from AR | Structural unit |
 |---|---|---|---|
 | Standard Lurist | Fall of Reme | AR + 0 | 24 Spans of 15 days (3×5-day weeks) |
-| Concordianism | Enlightenment of the Prophet (-355 AR) | AR + 355 | Same Span structure as standard Lurist |
-| Velkirian Rite (Kharunite) | Martyrdom of Saint Kharun (177 BR / -177 AR) | AR + 177 | 6 Passes of 60 days (4×15-day Phases) |
+| Concordianism | Enlightenment of the Prophet (355 BR) | AR + 355 | Same Span structure as standard Lurist |
+| Velkirian Rite (Kharunite) | Martyrdom of Saint Kharun (177 BR) | AR + 177 | 6 Passes of 60 days (4×15-day Phases) |
 
 ### The Kharunite (Velkirian) Calendar
 

@@ -6,7 +6,7 @@
 - **Municipal principalities (free cities):** 28
 
 **Legend:**
-A * marks one of the Nine Founding Principalities of the First Concord, 201 AR  
+A * marks one of the Nine Founding Principalities of the First Parliament, 201 AR  
 A † marks a seat leading or anchoring a major Parliamentary faction  
 A ‡ marks special or unique status noted in canon
 A ℳ marks members of the Merseal Compact, a powerful trade league

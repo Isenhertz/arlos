@@ -89,7 +89,7 @@ events:
     era: remean
     title: The Light sets foot in Rimec-Suur; Remean stations on the Suurian Gate razed
     match: "Light [Ss]ets [Ff]oot in Rimec-Suur"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: kharun-martyrdom
     year: -177
@@ -125,21 +125,21 @@ events:
     era: enlightenment
     title: Accord of Salt-Mouth on shared harbour dues
     match: "Accord of Salt-Mouth"
-    sources: [canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: liturgical-contention
     year: 143
     era: enlightenment
     title: The Liturgical Contention between An-Mirdan legates and Stranic bishops
     match: "Liturgical Contention|legates from An-Mirda collide"
-    sources: [canon/polities/Commonwealth_of_Principalities.md, "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md", "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
 
   - id: first-parliament
     year: 201
     era: enlightenment
     title: The First Parliament convenes at Santra on water law and mutual aid
     match: "First Parliament"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: thronebreaker-coalition
     year: 327
@@ -153,7 +153,7 @@ events:
     era: enlightenment
     title: Sack of An-Mirda; end of the First Hierophancy
     match: "[Ss]ack of An-Mirda"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/polities/Commonwealth_of_Principalities.md, canon/polities/Alvai.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md", canon/polities/Alvai.md]
 
   - id: covenant-of-concord
     year: 337
@@ -167,21 +167,21 @@ events:
     era: enlightenment
     title: The Charter of Santra; the princes swear to the Common Weal of the Princes of the West
     match: "Charter of Santra"
-    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: pact-of-steel-and-scrip
     year: 448
     era: dark_ages
     title: The Pact of Steel and Scrip against border raiding
     match: "Pact of Steel and Scrip"
-    sources: [canon/polities/Commonwealth_of_Principalities.md, "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md", "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
 
   - id: merseal-compact
     year: 569
     era: dark_ages
     title: Founding of the Merseal Compact
     match: "Founding of the Merseal Compact"
-    sources: [canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: five-generations
     year: 650
@@ -206,7 +206,7 @@ events:
     era: dark_ages
     title: The Hundred Years' Vacancy (Interregnum) after the death of Solvrand III
     match: "Hundred Years' Vacancy|Interregnum beginning"
-    sources: ["Organisations/Lurist organisations/Church of the Light.md", canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Lurist organisations/Church of the Light.md", "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: settlement-of-the-varsa
     year: 998
@@ -220,7 +220,7 @@ events:
     era: corsairs
     title: Parliament elevates the Guard of the Water into the Guard of the Common Weal
     match: "Elevation of the Guard"
-    sources: [canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: war-of-the-three-kings
     year: 1117
@@ -250,7 +250,7 @@ events:
     era: corsairs
     title: The Great Disputation codifies the High Principate
     match: "Great Disputation"
-    sources: [canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: compression-expansion-cycle
     year: 1225
@@ -280,7 +280,7 @@ events:
     era: corsairs
     title: Commonwealth Maritime Reforms empower the Merseal Compact
     match: "Maritime Reforms"
-    sources: [canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: revolt-of-the-commons
     year: 1277
@@ -301,7 +301,7 @@ events:
     era: aetheric
     title: Crisis of the Commonwealth and the Siege of Santra (Ereador syn Emsar)
     match: "Siege of Santra|Ereador"
-    sources: [canon/polities/Commonwealth_of_Principalities.md]
+    sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
   - id: roburic-ii-reign
     year: 1498

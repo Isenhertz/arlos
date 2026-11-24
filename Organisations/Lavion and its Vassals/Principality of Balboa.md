@@ -17,7 +17,7 @@ aliases:
 >Motto: *"At Her Mercy We Prosper"
 >Capital: [[City of Balboa]]
 
-The Principality of Balboa is a small feudal state situated on the rugged coast of the northern tip of the Ertran Peninsula. Centered around the [[City of Balboa]] that gave the city-state its name, it was founded as a [[Remean Empire|Remean]] port in -687 AR, and weathered the fall of the Empire to become a local power in its own right. As the [[Kingdom of Lavion]] rose in the west, the two states came into conflict, culminating in the [[War of the Three Kings]] of 1117-1121 AR, which ended with the surrender of Balboa and its integration into the Kingdom of Lavion as a privileged Crown Vassal.
+The Principality of Balboa is a small feudal state situated on the rugged coast of the northern tip of the Ertran Peninsula. Centered around the [[City of Balboa]] that gave the city-state its name, it was founded as a [[Remean Empire|Remean]] port in 687 BR, and weathered the fall of the Empire to become a local power in its own right. As the [[Kingdom of Lavion]] rose in the west, the two states came into conflict, culminating in the [[War of the Three Kings]] of 1117-1121 AR, which ended with the surrender of Balboa and its integration into the Kingdom of Lavion as a privileged Crown Vassal.
 
 Though the Principality of Balboa has been a peaceful vassal of the realm for over three centuries, it retains much of its ancient and singular character. As a city-state home to prosperous traders and renowned mercenary companies, it stands out like a jewel among the more agrarian regions surrounding it, and even gets compared favourably with the crownlands of the [[Kingdom of Lavion|Lavienese]] capital, [[Virell]].
 
@@ -25,9 +25,9 @@ The Principality hasn't gone to war in the centuries since formally joining the 
 
 ### Early Period - Remean Rule and the Fall
 
-**-687 AR:** Founding of Balboa as _Portus Valabonicus_, a maritime trade port and naval station of the Remean Empire. Legend has it that it was named for _Admiral Valabona_, who established the permanent harbor at the mouth of the River Ertra. -650 AR is also mentioned, but seems to refer to the hilltop fort protecting the port rather than the settlement itself.
+**687 BR:** Founding of Balboa as _Portus Valabonicus_, a maritime trade port and naval station of the Remean Empire. Legend has it that it was named for _Admiral Valabona_, who established the permanent harbor at the mouth of the River Ertra. 650 BR is also mentioned, but seems to refer to the hilltop fort protecting the port rather than the settlement itself.
 
-**-680 to 0 AR:** Balboa thrives as a semi-autonomous provincial capital and crossroads for [[Circle Sea]] trade. Governed by appointed Procurators from [[Reme]]. Flourishes culturally and economically.
+**680 BR to 0 AR:** Balboa thrives as a semi-autonomous provincial capital and crossroads for [[Circle Sea]] trade. Governed by appointed Procurators from [[Reme]]. Flourishes culturally and economically.
 
 **0 AR - The Fall of Reme:** The eruption triggered by the failed summoning of [[Phlogistophor]] buries the imperial capital. With the [[Eternal Dominion]] pushing in from the north and chaos spreading, Reme's coastal colonies are left leaderless. With the empire in ruins, Balboa survives through sheer luck as the upheaval of the conflagration forces the Dominion's warships to make landfall further south, sparing the city from conquest and ransacking. Local families -- not yet nobles -- scramble for power in the ensuing vacuum.
 

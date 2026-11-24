@@ -14,7 +14,7 @@ Western catechisms stress the Triune Harmony of Body, Mind, and Soul, ordered to
 
 ## Origins along the Salt Road
 
-The Eastern Rite traces its distinctive character to Judge Saint Illut-Kharun of the Salt Road, usually shortened to Judge Saint Kharun. Born a scribe in -213 AR and martyred in -177 AR, Kharun followed the caravan and coastal routes of what later ages call the Salt Road, walking as far as Lu-Pto. Along these routes he met scattered clusters of early converts and traders who had heard the Prophet's verses but stood far from An-Mirda's supervision.
+The Eastern Rite traces its distinctive character to Judge Saint Illut-Kharun of the Salt Road, usually shortened to Judge Saint Kharun. Born a scribe in 213 BR and martyred in 177 BR, Kharun followed the caravan and coastal routes of what later ages call the Salt Road, walking as far as Lu-Pto. Along these routes he met scattered clusters of early converts and traders who had heard the Prophet's verses but stood far from An-Mirda's supervision.
 
 It was Kharun who first connected these distant congregations as one communion and set out simple rules of mutual aid, shared teaching, and just dealing on the road. His work made explicit what had been implicit in the Prophet's preaching: that the Light did not belong only to the Prophet's homeland, and that the bond of common measure and conscience could bridge desert, river, and sea.
 

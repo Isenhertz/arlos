@@ -1,0 +1,349 @@
+# Timeline of the Circle Sea as structured data.
+#
+# year / end: integers on the civil count. AR years are positive, BR years
+#   negative, the Fall of Reme is 0. `end` is set only for spans.
+# circa: true where the lorebooks say "around" or "c.".
+# match: a regular expression naming the event in prose. tools/check_timeline.py
+#   finds every sentence in canon/ that matches it and carries an explicit year,
+#   and reports sentences whose years disagree with this file.
+# sources: lorebooks that state the date.
+#
+# Drafted from canon/history/Timeline_of_the_Circle_Sea.md and the polity files
+# at the migration (November 2026). Where lorebooks disagree, this file follows
+# the Timeline and the disagreement is listed by the checker.
+
+eras:
+  - {id: prehistory, name: Prehistory, end: -2000}
+  - {id: rivian, name: The Rivian Epoch, start: -2000, end: -1001}
+  - {id: remean, name: The Remean Era, start: -1100, end: 100}
+  - {id: enlightenment, name: The Age of Enlightenment, start: 0, end: 400}
+  - {id: dark_ages, name: The Dark Ages, start: 300, end: 1000}
+  - {id: corsairs, name: The Age of Corsairs, start: 900, end: 1300}
+  - {id: aetheric, name: The Aetheric Age, start: 1200, end: 1500}
+  - {id: imperial, name: The Imperial Age, start: 1400, end: 1600}
+
+events:
+  - id: first-and-only-death
+    year: -1650
+    circa: true
+    era: rivian
+    title: Set-Ahotep-Imekh ends the First-and-Only and casts his body into the estuary
+    match: "First-and-Only's body|casts his body into the estuary"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+
+  - id: set-ahotep-death
+    year: -1450
+    circa: true
+    era: rivian
+    title: Set-Ahotep-Imekh is killed by his lover Fa-Hê-Rhet-Bâ-Estu She-With-Skin-of-Silver
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md]
+
+  - id: lesser-kings-begin
+    year: -1350
+    circa: true
+    era: rivian
+    title: She-With-Skin-of-Silver falls to a triumvirate; the rule of the Lesser Kings begins
+    match: "triumvirate|Lesser Kings begins"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+
+  - id: golden-bull-subdued
+    year: -1050
+    circa: true
+    era: remean
+    title: Thesun-Khetep subdues the Cult of the Golden Bull at Op-ê-Aru
+    match: "subdue[sd]? the (long-independent )?Cult of the Golden Bull"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+
+  - id: merhal-conquest
+    year: -1000
+    circa: true
+    era: remean
+    title: Reme defeats Thesun-Khetep at the walls of Omt-î-Thes and takes the Merhal
+    match: "walls of Omt-î-Thes"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Merhal.md]
+
+  - id: balboa-staging-harbour
+    year: -687
+    era: remean
+    title: Reme raises a naval staging ground on the tip of Ertra (Valabuium)
+    match: "naval staging ground"
+    sources: [canon/polities/Balboa.md]
+
+  - id: balboa-hilltop-fort
+    year: -650
+    era: remean
+    title: Hilltop fort raised above the Ertran staging harbour
+    match: "hilltop fort raised"
+    sources: [canon/polities/Balboa.md]
+
+  - id: prophet-enlightenment
+    year: -355
+    era: remean
+    title: The Prophet Lur-Illuhan declares a spiritual renewal at An-Mirda
+    match: "revelation at An.Mirda|declares a spiritual renewal|Enlightenment of the Prophet"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/faith/Church_of_the_Light.md, canon/reference/Calendars_of_Arlos_Reference.md]
+
+  - id: light-reaches-rimec-suur
+    year: -300
+    circa: true
+    era: remean
+    title: The Light sets foot in Rimec-Suur; Remean stations on the Suurian Gate razed
+    match: "Light [Ss]ets [Ff]oot in Rimec-Suur"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: kharun-martyrdom
+    year: -177
+    era: remean
+    title: Martyrdom of Judge Saint Kharun under a Remean tribunal; the Long War begins
+    match: "[Mm]artyrdom of (Judge )?Saint Kharun"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/reference/Calendars_of_Arlos_Reference.md]
+
+  - id: maverel-investiture
+    year: -7
+    era: remean
+    title: Investiture of Maverel the Undimmed, First Hierophant
+    match: "Maverel the Undimmed|Maerel the Undimmed|Marevel the Undimmed"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/faith/Church_of_the_Light.md]
+
+  - id: fall-of-reme
+    year: 0
+    era: remean
+    title: Fall of Reme; the attempted binding of Phlogistophor buries the Remean heartland
+    match: "Fall of Reme\\b"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md]
+
+  - id: first-crusade
+    year: 0
+    end: 8
+    era: enlightenment
+    title: The First Crusade against the Moonkin of the Wolves' Teeth
+    match: "First Crusade \\("
+    sources: [canon/faith/Church_of_the_Light.md]
+
+  - id: accord-of-salt-mouth
+    year: 56
+    era: enlightenment
+    title: Accord of Salt-Mouth on shared harbour dues
+    match: "Accord of Salt-Mouth"
+    sources: [canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: liturgical-contention
+    year: 143
+    era: enlightenment
+    title: The Liturgical Contention between An-Mirdan legates and Stranic bishops
+    match: "Liturgical Contention|legates from An-Mirda collide"
+    sources: [canon/polities/Commonwealth_of_Principalities.md, canon/history/Timeline_of_the_Circle_Sea.md]
+
+  - id: first-parliament
+    year: 201
+    era: enlightenment
+    title: The First Parliament convenes at Santra on water law and mutual aid
+    match: "First Parliament"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: thronebreaker-coalition
+    year: 327
+    era: enlightenment
+    title: Ejitwe the Thronebreaker begins gathering his coalition
+    match: "Ejitwe"
+    sources: [canon/faith/Church_of_the_Light.md, canon/polities/An-Suur.md]
+
+  - id: sack-of-an-mirda
+    year: 336
+    era: enlightenment
+    title: Sack of An-Mirda; end of the First Hierophancy
+    match: "[Ss]ack of An-Mirda"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Commonwealth_of_Principalities.md, canon/polities/Alvai.md]
+
+  - id: covenant-of-concord
+    year: 337
+    era: enlightenment
+    title: A synod at Santra articulates the Covenant of Concord
+    match: "Covenant of Concord"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md]
+
+  - id: charter-of-santra
+    year: 367
+    era: enlightenment
+    title: The Charter of Santra; the princes swear to the Common Weal of the Princes of the West
+    match: "Charter of Santra"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: pact-of-steel-and-scrip
+    year: 448
+    era: dark_ages
+    title: The Pact of Steel and Scrip against border raiding
+    match: "Pact of Steel and Scrip"
+    sources: [canon/polities/Commonwealth_of_Principalities.md, canon/history/Timeline_of_the_Circle_Sea.md]
+
+  - id: merseal-compact
+    year: 569
+    era: dark_ages
+    title: Founding of the Merseal Compact
+    match: "Founding of the Merseal Compact"
+    sources: [canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: five-generations
+    year: 650
+    end: 800
+    circa: true
+    era: dark_ages
+    title: Balboa's Five Generations of Expansion, ending in defeat at Gaviatolis
+    match: "Five Generations of Expansion"
+    sources: [canon/polities/Balboa.md]
+
+  - id: balboan-companies-released
+    year: 830
+    circa: true
+    era: dark_ages
+    title: Balboa releases its standing regiments as free mercenary companies
+    match: "released from state service"
+    sources: [canon/polities/Balboa.md]
+
+  - id: hundred-years-vacancy
+    year: 888
+    end: 998
+    era: dark_ages
+    title: The Hundred Years' Vacancy (Interregnum) after the death of Solvrand III
+    match: "Hundred Years' Vacancy|Interregnum beginning"
+    sources: [canon/faith/Church_of_the_Light.md, canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: settlement-of-the-varsa
+    year: 998
+    era: dark_ages
+    title: Settlement of the Varsa; Genovrast founds Lavion and the Third Hierophancy
+    match: "Settlement of the Varsa"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/The_Varsenne_Basin.md, canon/faith/Church_of_the_Light.md]
+
+  - id: guard-of-the-common-weal
+    year: 1024
+    era: corsairs
+    title: Parliament elevates the Guard of the Water into the Guard of the Common Weal
+    match: "Elevation of the Guard"
+    sources: [canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: war-of-the-three-kings
+    year: 1117
+    end: 1121
+    era: corsairs
+    title: War of the Three Kings between Lavion, Cendrelac and Balboa
+    match: "War of (the )?Three Kings"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/polities/Balboa.md, canon/polities/The_Varsenne_Basin.md]
+
+  - id: siege-of-balboa
+    year: 1119
+    end: 1121
+    era: corsairs
+    title: Siege of Balboa; surrender and the Second Princely Compact
+    match: "Siege of Balboa"
+    sources: [canon/polities/Balboa.md]
+
+  - id: azure-codex
+    year: 1122
+    era: corsairs
+    title: The Azure Codex regulates the Balboan mercenary companies
+    match: "Azure Codex"
+    sources: [canon/polities/Balboa.md]
+
+  - id: great-disputation
+    year: 1178
+    era: corsairs
+    title: The Great Disputation codifies the High Principate
+    match: "Great Disputation"
+    sources: [canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: compression-expansion-cycle
+    year: 1225
+    circa: true
+    era: aetheric
+    title: The compression-expansion work cycle demonstrated at the Grand Academy
+    match: "compression-expansion work cycle"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/science/Arlosian_Engines.md]
+
+  - id: law-of-harmonic-conversion
+    year: 1240
+    circa: true
+    era: aetheric
+    title: The Law of Harmonic Conversion is set down
+    match: "Law of Harmonic Conversion"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md]
+
+  - id: gaviatolis-returns
+    year: 1244
+    era: corsairs
+    title: Gaviatolis returns to Balboa by marriage
+    match: "Gaviatolis, by contrast"
+    sources: [canon/polities/Balboa.md]
+
+  - id: maritime-reforms
+    year: 1246
+    era: corsairs
+    title: Commonwealth Maritime Reforms empower the Merseal Compact
+    match: "Maritime Reforms"
+    sources: [canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: revolt-of-the-commons
+    year: 1277
+    era: corsairs
+    title: Revolt of the Commons; Lavion concedes the Commons' Chamber
+    match: "Revolt of the Commons"
+    sources: [canon/polities/The_Varsenne_Basin.md]
+
+  - id: fiurisci-joins-balboa
+    year: 1319
+    era: aetheric
+    title: Fiurisci joins Balboa in personal union
+    match: "Fiurisci followed"
+    sources: [canon/polities/Balboa.md]
+
+  - id: crisis-of-the-commonwealth
+    year: 1341
+    era: aetheric
+    title: Crisis of the Commonwealth and the Siege of Santra (Ereador syn Emsar)
+    match: "Siege of Santra|Ereador"
+    sources: [canon/polities/Commonwealth_of_Principalities.md]
+
+  - id: roburic-ii-reign
+    year: 1498
+    end: 1524
+    era: imperial
+    title: Reign of Roburic II "the Iron Crown"; the Imperial Turn
+    match: "Roburic II \\(|Roburic II \"(the )?Iron"
+    sources: [canon/polities/The_Varsenne_Basin.md, canon/history/Timeline_of_the_Circle_Sea.md]
+
+  - id: undeclared-war
+    year: 1541
+    end: 1561
+    era: imperial
+    title: The Undeclared War in the Rim of Fire
+    match: "Undeclared War"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/history/The_Great_War_A_Chronological_Account.md]
+
+  - id: great-war
+    year: 1561
+    end: 1574
+    era: imperial
+    title: The Great War
+    match: "Great War \\("
+    sources: [canon/history/The_Great_War_A_Chronological_Account.md, canon/polities/Balboa.md]
+
+  - id: piatrium-barvella
+    year: 1571
+    era: imperial
+    title: The Barvella process yields piatrium
+    match: "metallurgical line succeeded"
+    sources: [canon/science/Arlosian_Metallurgy.md, canon/science/Arlosian_Material_Science.md]
+
+  - id: desolation-of-santra
+    year: 1572
+    era: imperial
+    title: The Desolation of Santra
+    match: "Desolation of Santra"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/history/The_Great_War_A_Chronological_Account.md]
+
+  - id: peace-of-balboa
+    year: 1574
+    era: imperial
+    title: The Peace of Balboa ends the Great War
+    match: "Peace of Balboa"
+    sources: [canon/history/Timeline_of_the_Circle_Sea.md, canon/history/The_Great_War_A_Chronological_Account.md, canon/polities/Balboa.md]

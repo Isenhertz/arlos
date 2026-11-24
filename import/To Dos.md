@@ -1,0 +1,5 @@
+- [ ] Recalculate calendars
+	- [ ] Fix moon math
+	- [ ] Set dates of High Constellation (Sun + all Moons)
+	- [ ] Fix references
+	- [ ] Fix events to account for Lurist/Kharunite divergence

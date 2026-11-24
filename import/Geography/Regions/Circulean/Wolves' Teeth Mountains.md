@@ -1,0 +1,20 @@
+---
+aliases:
+  - Lupine
+  - Lupines
+  - Wolves' Teeth
+  - Teeth
+---
+The Wolves' Teeth -- or the Lupines, as scholars are now fond of calling them -- are a single body of stone that arcs like a drawn bow across the spine of the continent, the curve open toward the Circle Sea. From the hilly elbow of Stranu in the west the range rises and swings eastward in a vast crescent, its inner slopes falling to Lavion’s vine-bright rivers and warm bays, its outer faces leaning down toward Svenu's dark forests and the drier heartlands beyond. The line is almost unbroken; only a handful of deep saddles split the crest, and those are the passes the Marches keep as a charge, their watch older than the crowns they serve.
+
+The mountains themselves are pale and hard -- long, clean domes and battlements of granite with their skirts sewn in scree. Sun on dry days makes them chalky and severe; rain turns every gully into a silver comb. The stone is generous in copper and tin, and miners have learned to read the baked veins and greisen seams the way sailors read weather. Iron is the exception that proves the rule. You can scrape ochre from the high bogs and win a few nodules where peat has worked on the hillwater, but there are no fat ironstones to quarry. The old saying holds that the Lupines keep their iron in needles and their wealth in bronze -- a truth that shaped every armory on their Circulean side.
+
+North of the crest the air is salt and mild, washed by onshore winds that climb and spill in gentler rain. The upland storms feed short, clear rivers that tumble quickly to the sea, and the slopes are dotted with terraced fields, chestnut groves, and stone towns that glow like warm bone in evening light. South of the divide the tone changes at once. The rain breaks on the ridge and leaves a leaner sky beyond; springs run colder, summers bite drier, and the soil takes a sterner set. Svenu's high forests cling to the outer buttresses in the southwest, while due south the country opens toward the long roads and horse plains where the riders of Lu-An pressed up along the Swicca and worried the marches for generations. It is here that Lavion's border towns stand watch behind bronze-faced gates, and every road post smells of pitch, leather, and river iron hammered thin.
+
+In this middle arc the Lupines reach their loftiest dignity -- several summits stand near five leagues above the sea by Lavienese counting -- and the ridgelines run like toothed saws between glacier-scored bowls. The passes here rule more than trade. They are the valves that open or close a realm. When the snows lock them, they cut across civilisation like a titanic gash; when they thaw, caravans pour and the Marches become the kingdom's entrance.
+
+Eastward the mountains relax by degrees into long foothills that lean into Ertra. The last spurs are ash-dusted and warm underfoot, for beyond them the peninsula's eastern shore steams and mutters -- shield volcanoes that flare and weep into the Eastern Gyre, painting the beaches black and making mariners speak of iron sands and bad luck in the same breath.
+
+Beyond the eastern gates the world widens into Lu-An proper -- broad steppes under a great sky, thin of soil but thick with story. Here the Sun-Lion Kin range in moving parishes of blood and pride, braids bright against weathered bronze, banners low to the wind. They have never been taken, only turned, and it is the mountain line itself that often made that so.
+
+The Lupines do not merely divide climates. They disentangle peoples. They set the pace of war and treaty, fix the tongues of markets, and teach the smith what metal he will have. The whole arc reads like a rule written across the land: lush to the north, lean to the south, bronze in the hand, and rushing cold waters doled out by the brook.

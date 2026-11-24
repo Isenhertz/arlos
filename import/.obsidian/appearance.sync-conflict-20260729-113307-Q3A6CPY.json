@@ -1,0 +1,11 @@
+{
+  "accentColor": "#741563",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "S - Callouts",
+    "Timeline Events",
+    "natural embeds"
+  ],
+  "theme": "obsidian",
+  "textFontFamily": ""
+}

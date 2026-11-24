@@ -1,0 +1,1 @@
+The ocean west of the [[Circle Sea#The Suurian Gates|Suurian Gates]], stretching from the coasts of [[An-Suur]], [[Stranu]] and [[Svenu]] all the way across to far-away [[Hyanatao]] beyond the [[Rim of Fire]], is called the Open Ocean (in contrast to the Circle Sea).

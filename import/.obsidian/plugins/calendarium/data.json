@@ -1,0 +1,2664 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Lurist Calendar",
+      "description": "The common calendar in use around the Circle Sea, established by the First Hierophancy",
+      "id": "ID_f949f8295baa",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Isday",
+            "id": "ID_0b1b0ad899db"
+          },
+          {
+            "type": "day",
+            "name": "Ersday",
+            "id": "ID_49eaca39d81b"
+          },
+          {
+            "type": "day",
+            "name": "Lurday",
+            "id": "ID_9b18599b2a59"
+          },
+          {
+            "type": "day",
+            "name": "Varday",
+            "id": "ID_3968aadb1ae9"
+          },
+          {
+            "type": "day",
+            "name": "Wynday",
+            "id": "ID_aa09baaaab68"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Vernal Equinox",
+            "length": 15,
+            "id": "ID_5a2868e83a1b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Springbreak",
+            "length": 15,
+            "id": "ID_880b782808c9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Rainwash",
+            "length": 15,
+            "id": "ID_4b9b1b28892a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Grigwake",
+            "length": 15,
+            "id": "ID_8ab998eb184b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Puresky",
+            "length": 15,
+            "id": "ID_1a680b49b889",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Grainwater",
+            "length": 15,
+            "id": "ID_89ca09ab686a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Estival Solstice",
+            "length": 15,
+            "id": "ID_7be85a8959d9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Summerbreak",
+            "length": 15,
+            "id": "ID_1aea19ea784b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Grainspout",
+            "length": 15,
+            "id": "ID_e87aa8d86b2b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Seedbeards",
+            "length": 15,
+            "id": "ID_0918f839cbb8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Firstheat",
+            "length": 15,
+            "id": "ID_5b197b38fb78",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Greatheat",
+            "length": 15,
+            "id": "ID_39c88b689b5b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Autumnal Equinox",
+            "length": 15,
+            "id": "ID_bbe959b9895b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Fallbreak",
+            "length": 15,
+            "id": "ID_8b9b2b09eadb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Lastheat",
+            "length": 15,
+            "id": "ID_49c958ba3ac8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dewfall",
+            "length": 15,
+            "id": "ID_692a0808389a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Cooldew",
+            "length": 15,
+            "id": "ID_9ad8395aea0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Frostfall",
+            "length": 15,
+            "id": "ID_f989a9796998",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hiemal Solstice",
+            "length": 15,
+            "id": "ID_ea1bca6aaba8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Winterbreak",
+            "length": 15,
+            "id": "ID_480b2a4a7a8a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Firstsnow",
+            "length": 15,
+            "id": "ID_4b092b0b090b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Greatsnow",
+            "length": 15,
+            "id": "ID_b969e83bdac8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Firstcold",
+            "length": 15,
+            "id": "ID_7a6af8a9d879",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Greatcold",
+            "length": 15,
+            "id": "ID_5aa85919f9bb",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 24,
+            "offset": 19,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_f8dafa0bbb9b"
+          },
+          {
+            "name": "Tortoise",
+            "cycle": 60,
+            "offset": 37,
+            "faceColor": "#064205",
+            "shadowColor": "#000",
+            "id": "ID_7a782b396a4a"
+          },
+          {
+            "name": "Reckoner",
+            "cycle": 864,
+            "offset": -55,
+            "faceColor": "#6b0505",
+            "shadowColor": "#000",
+            "id": "ID_6a3bc9eb1ab8"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_1beb682b6b7b",
+            "type": "era",
+            "name": "Rivian Epoch",
+            "description": "",
+            "format": "BR",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": -2000
+            },
+            "end": {
+              "day": 1,
+              "month": 0,
+              "year": -1024
+            }
+          },
+          {
+            "id": "ID_e8eb795b0a88",
+            "type": "era",
+            "name": "Remean Era",
+            "description": "",
+            "format": "BR",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -1024,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -1,
+              "month": 1,
+              "day": 11
+            }
+          },
+          {
+            "id": "ID_db28d8fb8b79",
+            "type": "era",
+            "name": "Age of Enlightenment",
+            "description": "",
+            "format": "AR",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 324,
+              "month": 16,
+              "day": 12
+            }
+          },
+          {
+            "id": "ID_0b88387aa938",
+            "type": "era",
+            "name": "Dark Ages",
+            "description": "",
+            "format": "AR",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 325,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 899,
+              "month": 23,
+              "day": 15
+            }
+          },
+          {
+            "id": "ID_a809bbdbd999",
+            "type": "era",
+            "name": "Interregnum",
+            "description": "",
+            "format": "AR",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 888,
+              "month": 4,
+              "day": 2
+            },
+            "end": {
+              "year": 998,
+              "month": 9,
+              "day": 6
+            }
+          },
+          {
+            "id": "ID_3ab8f978bafb",
+            "type": "era",
+            "name": "Age of Corsairs",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 900
+            },
+            "end": {
+              "day": 15,
+              "month": 23,
+              "year": 1299
+            }
+          },
+          {
+            "id": "ID_cacb9b998a69",
+            "type": "era",
+            "name": "Aetheric Age",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1300
+            },
+            "end": {
+              "day": 15,
+              "month": 23,
+              "year": 1499
+            }
+          },
+          {
+            "id": "ID_c8dae8f9ca19",
+            "type": "era",
+            "name": "Imperial Age",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1500
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 8,
+        "month": 0,
+        "year": 1514
+      },
+      "events": [
+        {
+          "name": "War of the Three Kings",
+          "description": null,
+          "date": {
+            "month": 23,
+            "day": 11,
+            "year": 1117
+          },
+          "id": "ID_78292968bbc9",
+          "note": null,
+          "category": "ID_8b8a2bab2ac9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "month": 8,
+            "day": 3,
+            "year": 1121
+          }
+        },
+        {
+          "name": "Founding of Reme",
+          "description": "The mythological founding date of the ancient city of Reme",
+          "date": {
+            "day": 1,
+            "month": 12,
+            "year": -1024
+          },
+          "id": "ID_4a7b3b488b5b",
+          "note": null,
+          "category": "ID_e818a94b59e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fall of Reme",
+          "description": "Sacking of Reme during the 1st Lurist Crusade",
+          "date": {
+            "day": 11,
+            "month": 1,
+            "year": 0
+          },
+          "id": "ID_d9b9da896b1a",
+          "note": null,
+          "category": "ID_88e8cae82b8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Founding of Balboa (City)",
+          "description": "Documented establishment of Balboa as a Remean Port on the eastern side of the Ertran Peninsula.",
+          "date": {
+            "day": 13,
+            "month": 12,
+            "year": -687
+          },
+          "id": "ID_d9583bc988ca",
+          "note": null,
+          "category": "ID_e818a94b59e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lauralotta di Balboa (Birth)",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 13,
+            "year": 1389
+          },
+          "id": "ID_b9eb395888aa",
+          "note": null,
+          "category": "ID_e9f99aa8e8da",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Day of Names",
+          "description": "Traditionally the day from which age was counted, supplanted in modern times by the actual day of birth. The age of majority is still determined from the most recent Day of Names, however.",
+          "date": {
+            "month": 0,
+            "day": 14,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_c9fa0a9a08d8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Equinox",
+          "description": "The day of the equinox, and culmination of the festivities leading up to it",
+          "date": {
+            "month": 0,
+            "day": 8,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_78c8a8daab79",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "First Furrow (early)",
+          "description": "Households carry their smallest tools to the nave steps for a blessing of hands and implements; at noon, boundary stones are chalked and light ash scattered on the first tilled ridge. In villages one still sees old habits peeking through in offerings to the Furrow Folk and Dewlasses, treated as emissaries of the Lord of Loam whose name once stood where the creed now is.",
+          "date": {
+            "month": 1,
+            "day": 11,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_0bab1a0ae81a",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring",
+          "end": {
+            "month": 2,
+            "day": 10,
+            "year": 1514
+          }
+        },
+        {
+          "name": "First Furrow (late)",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 6,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_78cb7a187be8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Stone Charter Day",
+          "description": "The start of building season -- lines struck, foundations blessed, contracts haggled over at the nave door.",
+          "date": {
+            "month": 1,
+            "day": 9,
+            "year": [
+              0,
+              null
+            ]
+          },
+          "id": "ID_8a8a0ba8d838",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Shore's Blessing",
+          "description": "Sluices are planed true, weirs scrubbed, and prayers spoken for bounty and mercy of water; riverfolk hang blue ribbons at the foot of bridges where no one will trip, participate in regattas, and fish markets sponsor free stew for the poor. Everyone knows whose favor is being courted, even as the homily speaks only of right stewardship.",
+          "date": {
+            "day": 4,
+            "month": 2,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_4aeb19798a4b",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Beginning of the Great Fast of Alignment",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 1,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_3a29784b4a8b",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Last day of the Great Fast",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 7,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_2a3b6b99abeb",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Day of the Light",
+          "description": "Liturgical pinnacle of the year; highest feast day for the Communion of the Enlightened.",
+          "date": {
+            "month": 6,
+            "day": 8,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_38eb59ba78d8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Pilgrim's Leave",
+          "description": "Traditional day of departure for people undergoing a pilgrimage",
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_d87b6be8380a",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ashen Remembrance",
+          "description": "A remembrance of the Fall of Reme. Chimneys are swept and firebreaks inspected; neighbourhoods run fire drills that sometimes turn competitive and raucous. In the heat's height of noon the bells and gongs ring together and the names of those lost to conflagration are read aloud. A priest gives the expected sermon on law, measure, and the sin of bending created powers to appetite, while a soft murmur runs through the crowd as people mutter an unsanctioned courtesy to the Cinder-King who scourged Reme from the face of Arlos.",
+          "date": {
+            "day": 3,
+            "month": 11,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_29fa1b89bbcb",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Grand Conjunction",
+          "description": "The auspicious 12-year conjunction of all three moons and the vernal equinox.",
+          "date": {
+            "day": 8,
+            "month": 0,
+            "year": [
+              2,
+              12
+            ]
+          },
+          "id": "ID_fac928880899",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_8b8a2bab2ac9",
+          "color": "#d38022",
+          "name": "Conflicts"
+        },
+        {
+          "id": "ID_e818a94b59e8",
+          "color": "#1a9e4c",
+          "name": "Foundings"
+        },
+        {
+          "id": "ID_e9f99aa8e8da",
+          "color": "#f9fff5",
+          "name": "Births"
+        },
+        {
+          "id": "ID_88e8cae82b8b",
+          "color": "#890b0b",
+          "name": "Disasters"
+        },
+        {
+          "id": "ID_2ac85b986909",
+          "color": "#05b1bd",
+          "name": "Festivities"
+        },
+        {
+          "id": "ID_cae8a9f99b6a",
+          "color": "#454545",
+          "name": "Deaths"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "D of MMMM, Y",
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_da7b8bb9dba8",
+            "name": "Spring",
+            "type": "Periodic",
+            "color": "#a4f9c9",
+            "duration": 90,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_0b49eb6a490a",
+            "name": "Summer",
+            "type": "Periodic",
+            "color": "#e5097e",
+            "duration": 90,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_e97b2bcb48e8",
+            "name": "Autumn",
+            "type": "Periodic",
+            "color": "#99a013",
+            "duration": 90,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_9acbc84bfad8",
+            "name": "Winter",
+            "type": "Periodic",
+            "color": "#acadef",
+            "duration": 90,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 7,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1914637826,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    },
+    {
+      "name": "Remean Calendar",
+      "description": "Calendar of the Ancients, no longer in use",
+      "id": "ID_fa496999383a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Nivi",
+            "id": "ID_f90a6b39fbf9"
+          },
+          {
+            "type": "day",
+            "name": "Lapidi",
+            "id": "ID_49f9dabb2ae8"
+          },
+          {
+            "type": "day",
+            "name": "Soli",
+            "id": "ID_5a38694b988b"
+          },
+          {
+            "type": "day",
+            "name": "Igni",
+            "id": "ID_695ab858e93a"
+          },
+          {
+            "type": "day",
+            "name": "Venti",
+            "id": "ID_69fbe9da998b"
+          },
+          {
+            "type": "day",
+            "name": "Mari",
+            "id": "ID_c8ea3a6b78c8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Conjunction",
+            "length": 24,
+            "id": "ID_a9a978daa99b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hourglass",
+            "length": 24,
+            "id": "ID_2bb8eb9ab8c9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Fisher",
+            "length": 24,
+            "id": "ID_bbcb69aad9da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Beacon",
+            "length": 24,
+            "id": "ID_e9295b6b9b58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Fishtail",
+            "length": 24,
+            "id": "ID_d94bba1aa9fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Pilot",
+            "length": 24,
+            "id": "ID_794aea1bfb9a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Highseat",
+            "length": 24,
+            "id": "ID_88bbe9c87a1a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Weir",
+            "length": 24,
+            "id": "ID_bbc858a9682a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Serpent",
+            "length": 24,
+            "id": "ID_6b882a781b99",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Capitoline",
+            "length": 24,
+            "id": "ID_8b69caca7bd8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Oar",
+            "length": 24,
+            "id": "ID_28cb3a38b988",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mountain",
+            "length": 24,
+            "id": "ID_cb9b3a9b68f9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hearth",
+            "length": 24,
+            "id": "ID_5b1aea884a4b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Flute",
+            "length": 24,
+            "id": "ID_89e808babae8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Gates",
+            "length": 24,
+            "id": "ID_3998fb0888fb",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 24,
+            "offset": 19,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_cadadb7b0b4a"
+          },
+          {
+            "name": "Tortoise",
+            "cycle": 60,
+            "offset": 37,
+            "faceColor": "#0d4511",
+            "shadowColor": "#000",
+            "id": "ID_1b7bf818084a"
+          },
+          {
+            "name": "Reckoner",
+            "cycle": 864,
+            "offset": -55,
+            "faceColor": "#670909",
+            "shadowColor": "#000",
+            "id": "ID_f96a78688869"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_98eb5bb8f8c8",
+            "type": "era",
+            "name": "Foundation",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1
+            },
+            "end": {
+              "day": 1,
+              "month": 0,
+              "year": 200
+            }
+          },
+          {
+            "id": "ID_29e8ab8b2a29",
+            "type": "era",
+            "name": "Expansion",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 201
+            },
+            "end": {
+              "day": 1,
+              "month": 0,
+              "year": 501
+            }
+          },
+          {
+            "id": "ID_3a4adb488889",
+            "type": "era",
+            "name": "Empire",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 501
+            },
+            "end": {
+              "day": 1,
+              "month": 0,
+              "year": 800
+            }
+          },
+          {
+            "id": "ID_9bf84b6938b8",
+            "type": "era",
+            "name": "Fall",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 801
+            },
+            "end": {
+              "day": 1,
+              "month": 0,
+              "year": 1024
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 2538
+      },
+      "events": [],
+      "categories": [
+        {
+          "id": "ID_2958199829e8",
+          "color": "#f3ccff",
+          "name": "Conjunctions"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "MMMM D, Y",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1914637826,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    },
+    {
+      "name": "Belanar Calendar",
+      "description": "Calendar of the Ukili'ata",
+      "id": "ID_e93b3aaa484a",
+      "showIntercalarySeparately": false,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "1st",
+            "id": "ID_096809a83aab"
+          },
+          {
+            "type": "day",
+            "name": "2nd",
+            "id": "ID_dac8a8f9380b"
+          },
+          {
+            "type": "day",
+            "name": "3rd",
+            "id": "ID_ebeb5bf8c919"
+          },
+          {
+            "type": "day",
+            "name": "4th",
+            "id": "ID_d9892af84b1b"
+          },
+          {
+            "type": "day",
+            "name": "5th",
+            "id": "ID_98096a490a9b"
+          },
+          {
+            "type": "day",
+            "name": "6th",
+            "id": "ID_4b395beb7849"
+          },
+          {
+            "type": "day",
+            "name": "7th",
+            "id": "ID_3ba9aac9d99a"
+          },
+          {
+            "type": "day",
+            "name": "8th",
+            "id": "ID_daaa4a5b191a"
+          },
+          {
+            "type": "day",
+            "name": "9th",
+            "id": "ID_6b58dab93918"
+          },
+          {
+            "type": "day",
+            "name": "10th",
+            "id": "ID_5b1b7a6948aa"
+          },
+          {
+            "type": "day",
+            "name": "11th",
+            "id": "ID_aa69b8e81bb9"
+          },
+          {
+            "type": "day",
+            "name": "12th",
+            "id": "ID_9898ebd9d8ca"
+          },
+          {
+            "type": "day",
+            "name": "13th",
+            "id": "ID_8998ea989ab9"
+          },
+          {
+            "type": "day",
+            "name": "14th",
+            "id": "ID_9a4b7ae87b39"
+          },
+          {
+            "type": "day",
+            "name": "15th",
+            "id": "ID_3b09f8ab4a9a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "1st Pass",
+            "length": 60,
+            "id": "ID_3aaa5888ea08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "2nd Pass",
+            "length": 60,
+            "id": "ID_ab1968abea69",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "3rd Pass",
+            "length": 60,
+            "id": "ID_59e8f8e958fa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "4th Pass",
+            "length": 60,
+            "id": "ID_3be9bb98cbba",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "5th Pass",
+            "length": 60,
+            "id": "ID_b80ae80a1abb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "6th Pass",
+            "length": 60,
+            "id": "ID_1a79785aea18",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 24,
+            "offset": 19,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_fad819298a98"
+          },
+          {
+            "name": "Belana",
+            "cycle": 60,
+            "offset": 37,
+            "faceColor": "#20832b",
+            "shadowColor": "#000",
+            "id": "ID_9ac8f9eb381a"
+          },
+          {
+            "name": "Reckoner",
+            "cycle": 864,
+            "offset": -55,
+            "faceColor": "#b53636",
+            "shadowColor": "#000",
+            "id": "ID_a9e9aa0baa6b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "current": {
+        "day": 8,
+        "month": 0,
+        "year": 1514
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "Dth of the MMMM, Y",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1914637826,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    },
+    {
+      "name": "Concordian Calendar",
+      "description": "The calendar used by the Western Church of Stranu, functionally identical with the wider Lurist calendar but counting from the Enlightenment of the Prophet rather than the Fall of Reme.",
+      "id": "ID_ca294bd8fa09",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Isday",
+            "id": "ID_0b1b0ad899db"
+          },
+          {
+            "type": "day",
+            "name": "Ersday",
+            "id": "ID_49eaca39d81b"
+          },
+          {
+            "type": "day",
+            "name": "Lurday",
+            "id": "ID_9b18599b2a59"
+          },
+          {
+            "type": "day",
+            "name": "Varday",
+            "id": "ID_3968aadb1ae9"
+          },
+          {
+            "type": "day",
+            "name": "Wynday",
+            "id": "ID_aa09baaaab68"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Vernal Equinox",
+            "length": 15,
+            "id": "ID_5a2868e83a1b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Springbreak",
+            "length": 15,
+            "id": "ID_880b782808c9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Rainwash",
+            "length": 15,
+            "id": "ID_4b9b1b28892a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Grigwake",
+            "length": 15,
+            "id": "ID_8ab998eb184b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Puresky",
+            "length": 15,
+            "id": "ID_1a680b49b889",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Grainwater",
+            "length": 15,
+            "id": "ID_89ca09ab686a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Estival Solstice",
+            "length": 15,
+            "id": "ID_7be85a8959d9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Summerbreak",
+            "length": 15,
+            "id": "ID_1aea19ea784b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Grainspout",
+            "length": 15,
+            "id": "ID_e87aa8d86b2b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Seedbeards",
+            "length": 15,
+            "id": "ID_0918f839cbb8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Firstheat",
+            "length": 15,
+            "id": "ID_5b197b38fb78",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Greatheat",
+            "length": 15,
+            "id": "ID_39c88b689b5b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Autumnal Equinox",
+            "length": 15,
+            "id": "ID_bbe959b9895b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Fallbreak",
+            "length": 15,
+            "id": "ID_8b9b2b09eadb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Lastheat",
+            "length": 15,
+            "id": "ID_49c958ba3ac8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dewfall",
+            "length": 15,
+            "id": "ID_692a0808389a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Cooldew",
+            "length": 15,
+            "id": "ID_9ad8395aea0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Frostfall",
+            "length": 15,
+            "id": "ID_f989a9796998",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hiemal Solstice",
+            "length": 15,
+            "id": "ID_ea1bca6aaba8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Winterbreak",
+            "length": 15,
+            "id": "ID_480b2a4a7a8a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Firstsnow",
+            "length": 15,
+            "id": "ID_4b092b0b090b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Greatsnow",
+            "length": 15,
+            "id": "ID_b969e83bdac8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Firstcold",
+            "length": 15,
+            "id": "ID_7a6af8a9d879",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Greatcold",
+            "length": 15,
+            "id": "ID_5aa85919f9bb",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 24,
+            "offset": 19,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_f8dafa0bbb9b"
+          },
+          {
+            "name": "Tortoise",
+            "cycle": 60,
+            "offset": 37,
+            "faceColor": "#064205",
+            "shadowColor": "#000",
+            "id": "ID_7a782b396a4a"
+          },
+          {
+            "name": "Reckoner",
+            "cycle": 864,
+            "offset": -55,
+            "faceColor": "#6b0505",
+            "shadowColor": "#000",
+            "id": "ID_6a3bc9eb1ab8"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_986afa886a1b",
+            "type": "era",
+            "name": "Before the Enlightenment",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": -2000
+            },
+            "end": {
+              "day": 15,
+              "month": 23,
+              "year": -1
+            }
+          },
+          {
+            "id": "ID_196b899b7a2a",
+            "type": "era",
+            "name": "Since the Enlightenment of the Prophet",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 8,
+        "month": 0,
+        "year": 1869
+      },
+      "events": [
+        {
+          "name": "War of the Three Kings",
+          "description": null,
+          "date": {
+            "month": 23,
+            "day": 11,
+            "year": 1117
+          },
+          "id": "ID_78292968bbc9",
+          "note": null,
+          "category": "ID_8b8a2bab2ac9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "month": 8,
+            "day": 3,
+            "year": 1121
+          }
+        },
+        {
+          "name": "Founding of Reme",
+          "description": "The mythological founding date of the ancient city of Reme",
+          "date": {
+            "day": 1,
+            "month": 12,
+            "year": -1024
+          },
+          "id": "ID_4a7b3b488b5b",
+          "note": null,
+          "category": "ID_e818a94b59e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fall of Reme",
+          "description": "Sacking of Reme during the 1st Lurist Crusade",
+          "date": {
+            "day": 11,
+            "month": 1,
+            "year": 0
+          },
+          "id": "ID_d9b9da896b1a",
+          "note": null,
+          "category": "ID_88e8cae82b8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Founding of Balboa (City)",
+          "description": "Documented establishment of Balboa as a Remean Port on the eastern side of the Ertran Peninsula.",
+          "date": {
+            "day": 13,
+            "month": 12,
+            "year": -687
+          },
+          "id": "ID_d9583bc988ca",
+          "note": null,
+          "category": "ID_e818a94b59e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lauralotta di Balboa (Birth)",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 13,
+            "year": 1389
+          },
+          "id": "ID_b9eb395888aa",
+          "note": null,
+          "category": "ID_e9f99aa8e8da",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Day of Names",
+          "description": "Traditionally the day from which age was counted, supplanted in modern times by the actual day of birth. The age of majority is still determined from the most recent Day of Names, however.",
+          "date": {
+            "month": 0,
+            "day": 14,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_c9fa0a9a08d8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Equinox",
+          "description": "The day of the equinox, and culmination of the festivities leading up to it",
+          "date": {
+            "month": 0,
+            "day": 8,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_78c8a8daab79",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "First Furrow (early)",
+          "description": "Households carry their smallest tools to the nave steps for a blessing of hands and implements; at noon, boundary stones are chalked and light ash scattered on the first tilled ridge. In villages one still sees old habits peeking through in offerings to the Furrow Folk and Dewlasses, treated as emissaries of the Lord of Loam whose name once stood where the creed now is.",
+          "date": {
+            "month": 1,
+            "day": 11,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_0bab1a0ae81a",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring",
+          "end": {
+            "month": 2,
+            "day": 10,
+            "year": 1514
+          }
+        },
+        {
+          "name": "First Furrow (late)",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 6,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_78cb7a187be8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Stone Charter Day",
+          "description": "The start of building season -- lines struck, foundations blessed, contracts haggled over at the nave door.",
+          "date": {
+            "month": 1,
+            "day": 9,
+            "year": [
+              0,
+              null
+            ]
+          },
+          "id": "ID_8a8a0ba8d838",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Shore's Blessing",
+          "description": "Sluices are planed true, weirs scrubbed, and prayers spoken for bounty and mercy of water; riverfolk hang blue ribbons at the foot of bridges where no one will trip, participate in regattas, and fish markets sponsor free stew for the poor. Everyone knows whose favor is being courted, even as the homily speaks only of right stewardship.",
+          "date": {
+            "day": 4,
+            "month": 2,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_4aeb19798a4b",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Beginning of the Great Fast of Alignment",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 1,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_3a29784b4a8b",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Last day of the Great Fast",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 7,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_2a3b6b99abeb",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Day of the Light",
+          "description": "Liturgical pinnacle of the year; highest feast day for the Communion of the Enlightened.",
+          "date": {
+            "month": 6,
+            "day": 8,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_38eb59ba78d8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Pilgrim's Leave",
+          "description": "Traditional day of departure for people undergoing a pilgrimage",
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_d87b6be8380a",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ashen Remembrance",
+          "description": "A remembrance of the Fall of Reme. Chimneys are swept and firebreaks inspected; neighbourhoods run fire drills that sometimes turn competitive and raucous. In the heat's height of noon the bells and gongs ring together and the names of those lost to conflagration are read aloud. A priest gives the expected sermon on law, measure, and the sin of bending created powers to appetite, while a soft murmur runs through the crowd as people mutter an unsanctioned courtesy to the Cinder-King who scourged Reme from the face of Arlos.",
+          "date": {
+            "day": 3,
+            "month": 11,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_29fa1b89bbcb",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_8b8a2bab2ac9",
+          "color": "#d38022",
+          "name": "Conflicts"
+        },
+        {
+          "id": "ID_e818a94b59e8",
+          "color": "#1a9e4c",
+          "name": "Foundings"
+        },
+        {
+          "id": "ID_e9f99aa8e8da",
+          "color": "#f9fff5",
+          "name": "Births"
+        },
+        {
+          "id": "ID_88e8cae82b8b",
+          "color": "#890b0b",
+          "name": "Disasters"
+        },
+        {
+          "id": "ID_2ac85b986909",
+          "color": "#05b1bd",
+          "name": "Festivities"
+        },
+        {
+          "id": "ID_cae8a9f99b6a",
+          "color": "#454545",
+          "name": "Deaths"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "Dth MMMM Y",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1914637826,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    },
+    {
+      "name": "Kharunite Calendar",
+      "description": "The calendar of the Kharunites, counting from the Martyrdom of their namesake Saint. It uses older Velkirian sexagesimal counting, similar to the Belanar calendar (but not synchronized to that moon).",
+      "id": "ID_a8eacb8bd898",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Lurday",
+            "id": "ID_9b18599b2a59"
+          },
+          {
+            "type": "day",
+            "name": "Varday",
+            "id": "ID_3968aadb1ae9"
+          },
+          {
+            "type": "day",
+            "name": "Wynday",
+            "id": "ID_aa09baaaab68"
+          },
+          {
+            "type": "day",
+            "name": "Isday",
+            "id": "ID_0b1b0ad899db"
+          },
+          {
+            "type": "day",
+            "name": "Ersday",
+            "id": "ID_49eaca39d81b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Renewal",
+            "length": 60,
+            "id": "ID_5a2868e83a1b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Growth",
+            "length": 60,
+            "id": "ID_a918d87928e9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Height",
+            "length": 60,
+            "id": "ID_bb38f8096bfa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Harvest",
+            "length": 60,
+            "id": "ID_e93b0bf9ca4b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Wane",
+            "length": 60,
+            "id": "ID_09391878584a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Rest",
+            "length": 60,
+            "id": "ID_98fa8918cbc9",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 24,
+            "offset": 19,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_f8dafa0bbb9b"
+          },
+          {
+            "name": "Tortoise",
+            "cycle": 60,
+            "offset": 37,
+            "faceColor": "#064205",
+            "shadowColor": "#000",
+            "id": "ID_7a782b396a4a"
+          },
+          {
+            "name": "Reckoner",
+            "cycle": 600,
+            "offset": -55,
+            "faceColor": "#6b0505",
+            "shadowColor": "#000",
+            "id": "ID_6a3bc9eb1ab8"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_f8081b0aca38",
+            "type": "era",
+            "name": "Before the Enlightenment",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": -2000
+            },
+            "end": {
+              "day": 15,
+              "month": 23,
+              "year": -179
+            }
+          },
+          {
+            "id": "ID_e8ab1b985898",
+            "type": "era",
+            "name": "Era of the Revelation",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": -178
+            },
+            "end": {
+              "day": 15,
+              "month": 23,
+              "year": -1
+            }
+          },
+          {
+            "id": "ID_c8882888b9a9",
+            "type": "era",
+            "name": "After the Martyrdom of Saint Kharun",
+            "description": "",
+            "format": "of our Martyred Judge",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1
+            }
+          }
+        ],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 1691
+      },
+      "events": [
+        {
+          "name": "War of the Three Kings",
+          "description": null,
+          "date": {
+            "month": 23,
+            "day": 11,
+            "year": 1117
+          },
+          "id": "ID_78292968bbc9",
+          "note": null,
+          "category": "ID_8b8a2bab2ac9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "month": 8,
+            "day": 3,
+            "year": 1121
+          }
+        },
+        {
+          "name": "Founding of Reme",
+          "description": "The mythological founding date of the ancient city of Reme",
+          "date": {
+            "day": 1,
+            "month": 12,
+            "year": -1024
+          },
+          "id": "ID_4a7b3b488b5b",
+          "note": null,
+          "category": "ID_e818a94b59e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fall of Reme",
+          "description": "Sacking of Reme during the 1st Lurist Crusade",
+          "date": {
+            "day": 11,
+            "month": 1,
+            "year": 0
+          },
+          "id": "ID_d9b9da896b1a",
+          "note": null,
+          "category": "ID_88e8cae82b8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Founding of Balboa (City)",
+          "description": "Documented establishment of Balboa as a Remean Port on the eastern side of the Ertran Peninsula.",
+          "date": {
+            "day": 13,
+            "month": 12,
+            "year": -687
+          },
+          "id": "ID_d9583bc988ca",
+          "note": null,
+          "category": "ID_e818a94b59e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lauralotta di Balboa (Birth)",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 13,
+            "year": 1389
+          },
+          "id": "ID_b9eb395888aa",
+          "note": null,
+          "category": "ID_e9f99aa8e8da",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Day of Names",
+          "description": "Traditionally the day from which age was counted, supplanted in modern times by the actual day of birth. The age of majority is still determined from the most recent Day of Names, however.",
+          "date": {
+            "month": 0,
+            "day": 14,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_c9fa0a9a08d8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Equinox",
+          "description": "The day of the equinox, and culmination of the festivities leading up to it",
+          "date": {
+            "month": 0,
+            "day": 8,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_78c8a8daab79",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "First Furrow (early)",
+          "description": "Households carry their smallest tools to the nave steps for a blessing of hands and implements; at noon, boundary stones are chalked and light ash scattered on the first tilled ridge. In villages one still sees old habits peeking through in offerings to the Furrow Folk and Dewlasses, treated as emissaries of the Lord of Loam whose name once stood where the creed now is.",
+          "date": {
+            "month": 1,
+            "day": 11,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_0bab1a0ae81a",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring",
+          "end": {
+            "month": 2,
+            "day": 10,
+            "year": 1514
+          }
+        },
+        {
+          "name": "First Furrow (late)",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 6,
+            "year": [
+              -2000,
+              null
+            ]
+          },
+          "id": "ID_78cb7a187be8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Stone Charter Day",
+          "description": "The start of building season -- lines struck, foundations blessed, contracts haggled over at the nave door.",
+          "date": {
+            "month": 1,
+            "day": 9,
+            "year": [
+              0,
+              null
+            ]
+          },
+          "id": "ID_8a8a0ba8d838",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Shore's Blessing",
+          "description": "Sluices are planed true, weirs scrubbed, and prayers spoken for bounty and mercy of water; riverfolk hang blue ribbons at the foot of bridges where no one will trip, participate in regattas, and fish markets sponsor free stew for the poor. Everyone knows whose favor is being courted, even as the homily speaks only of right stewardship.",
+          "date": {
+            "day": 4,
+            "month": 2,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_4aeb19798a4b",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Beginning of the Great Fast of Alignment",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 1,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_3a29784b4a8b",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Last day of the Great Fast",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 7,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_2a3b6b99abeb",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Day of the Light",
+          "description": "Liturgical pinnacle of the year; highest feast day for the Communion of the Enlightened.",
+          "date": {
+            "month": 6,
+            "day": 8,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_38eb59ba78d8",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Pilgrim's Leave",
+          "description": "Traditional day of departure for people undergoing a pilgrimage",
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              -350,
+              null
+            ]
+          },
+          "id": "ID_d87b6be8380a",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ashen Remembrance",
+          "description": "A remembrance of the Fall of Reme. Chimneys are swept and firebreaks inspected; neighbourhoods run fire drills that sometimes turn competitive and raucous. In the heat's height of noon the bells and gongs ring together and the names of those lost to conflagration are read aloud. A priest gives the expected sermon on law, measure, and the sin of bending created powers to appetite, while a soft murmur runs through the crowd as people mutter an unsanctioned courtesy to the Cinder-King who scourged Reme from the face of Arlos.",
+          "date": {
+            "day": 3,
+            "month": 11,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_29fa1b89bbcb",
+          "note": null,
+          "category": "ID_2ac85b986909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_8b8a2bab2ac9",
+          "color": "#d38022",
+          "name": "Conflicts"
+        },
+        {
+          "id": "ID_e818a94b59e8",
+          "color": "#1a9e4c",
+          "name": "Foundings"
+        },
+        {
+          "id": "ID_e9f99aa8e8da",
+          "color": "#f9fff5",
+          "name": "Births"
+        },
+        {
+          "id": "ID_88e8cae82b8b",
+          "color": "#890b0b",
+          "name": "Disasters"
+        },
+        {
+          "id": "ID_2ac85b986909",
+          "color": "#05b1bd",
+          "name": "Festivities"
+        },
+        {
+          "id": "ID_cae8a9f99b6a",
+          "color": "#454545",
+          "name": "Deaths"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "Dth of the MMMM Moon, Y",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1914637826,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_f949f8295baa",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": "#event",
+  "paths": [],
+  "autoParse": true
+}

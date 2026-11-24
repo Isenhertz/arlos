@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "d8d279d32a84cd6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "edb6f34de85f7bdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6ed0742b34d220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Lavion and its Vassals/Principality of Balboa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principality of Balboa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05692d006066e650",
+    "type": "split",
+    "children": [
+      {
+        "id": "3deb9a165c4772ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7402146ec5a49898",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d334a0d429fd127c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c958d3b71512bab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fbdb7df0e2a49989",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "982287e43eb10f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b2b1d0e8521782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37253f6041414a7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geography/Settlements/City of Balboa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for City of Balboa"
+            }
+          },
+          {
+            "id": "f5f56e82e8a6b485",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geography/Settlements/City of Balboa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from City of Balboa"
+            }
+          },
+          {
+            "id": "edf4fc27f4598345",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9a05bd6f8470ffb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geography/Settlements/City of Balboa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of City of Balboa"
+            }
+          },
+          {
+            "id": "e215d1b856a92546",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_f949f8295baa",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 8,
+                    "month": 0,
+                    "year": 1514
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_f889d9b84afa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "b7b63bd21a174ad7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "8b6ed0742b34d220",
+  "lastOpenFiles": [
+    "Organisations/Lavion and its Vassals/Kingdom of Lavion.md",
+    "Organisations/Families & Houses/di Balboa.md",
+    "Organisations/Families & Houses/de Lavion.md",
+    "Organisations/Lavion and its Vassals/Principality of Balboa.md",
+    "Media/Crests and Heraldry/Balboa (principality).png",
+    "Organisations/Families & Houses/Suurial.md",
+    "Geography/Settlements/City of Balboa.md",
+    "Organisations/Lavion and its Vassals/Vassals in Lavion.md",
+    "Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md",
+    "Organisations/Lurist organisations/Concordianism.md",
+    "Organisations/Lurist organisations/Eastern Rite.md",
+    "Organisations/Lurist organisations/Church of the Light.md",
+    "Geography/Settlements/An-Mirda.md",
+    "Timekeeping/Timelines/Timeline of the Circle Sea.md",
+    "Timekeeping/Calendars of Arlos.md",
+    "Timekeeping/Technology Snapshot 1420s.md",
+    "Peoples/Beastkin.md",
+    "Cosmology/Ineffable Forces/Animal Spirit.md",
+    "Peoples/~syncthing~Beastkin.md.tmp",
+    "Willkommen.md",
+    "~syncthing~Willkommen.md.tmp",
+    "Geography/Settlements/Edomis.md",
+    "Organisations/Minor Polities.md",
+    "To Dos.md",
+    "Minor Notes.md",
+    "Peoples/Alvai/Bâlghubäerhe.md",
+    "Timekeeping/The Moons.md",
+    "Timekeeping/Calendars_of_Arlos_Reference.md",
+    "Peoples/Alvai/Starkin.md",
+    "Untitled",
+    "Geography/Regions/Rim of Fire",
+    "Untitled.base",
+    "Material Reality/Engineering",
+    "Timekeeping/Events",
+    "Timekeeping/Timelines",
+    "Cosmology/Aetheric Arts",
+    "Media/Other Images/Woodwose-Portrait.png",
+    "Media/Other Images/Stormbrow-Portrait.png",
+    "Media/Other Images/Dancer in Rain-Portrait.png",
+    "Media/Other Images/Anvil of the Earth-Portrait.png",
+    "Media/Other Images/Cinder King-Portrait.png",
+    "Media/Other Images/Ice Heart-Portrait.png",
+    "Media/Crests and Heraldry/crest Archduchy of Beniotti.png",
+    "Media/Crests and Heraldry/crest City of Balboa.png",
+    "Media/Crests and Heraldry/crest Eternal Dominion.png",
+    "(Summaries)",
+    "Untitled.canvas"
+  ]
+}

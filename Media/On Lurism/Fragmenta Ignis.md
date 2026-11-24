@@ -5,13 +5,13 @@ _Composed circa 460 AR, condemned by the Synod of Three Thrones, 462 AR_
 
 ---
 
-> _“He came not with shadow, nor with water, nor with flesh—but with flame. And the fire spoke, and we heard.”_
+> _“He came not with shadow, nor with water, nor with flesh -- but with flame. And the fire spoke, and we heard.”_
 
 ---
 
 **I. Of the False Division Between Light and Flame**
 
-O you blind! You blind who preach of Light as if it were cold, as if it were a candle held in a hand that does not burn. You scribes in An-Rassor and An-Mirda, you with your inkless words and dry prayers—you speak of the Light as if it were not fire.
+O you blind! You blind who preach of Light as if it were cold, as if it were a candle held in a hand that does not burn. You scribes in An-Rassor and An-Mirda, you with your inkless words and dry prayers -- you speak of the Light as if it were not fire.
 
 But what is light without heat? What is purity without pain?
 
@@ -27,7 +27,7 @@ You name Him Phlogistophor in fear. The Father of Flame. The Noble Heat. The Cro
 
 Not the tame Lur of your sanctuaries, who blesses marriages and oils kings. Not the pale Lur of silk-voiced Hierophants with gold rings and cooled wine. I speak of the **first revelation**, the burning one, the purifier, the **giver of hatred and clarity**, who cast down the false gods of Reme.
 
-Have you forgotten? You _were_ slaves to the shapers. The beast-mongers and mirror-masters who played at becoming as gods. It was not your scribes who broke Reme—it was **flame**. Fire from within. Not siege. Not sword. **Wrath.**
+Have you forgotten? You _were_ slaves to the shapers. The beast-mongers and mirror-masters who played at becoming as gods. It was not your scribes who broke Reme -- it was **flame**. Fire from within. Not siege. Not sword. **Wrath.**
 
 Why do you shudder at this truth?
 
@@ -35,7 +35,7 @@ Why do you shudder at this truth?
 
 **III. On the Accord Between Church and Element**
 
-Was it not strange—yes?—that the fire came for Reme, just as the Judges declared it a nest of shadow? That the **Book of Judges**, newly inked then, called for its censure, even as its mountains broke and its vaults spilled molten glass?
+Was it not strange -- yes? -- that the fire came for Reme, just as the Judges declared it a nest of shadow? That the **Book of Judges**, newly inked then, called for its censure, even as its mountains broke and its vaults spilled molten glass?
 
 Do you think the **timing was accident**?
 
@@ -65,7 +65,7 @@ In dream I saw the end. The True Flame returns. Not as whisper. Not as metaphor.
 
 He comes as a **towering pyre**, a **breathless wind of cinders**, and all who walk in shadow shall scream and twist and be made clean.
 
-And the faithful—those who welcome flame, who carry the brand, who know the sting—shall be refined, like silver in crucible. Made mirrors. Made light.
+And the faithful -- those who welcome flame, who carry the brand, who know the sting -- shall be refined, like silver in crucible. Made mirrors. Made light.
 
 You may burn me, but I am already burning. And I shall rise, like the Prophet, through fire.
 

@@ -1,4 +1,4 @@
-## **Lavion** – _Livre Lavienese_
+## **Lavion** -- _Livre Lavienese_
 
 **Prestigious Coinage in Harmony with the Creed**
 The Livre Lavienese is the prestigious coin of the Circulean's foremost power, and as such widely accepted. Rooted in the pious reign of Queen Dowager Ismara in the 1060s AR, the Livre was defined as an intentional mirror of the central creed of Lurism: _One is Three is Six is All_, represented through the **£** Livre (unity of the realm, Lur's Light), the **§** Sol (triune harmony), the **₫** Denier (six elements), and finally the **ɤ** Gros (360 as mark of divine completeness).
@@ -18,7 +18,7 @@ Despite the widespread use of such notes, in 1420 Lavion has yet to print offici
 
 By the 16th century's imperial age, things have changed considerably. Empereur Roburic II does push through a monetary reform and adopts dozenal currency wholesale, abandoning the ancient  1:3:6:360 ladder of Queen-Dowager Ismara as "infantile" after his falling out with the Church leads to the establishment of the Imperial Patriarchate. The Grand and the Lune, long firmly established in trade contexts, enter circulation in 1519 AR as 144ɤ and 1728ɤ paper notes; the Argent is fixed to 12ɤ instead of 30ɤ; Sol and Denier fall into disuse; and Livre begins to refer to the Great or Imperial Livre worth 20736ɤ, with the earlier coinage referred to as the Old or Royal Livre. 
 
-## **Stranu** – _Guilder of the Commonwealth_
+## **Stranu** -- _Guilder of the Commonwealth_
 
 ^1c86a9
 
@@ -33,7 +33,7 @@ The ladder itself is cleanly sexagesimal, with one gold **₲ Guilder** equallin
 
 By the 16th century, the Guilder is predominantly a paper currency for anything larger than a Pence, but stubbornly keeps its complicated base-60 notation.
 
-## **Svenu** – _Pund & Skilling_
+## **Svenu** -- _Pund & Skilling_
 
 **Bullion-based economy** 
 In Svenu, there is no standardized mint until the Imperial age. Before then, payment is bullion-based, with the Pund (**₻**, 1 pound of silver by weight) as the accepted means of financial exchange. Traditionally this came in the form of hacksilver -- weighted bracelets and bars pre-scored into twelfths called _skilling_ that could be broken off cleanly without a scale, a convenience in remote ports.
@@ -44,7 +44,7 @@ Other than weight, the shape and size of the Pund is far from standardized, allo
 
 By the 16th century, the monetary practices of the Circulean have given rise to individually minted skillings, modern coinage in the form of wedges such that multiples form a circle; these exist as _tvieki_, _thrieki_, and _fjorfeki_ -- "halfs", "thirds", and "quarters", thus worth 6, 4, 3 sk respectively.
 
-## **Vel Kiriya** – _Velkirian Dinar_
+## **Vel Kiriya** -- _Velkirian Dinar_
 
 **Imperial coinage dominating the Eastern Gyre**
 Velkirian commerce is predominant in the east, owing to the historic stability and riches of the northern realm. Its reach is evident in the Merhal region, as the city-states of Riv-î-Tep use the Velkirian system wholesale, though though occasionally strike local designs for domestic pride.

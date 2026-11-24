@@ -20,6 +20,7 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 
 ## Technology and materials
 
+- "Magnet", "magnetic" and "magnetism" are acceptable everyday words and concepts in Arlos, since magnets are the natural example of a Tension-active material. Tension remains the preferred term for the Charge itself.
 - The technology driver is a thermoacoustic, pneumatic and fulminant progression in place of steam and gunpowder; steam is socially stigmatised and practically absent.
 - Shaping (the inward aetheric body-art of the Remean Collegium) is not a simply dystopian overreach but a practice Remeans arrived at naturally from their cultural assumptions. A Remean citizen's experience of it should feel ordinary despite often plainly superhuman capabilities. Its malignment comes from being anathema to Lurism.
 - Gliding originates in Lu-Pto (basalt desert thermals, a pre-Remean tribal youth tradition), spreading basin-wide during the Aetheric Age as an avant-garde pastime before Lavion's military appropriation after Roburic II's conquest of Lu-Pto. Not a Svenish, Varngardi or purely Lavienese invention.

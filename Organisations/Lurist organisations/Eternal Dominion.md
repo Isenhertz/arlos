@@ -36,7 +36,7 @@ While diminished from its golden age, the Dominion remains a stubborn presence, 
     - _Order of Saint Adamar_: famed for discipline and deep theological learning; maintains strong ties with An-Suur's Patriarchate.
         
 - **Founding Ethos**:  
-    The Dominion believes it serves **the True Will of the Divine** directly — an unmediated interpretation of sacred duty. It reveres the Hierophancy, but claims a **parallel authority** born of oaths and sacrament, not hierarchy.
+    The Dominion believes it serves **the True Will of the Divine** directly -- an unmediated interpretation of sacred duty. It reveres the Hierophancy, but claims a **parallel authority** born of oaths and sacrament, not hierarchy.
     
 
 ---
@@ -98,7 +98,7 @@ _“They stand beside the crown, never beneath it.”_
 
 - **Power Base**: Fragmented but persistent. They control **fortified monasteries** in strategic locations (mountain passes, old trade roads, relic sites).
     
-- **Numbers**: Greatly reduced from their height — likely a few thousand knight-brothers, and twice that number of lay warriors and initiates.
+- **Numbers**: Greatly reduced from their height -- likely a few thousand knight-brothers, and twice that number of lay warriors and initiates.
     
 - **Political Role**: No longer kingmakers, but still influential in **regional affairs**, especially during succession crises or external threats.
     
@@ -109,4 +109,4 @@ _“They stand beside the crown, never beneath it.”_
 
 - The Orders **preserve martial liturgies**, sacred chants, and relic-trials no longer practiced by the main Hierophantic church.
     
-- They are **both feared and romanticized** in popular imagination — symbols of unbending faith and a purer, nobler past.
+- They are **both feared and romanticized** in popular imagination -- symbols of unbending faith and a purer, nobler past.

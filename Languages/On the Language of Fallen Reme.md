@@ -424,7 +424,7 @@ Remean avoids /sk/ where it would sit between /k/ or /kʷ/ on one side and anoth
 - **Vis, Vitis** -- "eye".
 - **Volidabis, Volidabitis** -- "elephant." Literally "leaf-eater" -- *Voli-* (the root of *Volium*, "leaf") + *Dabis* ("eater," the agentive of *Dabe*, "to eat").
 - **Volium, Voliî** -- "leaf" (botanics).
-- **Vonix, Vonissis** -- "bird".
+- **Vonix, Vonissis** -- "flying animal".
 - **Zaelatium, Zaelatiî** -- "cloak; coat." *Zae-* ("beyond") + *Latium* ("clothing") -- "over-clothes," an outer garment worn atop everything else.
 - **Zaenata, Zaenatae** -- "grandchild." *Zae-* ("beyond") + *Nata* ("child") -- extending past the own child's generation.
 - **Zarx, Zarcis** -- "flesh" (meat, flesh).
@@ -1181,7 +1181,7 @@ Lastly, a group of invariant interrogative adverbs round out this grammatical re
 *Examples:
 Cetoni capitoleton sere?* "Where is the council hall?"
 
-*Ascem vonissês pernante?* "Whither did the birds fly?"
+*Ascem grîfilitês pernante?* "Whither did the gryphs fly?"
 
 *Esce canis venante?* "Whence came the dog?"
 

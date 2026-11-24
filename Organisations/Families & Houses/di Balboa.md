@@ -59,5 +59,5 @@ Notable rulers include:
 - **Carlorus Giulianno Erminguardo Victorior di Balboa** _(1382-1404, r. 1401-1404)_
 	Acceded in the middle of the succession crisis of the realm. Died unexpectedly in 1404 from an infection following a duel, after which his younger sister inherited the throne.
     
-- **Lauralotta Victualia Emmanuela Augusta Terisea di Balboa** _(b. 1389 AR, r. 1405–)_  
+- **Lauralotta Victualia Emmanuela Augusta Terisea di Balboa** _(b. 1389 AR, r. 1405-)_  
     The current _Principessa Serenissima_. Known for her monumental stature (both physical and political), fashion dominance, and aromantic aloofness. A patron of learning and progressive reform -- though her power is still tightly wound into the ancient oathbound structure of Balboa's mercenary and patrician elite.

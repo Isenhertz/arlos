@@ -82,7 +82,7 @@ The **Spraywing** is a slim, forked-tailed plunge-diver of harbour and open shal
 
 The **Gyre Runner** is among the great wanderers of the open Circle Sea and beyond, huge-winged and heavy-bodied, blunt-muzzled and powerfully built for swimming as much as for gliding, capable of crossing open water for days without landing and hauling out on remote rookeries for weeks at sea. Old sailors hold that sighting one far from land foretells a change in weather, for good or ill.
 
-The **Shoalharrier** is a small, tube-nosed, compact seabird equally content skimming wave-troughs or foraging the tideline, and is considered a reliable sign of fish shoaling nearby.
+The **Shoalharrier** is a small, tube-nosed, compact sea-gryph equally content skimming wave-troughs or foraging the tideline, and is considered a reliable sign of fish shoaling nearby.
 
 The **Reef Pennant** is an aerial pirate of the reef and shoal, hook-billed and long-winged, harrying other gryphoids mid-air until they drop their catch rather than hunting fish directly itself, though it will work a tidepool when the air offers nothing.
 

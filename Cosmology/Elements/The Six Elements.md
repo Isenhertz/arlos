@@ -65,7 +65,7 @@ In contrast, the Antagonistic relations oscillate much more, and need but the sl
 - **Air <> Stone**: Motility (Weak/Antagonistic)
 	Air will move, Stone will repose
 
-These elemental relations are foundational to all physical interactions in the absence of atoms or molecules.
+These elemental relations are foundational to all physical interactions.
 
 ## Types of Elementals
 

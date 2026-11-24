@@ -16,7 +16,27 @@ Kept as plain Python so the hook needs nothing beyond the standard library.
 # Globs, matched by file name so they hold wherever the file lives.
 OUT_OF_WORLD = [
     "*Gunpowder?and?Steam.md",
+    # Notes that carry Jan's real-world design analogues alongside in-world text.
+    "*/Kiriya.md",
+    "*/Reme.md",
+    "*/Virell.md",
+    "*/Merhal.md",
+    "*/Alchemica.md",
+    "*/Remea.md",
+    "*/Gryphoids.md",
+    "*/Theronga.md",
+    "*/Gryphoid?visualisation.md",
 ]
+
+# Gryphoid design notes that name real birds as the template for each gryph,
+# plus Arlosian Material Science until Jan rewrites its "bird's bone" sentence himself.
+BIRD_DESIGN_NOTES = [
+    "*/Gryphoids.md", "*/Theronga.md", "*/Gryphoid?visualisation.md",
+    "*/Arlosian?Material?Science.md",
+]
+
+# Content files that are not lorebooks (digests, overviews) and are skipped by every rule.
+NOT_LOREBOOK = ["*/Technology?Snapshot?1420s.md"]
 
 # Reference files where lists and tables are expected (bullets allowed).
 REFERENCE = ["*Reference*.md", "*Timeline*.md", "*Arlosian?Mathematics.md"]
@@ -67,7 +87,8 @@ RULES = {
     "earth_reference": {
         "severity": "error",
         "in_world_only": True,
-        "pattern": r"\bEarth\b|\bour own history\b|\bour world\b",
+        # "Earth" alone is in-world usage for the ground; flag only the planet and our own history.
+        "pattern": r"\bEarth's\b|\b(?:on|in) Earth\b|\bEarth (?:terms|birds|history)\b|\bour own history\b|\bour world\b",
         "message": "Out-of-world reference to our own world",
         "scope": "prose",
     },
@@ -79,7 +100,7 @@ RULES = {
             "atom", "atoms", "atomic", "subatomic", "molecule", "molecules", "molecular",
             "electron", "electrons", "proton", "protons", "neutron", "neutrons",
             "photon", "photons", "quantum", "electromagnetism", "electromagnetic",
-            "electricity", "electric", "electrical", "magnetism", "magnetic", "nuclear",
+            "electricity", "electric", "electrical", "nuclear",
             "isotope", "isotopes", "radioactive", "radioactivity", "relativity",
             "oxygen", "hydrogen", "nitrogen", "helium",
         ],
@@ -96,6 +117,7 @@ RULES = {
         "ignore_case": True,
         "message": "Birds do not exist on Arlos; every avian niche is a gryph",
         "scope": "all",
+        "exclude": BIRD_DESIGN_NOTES,
     },
     "forbidden_tech": {
         "severity": "error",

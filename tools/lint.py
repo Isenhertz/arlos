@@ -33,6 +33,7 @@ def load_rules():
         "rules": lint_rules.RULES,
         "out_of_world": lint_rules.OUT_OF_WORLD,
         "allowed_special_chars": lint_rules.ALLOWED_SPECIAL_CHARS,
+        "not_lorebook": lint_rules.NOT_LOREBOOK,
     }
 
 
@@ -82,6 +83,8 @@ def special_chars(line, allowed):
 def lint_lines(relpath, numbered_lines, rules, cfg):
     """numbered_lines: iterable of (lineno, text). Returns list of findings."""
     findings = []
+    if any(fnmatch(relpath, g) for g in cfg.get("not_lorebook", [])):
+        return findings
     out_of_world = any(fnmatch(relpath, g) for g in cfg.get("out_of_world", []))
     allowed = set(cfg.get("allowed_special_chars", ""))
     in_frontmatter = False

@@ -146,7 +146,7 @@ events:
     era: enlightenment
     title: Ejitwe the Thronebreaker begins gathering his coalition
     match: "Ejitwe"
-    sources: ["Organisations/Lurist organisations/Church of the Light.md", canon/polities/An-Suur.md]
+    sources: ["Organisations/Lurist organisations/Church of the Light.md", "Geography/Regions/Circulean/An-Suur.md"]
 
   - id: sack-of-an-mirda
     year: 336

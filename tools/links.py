@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Report [[wikilinks]] that resolve to no file name or frontmatter alias.
+"""Report [[wikilinks]] that resolve to no file name, frontmatter alias or attachment.
 
 Usage: python3 tools/links.py
 Exit code 1 if any link is unresolved.
@@ -45,6 +45,11 @@ def main():
         h1 = re.search(r"^# (.+)$", text, re.MULTILINE)
         if h1:
             targets[norm(h1.group(1))] = f
+    # Attachments (images and other non-Markdown files) resolve by full file name.
+    for p in ROOT.rglob("*"):
+        rel = p.relative_to(ROOT)
+        if p.is_file() and p.suffix != ".md" and not any(s.startswith(".") for s in rel.parts):
+            targets.setdefault(norm(p.name), p)
     missing = defaultdict(list)
     for f in files:
         for lineno, line in enumerate(f.read_text(encoding="utf-8").split("\n"), start=1):

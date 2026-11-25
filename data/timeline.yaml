@@ -55,8 +55,7 @@ events:
     sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Geography/Regions/Circulean/Merhal.md"]
 
   - id: merhal-conquest
-    year: -1000
-    circa: true
+    year: -1024
     era: remean
     title: Reme defeats Thesun-Khetep at the walls of Omt-î-Thes and takes the Merhal
     match: "walls of Omt-î-Thes"
@@ -102,7 +101,7 @@ events:
     year: -7
     era: remean
     title: Investiture of Maverel the Undimmed, First Hierophant
-    match: "Maverel the Undimmed|Maerel the Undimmed|Marevel the Undimmed"
+    match: "Maverel the Undimmed"
     sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Organisations/Lurist organisations/Church of the Light.md"]
 
   - id: fall-of-reme

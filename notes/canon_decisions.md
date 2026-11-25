@@ -23,7 +23,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 - "Magnet", "magnetic" and "magnetism" are acceptable everyday words and concepts in Arlos, since magnets are the natural example of a Tension-active material. Tension remains the preferred term for the Charge itself.
 - The technology driver is a thermoacoustic, pneumatic and fulminant progression in place of steam and gunpowder; steam is socially stigmatised and practically absent.
 - Shaping (the inward aetheric body-art of the Remean Collegium) is not a simply dystopian overreach but a practice Remeans arrived at naturally from their cultural assumptions. A Remean citizen's experience of it should feel ordinary despite often plainly superhuman capabilities. Its malignment comes from being anathema to Lurism.
-- Gliding originates in Lu-Pto (basalt desert thermals, a pre-Remean tribal youth tradition), spreading basin-wide late in the Aetheric Age (after the 1420s, in the later 15th century) as an avant-garde pastime before Lavion's military appropriation after Roburic II's conquest of Lu-Pto. Not a Svenish, Varngardi or purely Lavienese invention.
 
 ## Polities and institutions
 
@@ -65,8 +64,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 - Working premise on the Remean navy against the Hellenistic and Roman record: every Remean-era naval power could field "tens" with unshaped crews, so the Remean navy's exceptionalism lies in factors other than scaling up rowers (Shaped synchronicity among them).
 - Impellers: general Remean term *dinamium*. The smallest class is swivel-mounted, much like a Roman scorpio with nearly no moving parts. Larger classes are the *relemium* ("destructor", the openers) and the *furvex* ("earth-shaker", the siege impeller), cannon-like in velocity and impact, but size and immobility limit them to shipborne and anti-siege use. Open-trough design, exact form left nebulous since the weapon is lost; stage-triggered, the trigger pounded in sequence like a crew hammering a spike or making mochi. Siege work is ship-based (relemium); "anti-siege" means the land-based use of the furvex; inland sieges rely on upscaled *dinamia teniotôs*.
 - The furvex is also shipborne: the largest dinamium, likely carried by the twelves and eighteens or by a specialised estertoton hull; its size limits land use to preinstalled sites.
-- "Stone-lance" (*lancea lapidea*) is the hostile chroniclers' name for the large dinamia they saw; the Remean name is dinamium. Ranged Arms and Circulean Warfare still describe a single narrow working and need the full family.
-- The Arcola goes into Remea.md and Ranged Arms in place of the strength-drawn bow and the "torsion arms". Remea.md keeps its "arrested design" argument, softened to minor variants plus the late functional turn.
 
 ## Shaping mechanics and civic life (November 2026)
 
@@ -80,24 +77,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 - No daily upkeep: adult Shaping is roughly yearly, like a check-up. Shapers have specialisations and are synonymous with medical practitioners: learned, tested, attested, of high standing. The baths, fed by Ertra's volcanic hot springs, are the natural centre of practice.
 - Work and load baselines set to the Shaped body are a natural consequence, good material for contrast scenes with foreigners.
 - Structure: singing is part of the Shapers' hands-on practice. Focus pieces are cut from horn, animal bone or whalebone in exacting geometry and worn on pulse points; complex courses need complex pieces (orthodontics and spectacles as analogies). Harmonization likely took all three pulse points, with allowances for healing and other concurrent Shaping. For the most impactful courses the material must come from a living body; brass or pliant serve only as frames or lesser stabilising pieces. Bone is the anchor that holds a completed pattern. Remean skeletons hold the proof of Shaping but are inert, as gryph-bone is inert.
-- Focus pieces, once Shaped, are personal and keyed to their wearer. Small cosmetic pieces (a hair comb) may be used day to day by their owner as a minor exception: "no daily upkeep" means none is required. Remea.md and Shaping.md still have the body standing in for all three triad terms and need rewriting to the Shaper-led triad.
 - Bonesingers are attested healers in Lu-Pto; at writer level they are a rare, unattested survival of some basic aspect of Shaping in the region furthest from the crusaders.
 - Legion Shaping: the civic pass is part of ordinary Harmonization; enlistment Shaping is the legionary's equivalent of a citizen's vocational shaping; campaign overlays are a specialised subset, often created and maintained under field conditions.
 - The feminine aesthetic of Harmonization was not strictly necessary but a vestige of matriarchal tribal prestige underlying the original synoecism. Amputation exists, but a mangled limb can be saved by Shapers while one severed by force cannot be mended.
-
-## Conflict resolutions (November 2026)
-
-Decided in the cross-file conflict pass; the dates, names and spellings are already applied, these still need prose.
-
-- Sorcerer-Kings: the Timeline's approximate dates stand (vague dating is fine for early Antiquity, Egypt-like). Sorceror-King.md's roster of Lesser Kings (Triumvirate of Ash-Reeds, In-Khun-Emet through Mhar-Tep-Iyen) is dropped, except Shen-Uru-Atum, who holds the Mer-Hal delta and falls in the same Remean conquest as Thesun-Khetep. Thesun-Khetep founded Omt-î-Thes.
-- 1024 BR is a hard date: the conquest of the Merhal, the Remean Empire's first expansion, and the year the tradition remembers as the "birth of Reme", read as the end of the Ertran synoecism. Reme's roots stay vague (roughly 14th century BR), followed by three or four centuries of synoecism. The "thousand-year reign" counts from 1024 BR. Sorceror-King.md's "rise of Remean society in 1024 BR" and "legions new-forged in Ertra after 1024 BR" go with its rewrite.
-- Remean Empire.md: the crusader scribes' claim that the Gyres "stilled in awe, stopping the approaching Dominion fleets" stays, framed as the crusaders' own embellished account.
-- Fall of Reme: no enemy stands outside the walls yet; the "siege lines" are Reme's own works. The Capitolinae sanctioned the binding; Remea.md's Collegium-centred reconstruction stays as an in-world scholar's mistaken guess.
-- Timeline Events.md: rebuild all widgets to current canon.
-- Calendars: merge Calendars of Arlos.md into Calendars_of_Arlos_Reference.md, delete the older file, and repoint Aramoor's link. The Kharunite year has six 60-day Passes of four 15-day Phases and keeps the five-day week (three to a Phase). Lonely Lamps falls on day 139, the 4th of Seedbeards, on Aural's new moon. Two rites are called New Fire: the western civic one on the first night of Winterbreak (day 286), descended from the old heathen new year, and the Kharunite New Year on day 289 (Belana's new moon); the shared name is a known confusion in mixed cities.
-- Elemental relations: the tensegrity framing of Arlos Elemental Reality.md holds. The Six Elements.md and Elemental Hazards.md drop Strong/Weak as the primary distinction, and "covalent" goes.
-- Theronga: steppe and open country; capable of flight despite its bulk but rarely flies; browses treetops and stalks small prey with a darting beak strike; defends itself with forward kicks.
-- Fulminance is in working use well before 1574 (Balboa's Ascensori, Virell's fulminance lines, laboratory cells, state forges). The Fulminant Turn is the post-1574 scaling-up of something that already existed.
-- Lavion fields glider troops only after Roburic II's conquest of Lu-Pto (after 1498); Aeronautics' 1480s rediscovery passage moves accordingly.
-- Lu-An: Reme holds the iron coasts early; abortive inland excursions against the Zanori and Sunkin recur throughout the empire's life (pattern: Rome's Germanic frontier).
-- Grand Academy: founded in the 11th century as a shipyard and officers' training school for corsair-era seamanship and shipbuilding; the 12th-century arcannon later turns it toward engineering. It is the oldest university not theology-first and not directly influenced by a patriarchate.

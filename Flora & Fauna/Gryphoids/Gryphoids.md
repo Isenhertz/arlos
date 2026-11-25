@@ -55,6 +55,7 @@ Gryphs dominate the air-sea skin by specializing above and below the surface.
 - **Demigryph:** Flightless quad-sprinter that ends chases in seconds by ankle-hooking and shearing the throat. Can be trained, but resists domestication.
 - **Utar:** Wolf-scale bipedal pack grappler; off-ground grasping foretalons rotate large prey down. Dominant where ground is broken or scrubby.
 - **Windrunner:** Banner-pennoned cursorial grazer that concentrates at water points and frames predator ranges.
+- **Theronga:** Tall steppe browser that marries giraffe-like reach with a powerful spearing neck, taking small prey between feeds; capable of flight but seldom airborne.
 
 **Predator partitioning:** Demigryphs excel at short open bursts; utars control rough mosaics with teamwork and grappling; royals pressure both from the air. Mixed mammal--gryph predator fields are common, with local outcomes set by terrain.
 
@@ -62,7 +63,6 @@ Gryphs dominate the air-sea skin by specializing above and below the surface.
 
 - **Reed-Stalker:** Tripod stance in reeds -- two hands and one foot brace while the spear beak strikes fish and frogs.
 - **Tidepicker:** Pebble-mottled probe of strandlines that advances in loose bands as the tide drops, competing with small beach mammals.
-- **Theronga:** Tall cursorial mangrove browser that marries giraffe‑like reach with powerful spearing neck.
 
 ---
 

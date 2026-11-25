@@ -38,7 +38,7 @@ On ordinary days, callers are received west to east -- gate to court, court to v
 
 Beyond the stables, a second, hidden service court takes deliveries. Charcoal, spirits, and oils arrive in casks, and market wagons bring greens and fish in the early hours. A small smithy and carpentry shop handle repairs; the smith also tends the airship moorings and the locking frames for the removable winter glazing. The laundry sits downwind in a long, low range with drying lofts. A narrow postern gives onto the Royal Road for messengers and for the manor guards to come and go without parading through the front.
 
-A novelty is the addition of a garage to the stables; here is housed the Principessa's own aetheromobile, a gleaming horseless carriage of silver and alumin with three axles and a narrow, glass-fronted driver's cabin separated from the passenger cabin. Its hum is well known on the Royal Road, and people gather to gawk and babble when the Principessa decides to use it to make a grand entry to the city.
+A novelty is the addition of a garage to the stables; here is housed the Principessa's own aetheromobile, a gleaming horseless carriage of silver and alumen with three axles and a narrow, glass-fronted driver's cabin separated from the passenger cabin. Its hum is well known on the Royal Road, and people gather to gawk and babble when the Principessa decides to use it to make a grand entry to the city.
 
 ## Materials and expression
 

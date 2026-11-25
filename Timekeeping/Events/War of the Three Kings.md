@@ -18,7 +18,7 @@ Civil war (1117-1121) between the King in the South, the King of [[Kingdom of La
 
 The surrender of Balboa (under extremely favorable terms) and the subsequent defeat of the King in the South at the hands of the [[Kingdom of Lavion|Lavienese]] lead to the ascendancy of the Kingdom of Lavion and its era of predominance in the lands of the [[Circle Sea]].
 
-**1117 AR:** The War of the Three Kings breaks out after the Lavienese royal succession crisis following the death of King Oswine de Lavion is settled when Roburic, Oswine's uncle, takes the crown of Lavion. [[Cavrian de Enevron]], a tributary ruler of the lands along the northern slopes of the Wolves' Teeth Mountains, seizes on a perceived moment of weakness and declares himself "King in the South", throwing the realm into civil war. Balboa, initially allied to the King in the South, finds itself at odds with Lavion, and its fragmented condottieri end up fighting on all sides.
+**1117 AR:** The War of the Three Kings breaks out two years after the Lavienese royal succession crisis that followed the death of King Oswine de Lavion in 1115, settled when Roburic, Oswine's uncle, seized the crown of Lavion. [[Cavrian de Nevron]], Prince of Cendrelac, seizes on a perceived moment of weakness and declares himself "King in the South", drawing Mirevigne into his coalition and throwing the realm into civil war. Balboa, initially allied to the King in the South, finds itself at odds with Lavion, and its fragmented condottieri end up fighting on all sides.
 
 **1119 AR - The Siege of Balboa:** Despite fierce resistance, the city’s defenses are worn down over the course of a siege lasting over two years. Blockade runners and smugglers keep the populace fed, but attrition takes its toll on the armed forces.
 

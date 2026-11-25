@@ -64,8 +64,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 - Working premise on the Remean navy against the Hellenistic and Roman record: every Remean-era naval power could field "tens" with unshaped crews, so the Remean navy's exceptionalism lies in factors other than scaling up rowers (Shaped synchronicity among them).
 - Impellers: general Remean term *dinamium*. The smallest class is swivel-mounted, much like a Roman scorpio with nearly no moving parts. Larger classes are the *relemium* ("destructor", the openers) and the *furvex* ("earth-shaker", the siege impeller), cannon-like in velocity and impact, but size and immobility limit them to shipborne and anti-siege use. Open-trough design, exact form left nebulous since the weapon is lost; stage-triggered, the trigger pounded in sequence like a crew hammering a spike or making mochi. Siege work is ship-based (relemium); "anti-siege" means the land-based use of the furvex; inland sieges rely on upscaled *dinamia teniotôs*.
 - The furvex is also shipborne: the largest dinamium, likely carried by the twelves and eighteens or by a specialised estertoton hull; its size limits land use to preinstalled sites.
-- "Stone-lance" (*lancea lapidea*) is the hostile chroniclers' name for the large dinamia they saw; the Remean name is dinamium. Ranged Arms and Circulean Warfare still describe a single narrow working and need the full family.
-- The Arcola goes into Remea.md and Ranged Arms in place of the strength-drawn bow and the "torsion arms". Remea.md keeps its "arrested design" argument, softened to minor variants plus the late functional turn.
 
 ## Shaping mechanics and civic life (November 2026)
 
@@ -79,13 +77,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 - No daily upkeep: adult Shaping is roughly yearly, like a check-up. Shapers have specialisations and are synonymous with medical practitioners: learned, tested, attested, of high standing. The baths, fed by Ertra's volcanic hot springs, are the natural centre of practice.
 - Work and load baselines set to the Shaped body are a natural consequence, good material for contrast scenes with foreigners.
 - Structure: singing is part of the Shapers' hands-on practice. Focus pieces are cut from horn, animal bone or whalebone in exacting geometry and worn on pulse points; complex courses need complex pieces (orthodontics and spectacles as analogies). Harmonization likely took all three pulse points, with allowances for healing and other concurrent Shaping. For the most impactful courses the material must come from a living body; brass or pliant serve only as frames or lesser stabilising pieces. Bone is the anchor that holds a completed pattern. Remean skeletons hold the proof of Shaping but are inert, as gryph-bone is inert.
-- Focus pieces, once Shaped, are personal and keyed to their wearer. Small cosmetic pieces (a hair comb) may be used day to day by their owner as a minor exception: "no daily upkeep" means none is required. Remea.md and Shaping.md still have the body standing in for all three triad terms and need rewriting to the Shaper-led triad.
 - Bonesingers are attested healers in Lu-Pto; at writer level they are a rare, unattested survival of some basic aspect of Shaping in the region furthest from the crusaders.
 - Legion Shaping: the civic pass is part of ordinary Harmonization; enlistment Shaping is the legionary's equivalent of a citizen's vocational shaping; campaign overlays are a specialised subset, often created and maintained under field conditions.
 - The feminine aesthetic of Harmonization was not strictly necessary but a vestige of matriarchal tribal prestige underlying the original synoecism. Amputation exists, but a mangled limb can be saved by Shapers while one severed by force cannot be mended.
-
-## Conflict resolutions (November 2026)
-
-Decided in the cross-file conflict pass; the dates, names and spellings are already applied, these still need prose.
-
-- Lu-An: Reme holds the iron coasts early; abortive inland excursions against the Zanori and Sunkin recur throughout the empire's life (pattern: Rome's Germanic frontier).

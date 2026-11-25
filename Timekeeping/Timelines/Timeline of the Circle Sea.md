@@ -83,7 +83,7 @@ This chronology gathers the principal events of the Circle Sea basin in order. D
 - Mid-14th century: self-harmonising resonance design is formalised. Thermoacoustic "choir engines" become the heartbeat of industry.
 - Late 14th to early 15th century: engines shrink to fit launches and riverboats; pontoon airships ("[[aeronaves]]") link major ports, the logic of the air following that of the sea; public mains regularise urban power.
 - 1450s: valve-code beacons and pressure clocks point toward fluidic logic; prosthetic pneumatics enter workshops and wards.
-- Late 15th century: the aetheric furnace yields [[alumen]], a light metal that at last lightens the compressed-air bottle enough to carry real power to a soldier on foot, completing the breath-arm's long passage from duelling curiosity to infantry weapon.
+- Late 15th century: the aetheric furnace, which had won [[alumen]] only in costly ounces since the 14th century, at last yields it at usable cost, a light metal that at last lightens the compressed-air bottle enough to carry real power to a soldier on foot, completing the breath-arm's long passage from duelling curiosity to infantry weapon.
 ## The Imperial Age (15th to 16th century AR)
  
 - Lavion's sober modernity extends from its civic attitudes into its officer corps and drill; successive sovereigns professionalise the soldiery.

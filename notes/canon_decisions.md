@@ -89,8 +89,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 
 Decided in the cross-file conflict pass; the dates, names and spellings are already applied, these still need prose.
 
-- Timeline Events.md: rebuild all widgets to current canon.
-- Calendars: merge Calendars of Arlos.md into Calendars_of_Arlos_Reference.md, delete the older file, and repoint Aramoor's link. The Kharunite year has six 60-day Passes of four 15-day Phases and keeps the five-day week (three to a Phase). Lonely Lamps falls on day 139, the 4th of Seedbeards, on Aural's new moon. Two rites are called New Fire: the western civic one on the first night of Winterbreak (day 286), descended from the old heathen new year, and the Kharunite New Year on day 289 (Belana's new moon); the shared name is a known confusion in mixed cities.
 - Elemental relations: the tensegrity framing of Arlos Elemental Reality.md holds. The Six Elements.md and Elemental Hazards.md drop Strong/Weak as the primary distinction, and "covalent" goes.
 - Theronga: steppe and open country; capable of flight despite its bulk but rarely flies; browses treetops and stalks small prey with a darting beak strike; defends itself with forward kicks.
 - Fulminance is in working use well before 1574 (Balboa's Ascensori, Virell's fulminance lines, laboratory cells, state forges). The Fulminant Turn is the post-1574 scaling-up of something that already existed.

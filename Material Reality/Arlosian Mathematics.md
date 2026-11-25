@@ -1,4 +1,4 @@
 Deriving from a base-60 system prevalent in antiquity (and still in partial use in some lands), modern Arlosian mathematics are duodecimal ("dozenal ") in character.
 The written form that first spread with the Lurist crusaders was a multiplicative-additive script, numbers built as sequences of dozens, written from largest to smallest. After the invention of a symbol for 0 during the late Dark Ages, a modern "Academic" style of positional notation arose in the 13th century and quickly limited the earlier script to liturgical or inscriptional use.
-The dozen is the base unit; above it follows the "gross", its square; the "legion", a dozen grosses; and "myriad", a gross squared.
+The dozen is the base unit; above it follows the "gross", its square; the "gross dozen", a dozen grosses; the "legion", a gross squared; and the "myriad", a gross cubed.
 Despite the advances of positional notation, the older symbols for the larger numbers (⨳ for gross, ※for gross dozen, ⨝ for "legion", ⁂ for "myriad") continue to see everyday use as shorthand.

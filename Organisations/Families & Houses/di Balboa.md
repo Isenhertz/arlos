@@ -29,8 +29,8 @@ The Princely House of Balboa has ruled over the [[Principality of Balboa]] since
 - **Giulianiste Balbo** _(c. 120 AR)_  
     A famed merchant-admiral of semi-legitimate origin, Giulianiste leveraged Balboa's strategic location and naval strength to seize control amid the power vacuum left by the Fall of Reme. Declared _Magister Portum_ by the ruling patrician council in recognition of his de facto command, he ruled as a military strongman with a commercial mandate.
 
-- **Cassan Balbo / Cassan di Balboa** _(c. 160 AR)_  
-    Grandson of Giulianiste. Consolidated the city's political structure, transforming Giulianiste's maritime autocracy into a formalized hereditary principality. Adopted the style _di Balboa_, founded the ruling House, and became the first to hold the title _Principe of Balboa_. Oversaw the early construction of the [[Princely Palace]].
+- **Cassan Balbo / Cassan di Balboa** _(c. 137-188 AR)_  
+    Grandson of Giulianiste. Consolidated the city's political structure, laying the ground for the hereditary principality the First Princely Compact would formalize a century after his death. Adopted the style _di Balboa_ and founded the ruling House; the title _Principe of Balboa_ came to his descendants only with the Compact. Oversaw the early construction of the [[Princely Palace]].
 
 ### Dark Ages
 

@@ -10,12 +10,12 @@ aliases:
   - Remea
 ---
 <div class="ob-timelines"
-  data-title="Reme founded"
+  data-title="Ertran synoecism completed"
   data-era="BR"
   data-tags="antiquity"
   data-type="box"
   data-start-date="-1024-14-01-00">
-  Purported founding date of the city
+  The traditional "birth of Reme": the synoecism of the Ertran cities is complete, and the same year sees the conquest of the Merhal
 </div>
 <div class="ob-timelines"
   data-title="Reme destroyed"

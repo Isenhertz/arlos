@@ -20,14 +20,14 @@ Adjective form: Nikapolantean
 Archduchy
 Foot of the Ertrese Peninsula, rich agriculture
 Borders Gaviatolis (NE), Fiurisci (E), Cendrelac (SW)
-Counties: City of Portoclaro, Barony of Vanikante, Barony of Valanession, Barony of Seranthos, City of Serranika, Barony of Ventokastron
+Counties: City of Portoclaro, Barony of Vanikante, Barony of Valanession, Barony of Seranthos, City of Serranika, Barony of Ventrokaston
 
 ## Devrascoigne
 
 Adjective form: Devrascan
 Duchy
 Coastal lands north of Virell
-Bordering Corvancia (E), Lavion (SE), Parthall (S), Nicavre (W), Rasselune (NW)
+Bordering Corvandie (E), Lavion (SE), Parthall (S), Nicavre (W), Rasselune (NW)
 Counties: Barony of Montescaut, Barony of Cendreval, Barony of Bellemar, Barony of Cuironne, Barony of Estremont, Free City of Port-Arquillon, Free City of Saint-Marelle, Free City of Val-du-Sel
 
 ## Nicavre
@@ -35,7 +35,7 @@ Counties: Barony of Montescaut, Barony of Cendreval, Barony of Bellemar, Barony 
 Adjective form: Nicavrenne
 Duchy
 Westernmost duchy, hugging the slopes of the Wolves' Teeth with passes to the Commonwealth and Svenu
-Bordering Rasselune (N), Devrascoigne (W), Parthall (SE), Vauntryre (S)
+Bordering Rasselune (N), Devrascoigne (E), Parthall (SE), Vauntryre (S)
 Counties: Earldom of Montdore, Earldom of Loupierre, Earldom of Rochevaux
 
 ## Lavion
@@ -44,7 +44,7 @@ Adjective form: Lavienese (also for the Barony and Kingdom)
 Duchy
 Held by the Crown
 Heartland of the Kingdom; sits astride the Mevrille, a tributary to the Upper Varsa, where the ancestral castle of the royal family guarded an important ford
-Bordering Devrascoigne (N), Corvancia (NE), Mirevigne (S), Parthall (SW)
+Bordering Devrascoigne (N), Corvandie (NE), Mirevigne (S), Parthall (SW)
 Counties: City of Virell, Sanctuary of Aramoor, Barony of Lavion, Barony of Cresselin, Barony of Verduc, Barony of Montivrel
 
 ## Parthall
@@ -121,11 +121,11 @@ Bordering Nicavre (N), Parthall (E), Cyntere (SE)
 Adjective form: Cynteral
 March (Privileged Barony)
 Guards the pass to Varngard
-Bordering Vauntryre (NW), Parthall (N), Marevigne (NE), Treglavien (E)
+Bordering Vauntryre (NW), Parthall (N), Mirevigne (NE), Treglavien (E)
 
 ### Treglavien
 
 Adjective form: Treglavienese
 March (Privileged Barony)
 Guards the pass at the headwater of the Mirevant that allows travel to both Varngard and Karsova
-Bordering Marevigne (N), Cyntere (W)
+Bordering Mirevigne (N), Cyntere (W)

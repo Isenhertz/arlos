@@ -15,7 +15,7 @@ tags:
 > Lur is first revealed to the Prophet in ancient An-Mirda </div>
 <div class="ob-timelines"
   data-title="Sack of An-Mirda"
-  data-start-date="324-00-00-00"
+  data-start-date="336-00-00-00"
   data-era="AR"
 > Starkin marauders under Ejitwe Thronebreaker sack the city, leading to the fall of the First Hierophancy </div>
 ### History
@@ -36,7 +36,7 @@ An-Mirda is a city of contrasts, where ancient temple-pyramids rise alongside cr
 
 The early pyramids of An-Mirda remain the most iconic symbols of the faith’s first centuries. Their broad staircases rise toward sanctuaries open to the heavens, where the sun itself was honored as the surest sign of Lur’s enduring Light. Ceremonies at dawn and dusk crowned these heights, marking the union of heaven and earth in radiant beams. In later centuries, however, the architectural focus shifted. The cathedrals and chapels of the maturing faith abandoned the singular gaze skyward, and instead expressed harmony through proportion and geometry. Their vaulted interiors and tripartite naves embodied the dogma of Mind, Body, and Soul in sacred unity. In stone tracery, in resonant halls built for chant and procession, the faithful experienced a theology translated into form: not the solitary brilliance of the sun, but the balanced harmony of human devotion.
 
-The urban form remains dense and layered. Markets cluster near the river, noisy with sellers of fruit, woven cloth, and relics for pilgrims. Beyond them lie the residential quarters, a labyrinth of narrow alleys, shaded patios, and communal wells. Rising above all stands the ruins of the Palace of the Hierophant, enclosed within walls as old as the faith itself, and yet brought low by the Sacking of the city in 324 AR. It remains as a remainder of the faith's overreach, despite voices calling for its removal or renewal throughout the centuries. From here, the stony steps up the barren outcropping begin, where the Revelation is said to have been received, and where the pilgrims filter past the Eternal Flame and the masterful lenswork that ensures that during every hour of daylight the light of the sun shines down onto the spot where the Prophet sat.
+The urban form remains dense and layered. Markets cluster near the river, noisy with sellers of fruit, woven cloth, and relics for pilgrims. Beyond them lie the residential quarters, a labyrinth of narrow alleys, shaded patios, and communal wells. Rising above all stands the ruins of the Palace of the Hierophant, enclosed within walls as old as the faith itself, and yet brought low by the Sacking of the city in 336 AR. It remains as a remainder of the faith's overreach, despite voices calling for its removal or renewal throughout the centuries. From here, the stony steps up the barren outcropping begin, where the Revelation is said to have been received, and where the pilgrims filter past the Eternal Flame and the masterful lenswork that ensures that during every hour of daylight the light of the sun shines down onto the spot where the Prophet sat.
 
 ### The Eternal Dominion
 

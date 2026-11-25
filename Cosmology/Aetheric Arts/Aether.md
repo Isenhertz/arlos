@@ -18,7 +18,7 @@ The idiom taught students of the aetheric sciences puts it thus: structure is th
 
 ## The Six under Aether
 
-Aether acts through the relations of the elements and nowhere else. Each element answers differently when drawn into aetheric order, conducting, resisting, or modulating in ways set by its adjacencies and antipathies. The forces of the sixfold circle run along its Abeyant and Antagonistic relations, the rays of the elemental hexagram: the Antagonistic pairs opposed across its centre, the Abeyant pairs holding them apart in tension. The Adjacencies between neighbouring nodes on the hexagon are those forces' settled resultant and mostly resist interference, while the Abeyant and Antagonistic relations readily admit modulation and so supply most of the engineer’s leverage. To speak of an aetheric working is therefore to speak of a particular reshaping of these relations in a given time and place.
+Aether acts through the relations of the elements and nowhere else. Each element answers differently when drawn into aetheric order, conducting, resisting, or modulating in ways set by its adjacencies and antipathies. The forces of the sixfold circle run along its Abeyant and Antagonistic relations: the Abeyant pairs drawn as the elemental hexagram, the Antagonistic pairs as the three diameters opposed across its centre, which the hexagram holds apart in tension. The Adjacencies between neighbouring nodes on the hexagon are those forces' settled resultant and mostly resist interference, while the Abeyant and Antagonistic relations readily admit modulation and so supply most of the engineer’s leverage. To speak of an aetheric working is therefore to speak of a particular reshaping of these relations in a given time and place.
 
 ## Practice and Safety
 

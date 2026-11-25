@@ -89,8 +89,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 
 Decided in the cross-file conflict pass; the dates, names and spellings are already applied, these still need prose.
 
-- Elemental relations: the tensegrity framing of Arlos Elemental Reality.md holds. The Six Elements.md and Elemental Hazards.md drop Strong/Weak as the primary distinction, and "covalent" goes.
-- Theronga: steppe and open country; capable of flight despite its bulk but rarely flies; browses treetops and stalks small prey with a darting beak strike; defends itself with forward kicks.
 - Fulminance is in working use well before 1574 (Balboa's Ascensori, Virell's fulminance lines, laboratory cells, state forges). The Fulminant Turn is the post-1574 scaling-up of something that already existed.
 - Lavion fields glider troops only after Roburic II's conquest of Lu-Pto (after 1498); Aeronautics' 1480s rediscovery passage moves accordingly.
 - Lu-An: Reme holds the iron coasts early; abortive inland excursions against the Zanori and Sunkin recur throughout the empire's life (pattern: Rome's Germanic frontier).

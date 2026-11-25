@@ -56,7 +56,7 @@ The Theocracy's end came from within. In 327 AR the [[Starkin]] prince Ejitwe ga
 
 ## The Dark Ages (336-998 AR)
 
-The Sack of [[An-Mirda]] killed the Theocracy but not its cadres. The crusader companies, sworn to an idea and not a place, kept driving south and east in failing campaigns against the Southlands and the plains, winning victories they could not hold and suffering defeats that taught them nothing. Crusader polities went on claiming the Theocracy's name for centuries, and An-Mirda itself never left Dominion hands: it is governed to this day as a theocracy by a council of hierarchs who answer to the Patriarch of the North.
+The Sack of [[An-Mirda]] killed the Theocracy but not its cadres. The crusader companies, sworn to an idea and not a place, kept driving south and east in failing campaigns against the Southlands and the plains, winning victories they could not hold and suffering defeats that taught them nothing. Crusader polities went on claiming the Theocracy's name for centuries, and An-Mirda itself returned to Dominion hands once the Thronebreaker abandoned its ruin: it is governed to this day as a theocracy by a council of hierarchs who answer to the Patriarch of the North.
 
 Without a strong primate to harness them, the unbound companies hardened their creed into the form the motto records. They held that the Light's authority flows through holy action and sworn oath and not through clerical consecration. In the far-periphery fortress-monasteries of the Lupines and the Salt Road, some drifted into a quasi-Manichaean reading of the Light, and from there into the elemental heresy that makes Fire, in the person of Phlogistophor, the Light's Executioner.
 

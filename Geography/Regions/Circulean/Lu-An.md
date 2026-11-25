@@ -34,9 +34,9 @@ The Zanori travel in tight kinbands and claim the steppe not as property but as 
 
 ## Timeline
 
-### Remean Approaches and the Repulse of the Legions (late pre‑AR to 0 AR)
+### The Remean Shore and the Inland Repulse (Remean Era to 0 AR)
 
-Reme's first touch was maritime. As the legions swept east along the Gyre, they raised emporia and light forts on deltas and lagoons, and sent probing columns inland along the river lanes. The probes did not penetrate deep, for Zanori kinbands -- swift, horned, and deadly from the gallop -- broke infantry screens and bled Remean columns until the polity learned to hug the tidewater. Sunkin prides, similarly, made river garrisons uneconomical. Shaping gave the legions a massive advantage over its human opponents; it did little on wind-flattened flats where thirst does most of the damage, and where even Shaped legs could not pursue foes adept at vanishing into the horizon.
+Reme's first touch was maritime, and it came early: the black iron sands the Eastern Gyre lays along this shore made the Lu-An coast among the first prizes of the empire's eastward reach, and for the better part of a millennium Remean emporia, light forts, and sand-works stood on its deltas and lagoons. The interior was another matter. Generation after generation the legions sent columns inland along the river lanes, and generation after generation the columns came back shorter or not at all, for Zanori kinbands -- swift, horned, and deadly from the gallop -- broke infantry screens and bled Remean columns, and Sunkin prides made every river garrison uneconomical. No campaign ever made the plains a province, and no century passed without another being tried; the shore stayed Remean and the horizon stayed the Zanori's. Shaping gave the legions a massive advantage over its human opponents; it did little on wind-flattened flats where thirst does most of the damage, and where even Shaped legs could not pursue foes adept at vanishing into the horizon.
 
 ### Withdrawal to the Shore and the Quiet Collapse (0-300 AR)
 

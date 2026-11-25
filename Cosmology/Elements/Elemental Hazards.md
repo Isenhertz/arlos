@@ -1,3 +1,7 @@
+---
+status: early draft
+canon: false
+---
 In Arlos, all change arises where the six elements meet by relation, and it is the abeyant and antagonistic relations that most readily answer aetheric touch. The chain of adjacencies, their settled resultant, provides the world’s dependable background, but the abeyant and antagonistic relations are the world's habits in flux, the seams where structure, resonance, and materiality can slip in to effect change. But when they are jostled past their manners, they can turn into calamities rather than miracles.
 ## Cohesive Shear
 

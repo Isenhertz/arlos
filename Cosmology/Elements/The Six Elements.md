@@ -20,20 +20,20 @@ Arlos is defined by the interplay of its six elements: Fire, Air, Water, Ice, St
 
 ## The Elemental Relations
 
-No element exists without interaction with the other five. Their relations form a web of sympathetic and antagonistic relations, which can be influenced by aetheric modulation. Each element is thus a pole for five different relations: two with the elements deemed its neighbours, two with elements one step removed, and one with its polar opposite.
+No element exists without interaction with the other five. Their relations form a web of adjacent, abeyant and antagonistic relations, which can be influenced by aetheric modulation. Each element is thus a pole for five different relations: two with the elements deemed its neighbours, two with elements two steps removed, and one with its polar opposite.
 
-Each element's three relations to non-neighbouring elements carry the hexad's working forces: two are Abeyant, and one is Antagonistic. The Antagonistic pairs are the hexad's struts, opposed across its centre; the Abeyant pairs are the tension that holds those struts apart, so that the six stand together as a tensegrity. The relation between elements adjacent in the sixfold circle is no third force beside these but their settled resultant, the edge where a strut and its tensions meet and come to rest. Older alchemy called the adjacencies the "Strong" relations and the rest "Weak", for the one resists change and the others yield to it, and the terms survive in workshop speech. Unlike the stability of Adjacency, the Abeyant and Antagonistic relations are characterized by the tension introduced by the interplay of the different natures of the elements: While Abeyant relations are usually in equilibrium, Antagonistic relations are in constant flux. Modern aetheric scholarship uses defined, commonly accepted terms for all elemental relations, drawing on older alchemical terms.
+Each element's three relations to non-neighbouring elements carry the hexad's working forces: two are Abeyant, and one is Antagonistic. The Antagonistic pairs are the hexad's struts, opposed across its centre; the Abeyant pairs are the tension that holds those struts apart, so that the six stand together as a tensegrity. The relation between elements adjacent in the sixfold circle is no third force beside these but their settled resultant, the edge where a strut and its tensions meet and come to rest. Older alchemy called the adjacencies the "Strong" relations and the rest "Weak", for the one resists change and the others yield to it, and the terms survive in workshop speech. Unlike the stability of Adjacency, the Abeyant and Antagonistic relations are characterized by the tension introduced by the interplay of the different natures of the elements: While Abeyant relations are usually in equilibrium, Antagonistic relations are in constant oscillation. Modern aetheric scholarship uses defined, commonly accepted terms for all elemental relations, drawing on older alchemical terms.
 
 ### The Adjacent Relations
-Adjacent elements have long proved to be extremely resistant to influences; their natures are linked, and so it is exceedingly hard to introduce change (though they can be reinforced). For that reason they are best understood as the aspects forming the backbone of reality in a sixfold circle, and in the vocabulary of earlier alchemists, these relations are expressed simply as what action the elements most readily do.
+Adjacent elements have long proved to be extremely resistant to influences; their natures are linked, so that any working on an Adjacent relation, whether to strengthen or to weaken it, must carry the whole four-element Balance it belongs to, and its cost climbs exponentially with the size of the shift. A slight bias is cheap enough to be worth having; a large change is ruinous. For that reason they are best understood as the aspects forming the backbone of reality in a sixfold circle, and in the vocabulary of earlier alchemists, these relations are expressed simply as what action the elements most readily do.
 
 - **Fire <> Air**: Rarefaction (Adjacent)
 	Fire purifies, Air disperses
-- **Air <> Water**: Flux (Adjacent)
+- **Air <> Water**: Dispersion (Adjacent)
 	Air moves, Water flows
-- **Water <> Ice**: Formation (Adjacent)
+- **Water <> Ice**: Flux (Adjacent)
 	Water shapes, Ice retains
-- **Ice <> Stone**: Fortification (Adjacent)
+- **Ice <> Stone**: Rigidity (Adjacent)
 	Ice hardens, Stone resists
 - **Stone <> Soil**: Foundation (Adjacent)
 	Stone anchors, Soil accumulates
@@ -41,7 +41,7 @@ Adjacent elements have long proved to be extremely resistant to influences; thei
 	Soil nurtures, Fire transforms
 
 ### The Abeyant and Antagonistic Relations
-Of these, the Abeyant relations are the stable ones, which in nature usually hold in equilibrium. However, the Abeyant relations will undergo change more readily than the Adjacent relations. In older alchemical parlance, Abeyant relations are expressed as what the element wishes to do, against the constraints placed on it by its opposite.
+Of these, the Abeyant relations are the ones that in nature usually hold in equilibrium. However, the Abeyant relations will undergo change more readily than the Adjacent relations. In older alchemical parlance, Abeyant relations are expressed as what the element wishes to do, against the constraints placed on it by its opposite.
 
 - **Fire <> Water**: Volatility (Abeyant)
 	Fire wishes to excite, Water wishes to quench
@@ -58,7 +58,7 @@ Of these, the Abeyant relations are the stable ones, which in nature usually hol
 
 In contrast, the Antagonistic relations oscillate much more, and need but the slightest nudge to tip towards either pole. In alchemical terms, they are expressed as the elements' will -- what it yearns to do to abide its very nature. These relations are also the most readily experienced, as they form the basis of most everyday weather phenomena.
 
-- **Water <> Soil**: Saturation (Antagonistic)
+- **Water <> Soil**: Density (Antagonistic)
 	Water will dilute, Soil will concentrate
 - **Fire <> Ice**: Temperature (Antagonistic)
 	Fire will melt, Ice will freeze

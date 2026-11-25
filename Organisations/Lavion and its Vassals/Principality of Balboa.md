@@ -25,7 +25,7 @@ The Principality hasn't gone to war in the centuries since formally joining the 
 
 ### Early Period - Remean Rule and the Fall
 
-**687 BR:** Founding of Balboa as _Portus Valabonicus_, a maritime trade port and naval station of the Remean Empire. Legend has it that it was named for _Admiral Valabona_, who established the permanent harbor at the mouth of the River Ertra. 650 BR is also mentioned, but seems to refer to the hilltop fort protecting the port rather than the settlement itself.
+**687 BR:** Founding of Balboa as _Valabuium_, a maritime trade port and naval station of the Remean Empire, its name taken from the _statia vala buia_, "the stations between the currents". Popular legend instead credits the name to an _Admiral Valabona_, said to have established the permanent harbor at the mouth of the River Ertra. 650 BR is also mentioned, but seems to refer to the hilltop fort protecting the port rather than the settlement itself.
 
 **680 BR to 0 AR:** Balboa thrives as a semi-autonomous provincial capital and crossroads for [[Circle Sea]] trade. Governed by appointed Procurators from [[Reme]]. Flourishes culturally and economically.
 
@@ -39,15 +39,15 @@ The Principality hasn't gone to war in the centuries since formally joining the 
 
 **c. 120 AR:** A prominent merchant-admiral, Giulianiste Balbo, uses his fleet to seize control of the harbor. He consolidates power through alliances, and the council names him Magister Portum.
 
-**c. 160 AR:** Giulianiste’s grandson, Cassan Balbo, adopts the hereditary title of _Principe_ (Prince) and refashions his family name as [[di Balboa]].
+**c. 160 AR:** Giulianiste’s grandson, Cassan Balbo, refashions his family name as [[di Balboa]] and founds the dynasty that will rule the city.
 
-**c. 250 AR - First Princely Compact:** House di Balboa is firmly established, ruling Balboa and its hinterlands as an independent maritime principality.
+**c. 290 AR - First Princely Compact:** House di Balboa is firmly established, its head taking the hereditary title of _Principe_ (Prince) and ruling Balboa and its hinterlands as an independent maritime principality.
 
 ###  Ambition, War, and Expansion in the Dark Ages
 
-**410-710 AR - The Five Generations of Expansion:** Balboa builds a powerful fleet, expanding its influence to surrounding coastal towns. Princely power grows unchecked, with periods of great prosperity and notorious decadence.
+**c. 650-800 AR - The Five Generations of Expansion:** Balboa builds a powerful fleet, expanding its influence to surrounding coastal towns. Princely power grows unchecked, with periods of great prosperity and notorious decadence.
 
-**824 AR:** A disastrous war with nearby Gaviatolis weakens Balboa's standing. The principality retreats from its territorial holdings in the south of the peninsula, but its maritime power remains.
+**c. 800 AR:** A Gaviatolian warlord expels Balboa's governors and deals the principality a disastrous defeat in the field. The principality retreats from its territorial holdings in the south of the peninsula, but its maritime power remains.
 
 **ca. 830 AR - Formal Establishment of the Balboan Condottieri:** In response to the instability following from the military defeat and the political turn inwards, the Balboan regiments (themselves patterned after the original Remean legions stationed in the port) become free mercenary companies. These are granted great autonomy, and soon gain fame for discipline, flair, and brutality in battle.
 
@@ -57,7 +57,7 @@ The Principality hasn't gone to war in the centuries since formally joining the 
 
 ### The War of the Three Kings and Royal Vassalage (1117-1121 AR)
 
-**1117 AR:** The War of the Three Kings breaks out after the Lavienese royal succession crisis following the death of King Oswine de Lavion is settled when Roburic, Oswine's uncle, takes the crown of Lavion. Cavrian de Nevron, ruler of the lands along the northern slopes of the Wolves' Teeth Mountains that will be Mirevigne, seizes on a perceived moment of weakness and presses his claim as "King in the South", throwing the realm into civil war. Balboa, initially allied to the King in the South, finds itself at odds with Lavion, and its fragmented condottieri end up fighting on all sides.
+**1117 AR:** The War of the Three Kings breaks out two years after the Lavienese royal succession crisis that followed the death of King Oswine de Lavion in 1115, settled when Roburic, Oswine's uncle, seized the crown of Lavion. Cavrian de Nevron, Prince of Cendrelac, seizes on a perceived moment of weakness and presses his claim as "King in the South", drawing Mirevigne into his coalition and throwing the realm into civil war. Balboa, initially allied to the King in the South, finds itself at odds with Lavion, and its fragmented condottieri end up fighting on all sides.
 
 **1119 AR - The Siege of Balboa:** Despite fierce resistance, the city’s defenses are worn down over the course of a siege lasting over two years. Blockade runners and smugglers keep the populace fed, but attrition takes its toll on the armed forces.
 
@@ -78,4 +78,4 @@ This marks the beginning of the Second Princely Compact.
 
 **1389 AR - Birth of Lauralotta Victualia Emmanuela Augusta Terisea di Balboa:** The second child of Principe Vittorio II., she is never expected to rule. Her intellect is quickly discovered, and she is raised under the best tutelage imaginable, including studying at the Grand Academy of the Broken Isles.
 
-**1405 AR:** At age 16, Lauralotta Victualia Emmanuela Augusta Terisea di Balboa accedes to the title of Principessa Serenissima after her older brother Carlorus Giulianno Erminguardo Victorior di Balboa dies of an infection after a duel. Her reign is marked by eccentric brilliance, lavish patronage, and her famed interventions in fashion, diplomacy, and scholarship.
+**1405 AR:** Her older brother Carlorus Giulianno Erminguardo Victorior di Balboa having died late in 1404 of an infection after a duel, Lauralotta Victualia Emmanuela Augusta Terisea di Balboa accedes to the title of Principessa Serenissima on coming of age at the Day of Names, aged 16. Her reign is marked by eccentric brilliance, lavish patronage, and her famed interventions in fashion, diplomacy, and scholarship.

@@ -11,15 +11,15 @@ In the Circulean context, talk of "magnets" can refer to any of the relational m
 
 ## Known Relational Materials - Abeyant
 ### Tension
-Tension magnets, also called "true" magnets in the Academy's stricter speech, are among the oldest known relation-active materials. Long before any scholar could describe Tension as the weak abeyant relation of Fire and Stone, men had already found certain stones that drew pins, clung to blades, and made filings gather in orderly little beards. In village speech such stones are still called lodestone or drawstone.
+Tension magnets, also called "true" magnets in the Academy's stricter speech, are among the oldest known relation-active materials. Long before any scholar could describe Tension as the abeyant relation of Fire and Stone, or any workshop call it a "weak" one, men had already found certain stones that drew pins, clung to blades, and made filings gather in orderly little beards. In village speech such stones are still called lodestone or drawstone.
 
 For most of history true magnets were curiosities, shrine objects, or aids to specialized craft. Their practical importance rose sharply only in the Age of Corsairs, when mariners of the Circle Sea and beyond found themselves sailing farther from familiar coasts and under greater pressure to keep a reckon in haze, darkness, and open water. A floating needle taught by a sound lodestone could be trusted when stars were hidden and landmarks false. From that point onward the drawstone ceased to be a cabinet oddity and became a navigator's servant.
 
 The naming of the poles follows the elemental relation rather than the mariner's cardinal convenience. Thus a magnet does not have a "north" and "south" pole in the scholarly style, but a Fire pole and a Stone pole. One end is understood as the more active, expressive, and seeking face of the relation; the other as the more retaining and anchoring. Like poles refuse one another, unlike poles draw, and a free magnet will turn until its inward Tension is satisfied against the greater ordering of the world. In common practice, the Fire end is usually the one marked in red lacquer, soot-wax, or cinnabar paint, though provincial habits vary and have caused more arguments in dockside taverns than any philosopher would admit in print.
 
-Tension magnets also sit at the troublesome border of another field, namely Fulminance. It has long been observed that a vigorous lodestone may, under motion, striking, or certain patterned couplings, encourage a fulminant charge in nearby prepared matter. The converse seems true as well: strong surges may disturb, weaken, or occasionally reverse a magnet's settled bias. This affinity between magnetic Tension and Fulminance is what later natural philosophers term the Parallelism of Surges. Yet the phrase conceals as much as it explains. What is certain is only that the two relations answer one another often enough to be exploited, and capriciously enough to remain dangerous.
+Tension magnets also sit at the troublesome border of another field, namely Fulminance. It has long been observed that a vigorous lodestone may, under motion, striking, or certain patterned couplings, encourage a fulminant charge in nearby prepared matter. The converse seems true as well: strong surges may disturb, weaken, or occasionally reverse a magnet's settled bias. This affinity between magnetic Tension and Fulminance is what later natural philosophers term the Parallelism of Charges. Yet the phrase conceals as much as it explains. What is certain is only that the two relations answer one another often enough to be exploited, and capriciously enough to remain dangerous.
 
-This uncertainty has done little to discourage experimentation. In workshops, drawstones are used to teach needles, bias grapnels, order filings in assay work, and in the more ambitious yards to build magnetic couplings and release catches. In laboratories they are paired with fulminant apparatus in an endless procession of coils, rings, plaques, and regrettable accidents, but the exact law joining the two remains obstinately incomplete. The Parallelism of Surges is therefore one of those fields that make reputations quickly and settle them poorly, and every generation produces a few savants convinced they have solved it.
+This uncertainty has done little to discourage experimentation. In workshops, drawstones are used to teach needles, bias grapnels, order filings in assay work, and in the more ambitious yards to build magnetic couplings and release catches. In laboratories they are paired with fulminant apparatus in an endless procession of coils, rings, plaques, and regrettable accidents, but the exact law joining the two remains obstinately incomplete. The Parallelism of Charges is therefore one of those fields that make reputations quickly and settle them poorly, and every generation produces a few savants convinced they have solved it.
 ### Attraction
 Manipulating Attraction was a long-standing dream, which became a reality when 15th-century material advancements led to the recreation of naturally occuring neutral-buoyancy lattice materials such as found in the bones of many of the larger [[Gryphoids]]. Two forms exist, "soft" skyfoam or "hard" tractite. The former is a [[Alchemica|pliant]]-based aerogel that provides just enough above-neutral buoyancy to float naturally and is especially useful as filler material for aeronaval applications, such as gas-cell envelopes, glider padding, and other areas where weight is critical but structure is needed. The latter is a lattice material that is ordinarily of normal weight but can be "tipped" towards buoyancy or weight by selectively applied resonance and/or fulminant charge, and holds this new state as long as subjected to the original induction.
 
@@ -54,7 +54,7 @@ In alchemy, it serves as the matrix of reaction beds, filters, and catalyst pads
 Medicine plasters are perhaps the most culturally visible use. A proper plaster of the stuff is cool, stilling, and preservative in the jar. Laid upon the body it first suppresses excess heat, swelling, seepage, and corruption. Then, as it takes in warmth, sweat, and the gentle pressures of a person's motion over the following days, it begins to encourage drawing, knitting, softening, or ripening, depending on what herbs, salts, and oils were compounded into it. Thus one plaster may be made to hold a wound quiet for travel, another to draw out corruption once safely home, another to stiffen into a support around a joint, and another to release a medicine only as the body's own heat calls for it.
 
 ## Known Relational Materials - Antagonistic
-### Saturation
+### Density
 Something with an effect on density?
 ### Temperature
 Winterstone is a rare, naturally occurring mineral prized for its absolute indifference to heat and cold. Soft, porous, and easily worked when first quarried, it resembles a fine, pale variety of limestone with a matte bluish-white sheen. Unlike any ordinary substance, winterstone neither meaningfully warms nor cools, but maintains a fixed chill just above freezing, no matter the season, the furnace, or the snowfield, because the antagonism of Fire and Ice stands within it in perfect arrest. Temperature simply cannot advance within it, and so the stone abides at the narrow point where water remains just about liquid and frost forever threatens without triumphing.
@@ -70,15 +70,15 @@ The final and most recent refinement belongs to the Imperial age, when aetheric 
 Acceleration-compounding slate? Compare Remean "stone-lance" weapon
 But: no motion without effort, else Arlosian engineering gets an easy perpetuum mobile
 Perpetually dancing pebbles, like vibration patterns writ large? Not something usable other than as a curiosity
-## Known Relational Materials - Stable
-Agents that reinforce/represent the stable relation
+## Known Relational Materials - Adjacent
+Agents that reinforce/represent the Adjacent relation
 ### Rarefaction
 Something like a cleaning agent? 
-### Flux
+### Dispersion
 Universal solvent?
-### Formation
+### Flux
 
-### Fortification
+### Rigidity
 A fortifying agent?
 ### Foundation
 A hardening plant, maybe a vine that instead of weakening structures strengthens them?

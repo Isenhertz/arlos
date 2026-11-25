@@ -23,7 +23,6 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 - "Magnet", "magnetic" and "magnetism" are acceptable everyday words and concepts in Arlos, since magnets are the natural example of a Tension-active material. Tension remains the preferred term for the Charge itself.
 - The technology driver is a thermoacoustic, pneumatic and fulminant progression in place of steam and gunpowder; steam is socially stigmatised and practically absent.
 - Shaping (the inward aetheric body-art of the Remean Collegium) is not a simply dystopian overreach but a practice Remeans arrived at naturally from their cultural assumptions. A Remean citizen's experience of it should feel ordinary despite often plainly superhuman capabilities. Its malignment comes from being anathema to Lurism.
-- Gliding originates in Lu-Pto (basalt desert thermals, a pre-Remean tribal youth tradition), spreading basin-wide late in the Aetheric Age (after the 1420s, in the later 15th century) as an avant-garde pastime before Lavion's military appropriation after Roburic II's conquest of Lu-Pto. Not a Svenish, Varngardi or purely Lavienese invention.
 
 ## Polities and institutions
 
@@ -89,7 +88,4 @@ Decisions Jan made in conversation on claude.ai, carried over at the migration t
 
 Decided in the cross-file conflict pass; the dates, names and spellings are already applied, these still need prose.
 
-- Fulminance is in working use well before 1574 (Balboa's Ascensori, Virell's fulminance lines, laboratory cells, state forges). The Fulminant Turn is the post-1574 scaling-up of something that already existed.
-- Lavion fields glider troops only after Roburic II's conquest of Lu-Pto (after 1498); Aeronautics' 1480s rediscovery passage moves accordingly.
 - Lu-An: Reme holds the iron coasts early; abortive inland excursions against the Zanori and Sunkin recur throughout the empire's life (pattern: Rome's Germanic frontier).
-- Grand Academy: founded in the 11th century as a shipyard and officers' training school for corsair-era seamanship and shipbuilding; the 12th-century arcannon later turns it toward engineering. It is the oldest university not theology-first and not directly influenced by a patriarchate.

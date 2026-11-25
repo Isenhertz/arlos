@@ -22,7 +22,7 @@ But those feast-day rigs are also a laboratory. They let artisans watch how enve
 
 ## 1320-1360 AR: Proto-dirigibles and the birth of dynamic lift
 
-Right on schedule, aetheric engineering throws more fuel on the fire. In the late 13th and early 14th centuries, Academy savants close their thermoacoustic pipes into rings, insert regenerators and heat exchangers, and produce proper traveling-wave choir engines: compact, reliable acoustic heat engines that can feed steady power into pistons, fans, and screws.
+Right on schedule, aetheric engineering throws more fuel on the fire. Through the first half of the 14th century, Academy savants close their thermoacoustic pipes into rings and insert regenerators and heat exchangers, and by mid-century they produce proper traveling-wave choir engines: compact, reliable acoustic heat engines that can feed steady power into pistons, fans, and screws.
 
 Someone, inevitably, bolts one to a gas bag.
 

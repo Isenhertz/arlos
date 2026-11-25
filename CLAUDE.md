@@ -56,6 +56,8 @@ Dates use the civil count: years before the Fall of Reme are BR, after it AR, th
 ## How we work
 
 - Drafting loop: Claude proposes, Jan corrects, then the corrections are integrated as targeted edits. Never rewrite a whole file to apply a correction.
+- Discuss before editing. Until Jan says a decision is made ("go ahead", "commit it"), answer in chat: proposals, options, draft passages quoted in the reply. Do not edit, commit or push. A request that is itself an instruction to change a file ("fix the dashes in Calendars") counts as the go-ahead.
+- On the go-ahead, create a branch, apply the agreed text as targeted edits, run the three checks, push, and open a pull request.
 - Before drafting anything, search the content folders, `notes/` and `data/` for what is already established, and cross-reference before introducing new material.
 - Earth-historical shorthand (Charlemagne, the Rhine, a Viking analogue) is fine in conversation and in `notes/`, never in lorebook prose.
 - Do not flag open threads or pending decisions in replies. Jan tracks them separately.

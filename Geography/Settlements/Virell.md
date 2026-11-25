@@ -175,7 +175,7 @@ Indoors, kitchens run on spirit stoves and charcoal braziers. The **chimney code
 
 Because heat is dear, Virell is a **bronze and brass** city. Balcony rails, door furniture, lock plates, bollards, bridge nameplates -- cast or wrought in alloys that melt low and polish high. **Low-heat smelteries** cluster on canal basins to save hauling fuel; their cupolas glow peach at dusk. Copper is king, and you feel its cost in architecture: gutters and downspouts are carefully jointed, roofs spot-flashed rather than sheeted, and every scrap is lifted by rag-and-metal men before it can tarnish.
 
-True **steel** is rare. Only a handful of **aetheric arc-furnaces** -- guarded sheds at the Royal Works near the Docks -- can sustain the white heat for billets. Their roofs pulse faintly when the coils are live, and wardens post **Fulminance warnings** so folk keep their distance. What steel appears becomes springs, fine tools, and the bones of airship gear. **Aluminum** is dearer still -- you glimpse it in the pontoon liner's bright lattice or a surgeon's tray, not in common railings.
+True **steel** is rare. Only a handful of **aetheric arc-furnaces** -- guarded sheds at the Royal Works near the Docks -- can sustain the white heat for billets. Their roofs pulse faintly when the coils are live, and wardens post **Fulminance warnings** so folk keep their distance. What steel appears becomes springs, fine tools, and the bones of airship gear. **Alumen** is dearer still -- you glimpse it in the pontoon liner's bright lattice or a surgeon's tray, not in common railings.
 
 ### The sound and look of work
 

@@ -4,6 +4,7 @@ aliases:
   - activating
   - Relationals
   - relational
+status: early draft
 ---
 Relational materials, short for "Relation-active materials", are essentially elemental magnets: naturally occurring materials biased towards a certain Relation, either as stabilizing or inductive agent. Like true magnets, they are usually polarized; in the Arlosian context the poles of a relational magnet correspond to one of the two elements of the relation. Some few relation-active materials are instead in natural balance and only provide an effect if induced to tip to either end of the scale.
 

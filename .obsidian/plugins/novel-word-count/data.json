@@ -68,6 +68,141 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "tools/lint_rules.py": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1795596382175,
+      "modifiedDate": 1795596382175,
+      "sizeInBytes": 6377,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "tools/lint.py": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1795596382174,
+      "modifiedDate": 1795596382174,
+      "sizeInBytes": 7798,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "tools/links.py": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1795596382174,
+      "modifiedDate": 1795596382174,
+      "sizeInBytes": 2270,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "tools/corpus.py": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1795596382173,
+      "modifiedDate": 1795596382173,
+      "sizeInBytes": 1574,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "tools/check_timeline.py": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1795596382173,
+      "modifiedDate": 1795596382173,
+      "sizeInBytes": 6921,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "Timekeeping/Timelines/Timeline of the Realm.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -83,8 +218,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037129,
-      "modifiedDate": 1795553037129,
+      "createdDate": 1795596382139,
+      "modifiedDate": 1795596382139,
       "sizeInBytes": 78,
       "sessionStart": {
         "noteCount": 1,
@@ -93,33 +228,6 @@
         "characterCount": 78,
         "nonWhitespaceCharacterCount": 62,
         "newlineCount": 9
-      }
-    },
-    "Timekeeping/Timelines/Timeline of the Hierophancy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 77,
-      "nonWhitespaceCharacterCount": 63,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553037129,
-      "modifiedDate": 1795553037129,
-      "sizeInBytes": 77,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 77,
-        "nonWhitespaceCharacterCount": 63,
-        "newlineCount": 8
       }
     },
     "Timekeeping/Timelines/Timeline of the Circle Sea.md": {
@@ -137,8 +245,8 @@
       "linkCount": 59,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382138,
+      "modifiedDate": 1795607769886,
       "sizeInBytes": 23950,
       "sessionStart": {
         "noteCount": 1,
@@ -147,6 +255,33 @@
         "characterCount": 23937,
         "nonWhitespaceCharacterCount": 20067,
         "newlineCount": 98
+      }
+    },
+    "Timekeeping/Timelines/Timeline of the Hierophancy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 77,
+      "nonWhitespaceCharacterCount": 63,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596382138,
+      "modifiedDate": 1795596382138,
+      "sizeInBytes": 77,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 77,
+        "nonWhitespaceCharacterCount": 63,
+        "newlineCount": 8
       }
     },
     "Timekeeping/Timelines/Timeline of Antiquity.md": {
@@ -164,8 +299,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795553037121,
+      "createdDate": 1795596382137,
+      "modifiedDate": 1795596382137,
       "sizeInBytes": 80,
       "sessionStart": {
         "noteCount": 1,
@@ -191,8 +326,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382136,
+      "modifiedDate": 1795607769885,
       "sizeInBytes": 5520,
       "sessionStart": {
         "noteCount": 1,
@@ -227,8 +362,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795553037121,
+      "createdDate": 1795596382136,
+      "modifiedDate": 1795596382136,
       "sizeInBytes": 826,
       "sessionStart": {
         "noteCount": 1,
@@ -254,8 +389,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382135,
+      "modifiedDate": 1795607769884,
       "sizeInBytes": 16449,
       "sessionStart": {
         "noteCount": 1,
@@ -283,8 +418,8 @@
       "aliases": [
         "Three Kings' War"
       ],
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382134,
+      "modifiedDate": 1795606520640,
       "sizeInBytes": 2223,
       "sessionStart": {
         "noteCount": 1,
@@ -321,8 +456,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382134,
+      "modifiedDate": 1795606520639,
       "sizeInBytes": 45939,
       "sessionStart": {
         "noteCount": 1,
@@ -348,8 +483,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795553037121,
+      "createdDate": 1795596382133,
+      "modifiedDate": 1795596382133,
       "sizeInBytes": 355,
       "sessionStart": {
         "noteCount": 1,
@@ -387,8 +522,8 @@
         "coronation of Genovrast",
         "End of the Interregnum"
       ],
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795553037121,
+      "createdDate": 1795596382132,
+      "modifiedDate": 1795596382133,
       "sizeInBytes": 130,
       "sessionStart": {
         "noteCount": 1,
@@ -414,169 +549,54 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 4988,
+      "wordCount": 4992,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 16.626666666666665,
-      "characterCount": 31356,
-      "nonWhitespaceCharacterCount": 25520,
-      "newlineCount": 260,
-      "readingTimeInMinutes": 18.82264150943396,
+      "pageCount": 16.64,
+      "characterCount": 31398,
+      "nonWhitespaceCharacterCount": 25551,
+      "newlineCount": 263,
+      "readingTimeInMinutes": 18.837735849056603,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "Calendars of Arlos"
-      ],
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795633470777,
+      "aliases": null,
+      "createdDate": 1795596382131,
+      "modifiedDate": 1795607769883,
       "sizeInBytes": 31452,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 16.626666666666665,
-        "wordCount": 4988,
-        "characterCount": 31356,
-        "nonWhitespaceCharacterCount": 25520,
-        "newlineCount": 260
-      },
-      "frontmatter": {
-        "aliases": [
-          "Calendars of Arlos"
-        ]
+        "pageCount": 16.64,
+        "wordCount": 4992,
+        "characterCount": 31398,
+        "nonWhitespaceCharacterCount": 25551,
+        "newlineCount": 263
       }
     },
-    "tools/lint_rules.py": {
-      "isCountable": false,
+    "sources/Measurements_source.md": {
+      "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 236,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.7866666666666666,
+      "characterCount": 1594,
+      "nonWhitespaceCharacterCount": 1162,
+      "newlineCount": 42,
+      "readingTimeInMinutes": 0.8905660377358491,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1795549825715,
-      "modifiedDate": 1795555283050,
-      "sizeInBytes": 6377,
+      "aliases": null,
+      "createdDate": 1795596382172,
+      "modifiedDate": 1795596382172,
+      "sizeInBytes": 1594,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "tools/lint.py": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1795549825715,
-      "modifiedDate": 1795555002007,
-      "sizeInBytes": 7798,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "tools/links.py": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1795549825715,
-      "modifiedDate": 1795557227986,
-      "sizeInBytes": 2270,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "tools/corpus.py": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1795553037129,
-      "modifiedDate": 1795553037129,
-      "sizeInBytes": 1574,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "tools/check_timeline.py": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1795549825715,
-      "modifiedDate": 1795553037129,
-      "sizeInBytes": 6921,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 0.7866666666666666,
+        "wordCount": 236,
+        "characterCount": 1594,
+        "nonWhitespaceCharacterCount": 1162,
+        "newlineCount": 42
       }
     },
     "sources/Invoking_old_source.md": {
@@ -594,8 +614,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795633470785,
-      "modifiedDate": 1795633470785,
+      "createdDate": 1795606520643,
+      "modifiedDate": 1795606520644,
       "sizeInBytes": 18059,
       "sessionStart": {
         "noteCount": 1,
@@ -604,33 +624,6 @@
         "characterCount": 17945,
         "nonWhitespaceCharacterCount": 14931,
         "newlineCount": 66
-      }
-    },
-    "sources/Measurements_source.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 236,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7866666666666666,
-      "characterCount": 1553,
-      "nonWhitespaceCharacterCount": 1162,
-      "newlineCount": 42,
-      "readingTimeInMinutes": 0.8905660377358491,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795549825715,
-      "modifiedDate": 1795555036535,
-      "sizeInBytes": 1553,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7866666666666666,
-        "wordCount": 236,
-        "characterCount": 1553,
-        "nonWhitespaceCharacterCount": 1162,
-        "newlineCount": 42
       }
     },
     "sources/Lurism_Catechism_Table.csv": {
@@ -648,8 +641,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795549825699,
-      "modifiedDate": 1795549825715,
+      "createdDate": 1795596382171,
+      "modifiedDate": 1795596382171,
       "sizeInBytes": 54261,
       "sessionStart": {
         "noteCount": 0,
@@ -675,8 +668,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795549825699,
-      "modifiedDate": 1795549825699,
+      "createdDate": 1795596382170,
+      "modifiedDate": 1795596382170,
       "sizeInBytes": 22389,
       "sessionStart": {
         "noteCount": 1,
@@ -702,8 +695,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795549825699,
-      "modifiedDate": 1795549825699,
+      "createdDate": 1795596382170,
+      "modifiedDate": 1795596382170,
       "sizeInBytes": 34516,
       "sessionStart": {
         "noteCount": 1,
@@ -712,60 +705,6 @@
         "characterCount": 34504,
         "nonWhitespaceCharacterCount": 29000,
         "newlineCount": 162
-      }
-    },
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 239,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7966666666666666,
-      "characterCount": 1857,
-      "nonWhitespaceCharacterCount": 1519,
-      "newlineCount": 34,
-      "readingTimeInMinutes": 0.9018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795549825669,
-      "modifiedDate": 1795553037121,
-      "sizeInBytes": 1857,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7966666666666666,
-        "wordCount": 239,
-        "characterCount": 1857,
-        "nonWhitespaceCharacterCount": 1519,
-        "newlineCount": 34
-      }
-    },
-    "Peoples/Zanori.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 416,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3866666666666667,
-      "characterCount": 2596,
-      "nonWhitespaceCharacterCount": 2166,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 1.569811320754717,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795553037121,
-      "sizeInBytes": 2596,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.3866666666666667,
-        "wordCount": 416,
-        "characterCount": 2596,
-        "nonWhitespaceCharacterCount": 2166,
-        "newlineCount": 9
       }
     },
     "Peoples/Humankind.md": {
@@ -790,8 +729,8 @@
         "ethnicity",
         "ethnicities"
       ],
-      "createdDate": 1795553037121,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382128,
+      "modifiedDate": 1795606520637,
       "sizeInBytes": 23988,
       "sessionStart": {
         "noteCount": 1,
@@ -812,52 +751,31 @@
         ]
       }
     },
-    "Peoples/Circulean Funerary Practice.md": {
+    "Peoples/Zanori.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6391,
+      "wordCount": 416,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 21.303333333333335,
-      "characterCount": 37240,
-      "nonWhitespaceCharacterCount": 30547,
-      "newlineCount": 189,
-      "readingTimeInMinutes": 24.116981132075473,
-      "linkCount": 0,
+      "pageCount": 1.3866666666666667,
+      "characterCount": 2596,
+      "nonWhitespaceCharacterCount": 2166,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 1.569811320754717,
+      "linkCount": 9,
       "embedCount": 0,
-      "aliases": [
-        "Five Stations",
-        "funerary practice",
-        "grieving gem",
-        "death-gem",
-        "corpse salt",
-        "dispersal platform",
-        "fraction",
-        "relic gem"
-      ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
-      "sizeInBytes": 37403,
+      "aliases": null,
+      "createdDate": 1795596382129,
+      "modifiedDate": 1795596382129,
+      "sizeInBytes": 2596,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 21.303333333333335,
-        "wordCount": 6391,
-        "characterCount": 37240,
-        "nonWhitespaceCharacterCount": 30547,
-        "newlineCount": 189
-      },
-      "frontmatter": {
-        "aliases": [
-          "Five Stations",
-          "funerary practice",
-          "grieving gem",
-          "death-gem",
-          "corpse salt",
-          "dispersal platform",
-          "fraction",
-          "relic gem"
-        ]
+        "pageCount": 1.3866666666666667,
+        "wordCount": 416,
+        "characterCount": 2596,
+        "nonWhitespaceCharacterCount": 2166,
+        "newlineCount": 9
       }
     },
     "Peoples/Dvergr.md": {
@@ -875,8 +793,8 @@
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
+      "createdDate": 1795596382127,
+      "modifiedDate": 1795596382128,
       "sizeInBytes": 18067,
       "sessionStart": {
         "noteCount": 1,
@@ -916,8 +834,8 @@
         "voidmarked",
         "Void-marked"
       ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
+      "createdDate": 1795596382126,
+      "modifiedDate": 1795596382126,
       "sizeInBytes": 22321,
       "sessionStart": {
         "noteCount": 1,
@@ -945,6 +863,130 @@
         ]
       }
     },
+    "Peoples/Circulean Funerary Practice.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6391,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 21.303333333333335,
+      "characterCount": 37240,
+      "nonWhitespaceCharacterCount": 30547,
+      "newlineCount": 189,
+      "readingTimeInMinutes": 24.116981132075473,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Five Stations",
+        "funerary practice",
+        "grieving gem",
+        "death-gem",
+        "corpse salt",
+        "dispersal platform",
+        "fraction",
+        "relic gem"
+      ],
+      "createdDate": 1795596382127,
+      "modifiedDate": 1795596382127,
+      "sizeInBytes": 37403,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 21.303333333333335,
+        "wordCount": 6391,
+        "characterCount": 37240,
+        "nonWhitespaceCharacterCount": 30547,
+        "newlineCount": 189
+      },
+      "frontmatter": {
+        "aliases": [
+          "Five Stations",
+          "funerary practice",
+          "grieving gem",
+          "death-gem",
+          "corpse salt",
+          "dispersal platform",
+          "fraction",
+          "relic gem"
+        ]
+      }
+    },
+    "Peoples/Alvai/Alvai.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 350,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1666666666666667,
+      "characterCount": 2111,
+      "nonWhitespaceCharacterCount": 1740,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 1.320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Alvai",
+        "The Kin"
+      ],
+      "createdDate": 1795596382123,
+      "modifiedDate": 1795596382123,
+      "sizeInBytes": 2154,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1666666666666667,
+        "wordCount": 350,
+        "characterCount": 2111,
+        "nonWhitespaceCharacterCount": 1740,
+        "newlineCount": 11
+      },
+      "frontmatter": {
+        "aliases": [
+          "Alvai",
+          "The Kin"
+        ]
+      }
+    },
+    "Peoples/Alvai/Moonkin.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1410,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.7,
+      "characterCount": 8637,
+      "nonWhitespaceCharacterCount": 7169,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 5.320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Kin of the Wolf Mother",
+        "Wolf-Blood",
+        "Wolfkin",
+        "Kin of the Moon"
+      ],
+      "createdDate": 1795596382124,
+      "modifiedDate": 1795596382124,
+      "sizeInBytes": 8737,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.7,
+        "wordCount": 1410,
+        "characterCount": 8637,
+        "nonWhitespaceCharacterCount": 7169,
+        "newlineCount": 28
+      },
+      "frontmatter": {
+        "aliases": [
+          "Kin of the Wolf Mother",
+          "Wolf-Blood",
+          "Wolfkin",
+          "Kin of the Moon"
+        ]
+      }
+    },
     "Peoples/Alvai/Sunkin.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -965,8 +1007,8 @@
         "Lion-Blood",
         "Kin of the Sun Lion"
       ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
+      "createdDate": 1795596382125,
+      "modifiedDate": 1795596382125,
       "sizeInBytes": 8274,
       "sessionStart": {
         "noteCount": 1,
@@ -1003,8 +1045,8 @@
         "Starblood",
         "Batkin"
       ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
+      "createdDate": 1795596382125,
+      "modifiedDate": 1795596382125,
       "sizeInBytes": 8830,
       "sessionStart": {
         "noteCount": 1,
@@ -1041,8 +1083,8 @@
         "Fallen",
         "Fallen Kin"
       ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
+      "createdDate": 1795596382123,
+      "modifiedDate": 1795596382124,
       "sizeInBytes": 6179,
       "sessionStart": {
         "noteCount": 1,
@@ -1061,107 +1103,31 @@
         ]
       }
     },
-    "Peoples/Alvai/Moonkin.md": {
+    "README.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1410,
+      "wordCount": 239,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.7,
-      "characterCount": 8637,
-      "nonWhitespaceCharacterCount": 7169,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 5.320754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Kin of the Wolf Mother",
-        "Wolf-Blood",
-        "Wolfkin",
-        "Kin of the Moon"
-      ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
-      "sizeInBytes": 8737,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.7,
-        "wordCount": 1410,
-        "characterCount": 8637,
-        "nonWhitespaceCharacterCount": 7169,
-        "newlineCount": 28
-      },
-      "frontmatter": {
-        "aliases": [
-          "Kin of the Wolf Mother",
-          "Wolf-Blood",
-          "Wolfkin",
-          "Kin of the Moon"
-        ]
-      }
-    },
-    "Peoples/Alvai/Alvai.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 350,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1666666666666667,
-      "characterCount": 2111,
-      "nonWhitespaceCharacterCount": 1740,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 1.320754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "Alvai",
-        "The Kin"
-      ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
-      "sizeInBytes": 2154,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1666666666666667,
-        "wordCount": 350,
-        "characterCount": 2111,
-        "nonWhitespaceCharacterCount": 1740,
-        "newlineCount": 11
-      },
-      "frontmatter": {
-        "aliases": [
-          "Alvai",
-          "The Kin"
-        ]
-      }
-    },
-    "Organisations/Pescoda Hall.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2692,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.973333333333333,
-      "characterCount": 16950,
-      "nonWhitespaceCharacterCount": 14048,
-      "newlineCount": 112,
-      "readingTimeInMinutes": 10.158490566037736,
+      "pageCount": 0.7966666666666666,
+      "characterCount": 1824,
+      "nonWhitespaceCharacterCount": 1519,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 0.9018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795633470768,
-      "sizeInBytes": 16971,
+      "createdDate": 1795596382129,
+      "modifiedDate": 1795606687491,
+      "sizeInBytes": 1824,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 8.973333333333333,
-        "wordCount": 2692,
-        "characterCount": 16950,
-        "nonWhitespaceCharacterCount": 14048,
-        "newlineCount": 112
+        "pageCount": 0.7966666666666666,
+        "wordCount": 239,
+        "characterCount": 1824,
+        "nonWhitespaceCharacterCount": 1519,
+        "newlineCount": 34
       }
     },
     "Organisations/Vel Kiriya.md": {
@@ -1182,8 +1148,8 @@
         "Velkirian",
         "King of Kings"
       ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382121,
+      "modifiedDate": 1795606520636,
       "sizeInBytes": 15485,
       "sessionStart": {
         "noteCount": 1,
@@ -1219,8 +1185,8 @@
         "Holdfast of Oar and Axe",
         "Myrholm"
       ],
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382121,
+      "modifiedDate": 1795606520635,
       "sizeInBytes": 25227,
       "sessionStart": {
         "noteCount": 1,
@@ -1238,6 +1204,33 @@
         ]
       }
     },
+    "Organisations/Pescoda Hall.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2692,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.973333333333333,
+      "characterCount": 16950,
+      "nonWhitespaceCharacterCount": 14048,
+      "newlineCount": 112,
+      "readingTimeInMinutes": 10.158490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596382120,
+      "modifiedDate": 1795607769882,
+      "sizeInBytes": 16971,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 8.973333333333333,
+        "wordCount": 2692,
+        "characterCount": 16950,
+        "nonWhitespaceCharacterCount": 14048,
+        "newlineCount": 112
+      }
+    },
     "Organisations/Minor Polities.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1253,8 +1246,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
+      "createdDate": 1795596382119,
+      "modifiedDate": 1795596382119,
       "sizeInBytes": 356,
       "sessionStart": {
         "noteCount": 1,
@@ -1263,217 +1256,6 @@
         "characterCount": 356,
         "nonWhitespaceCharacterCount": 293,
         "newlineCount": 13
-      }
-    },
-    "Organisations/Lavion and its Vassals/Vassals in Lavion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 769,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5633333333333335,
-      "characterCount": 5512,
-      "nonWhitespaceCharacterCount": 4561,
-      "newlineCount": 131,
-      "readingTimeInMinutes": 2.90188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795633470768,
-      "sizeInBytes": 5513,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5633333333333335,
-        "wordCount": 769,
-        "characterCount": 5512,
-        "nonWhitespaceCharacterCount": 4561,
-        "newlineCount": 131
-      }
-    },
-    "Organisations/Lavion and its Vassals/Principality of Balboa.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1413,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.71,
-      "characterCount": 9189,
-      "nonWhitespaceCharacterCount": 7648,
-      "newlineCount": 72,
-      "readingTimeInMinutes": 5.332075471698113,
-      "linkCount": 14,
-      "embedCount": 1,
-      "aliases": [
-        "Balboan",
-        "Balboa",
-        "Principality"
-      ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795633470768,
-      "sizeInBytes": 9305,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.71,
-        "wordCount": 1413,
-        "characterCount": 9189,
-        "nonWhitespaceCharacterCount": 7648,
-        "newlineCount": 72
-      },
-      "frontmatter": {
-        "tags": [
-          "balboa",
-          "geopolitical",
-          "lavion"
-        ],
-        "aliases": [
-          "Balboan",
-          "Balboa",
-          "Principality"
-        ]
-      }
-    },
-    "Organisations/Lavion and its Vassals/Kingdom of Lavion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 445,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4833333333333334,
-      "characterCount": 2963,
-      "nonWhitespaceCharacterCount": 2505,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 1.679245283018868,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": [
-        "Lavion",
-        "the realm"
-      ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795553037104,
-      "sizeInBytes": 3008,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.4833333333333334,
-        "wordCount": 445,
-        "characterCount": 2963,
-        "nonWhitespaceCharacterCount": 2505,
-        "newlineCount": 8
-      },
-      "frontmatter": {
-        "aliases": [
-          "Lavion",
-          "the realm"
-        ]
-      }
-    },
-    "Organisations/Lavion and its Vassals/Precedence in the Kingdom of Lavion, 15th C.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 657,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.19,
-      "characterCount": 5362,
-      "nonWhitespaceCharacterCount": 4102,
-      "newlineCount": 132,
-      "readingTimeInMinutes": 2.479245283018868,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795553037104,
-      "sizeInBytes": 5464,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.19,
-        "wordCount": 657,
-        "characterCount": 5362,
-        "nonWhitespaceCharacterCount": 4102,
-        "newlineCount": 132
-      }
-    },
-    "Organisations/Lavion and its Vassals/Grand Academy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 990,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.3,
-      "characterCount": 6311,
-      "nonWhitespaceCharacterCount": 5277,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 3.7358490566037736,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Academy of the Isles",
-        "Grand Academy of the Broken Isles"
-      ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795633470768,
-      "sizeInBytes": 6473,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.3,
-        "wordCount": 990,
-        "characterCount": 6311,
-        "nonWhitespaceCharacterCount": 5277,
-        "newlineCount": 22
-      },
-      "frontmatter": {
-        "tags": [
-          "geopolitical",
-          "balboa",
-          "organisation",
-          "lavion"
-        ],
-        "aliases": [
-          "Academy of the Isles",
-          "Grand Academy of the Broken Isles"
-        ]
-      }
-    },
-    "Organisations/Lavion and its Vassals/Balboa.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5809,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 19.363333333333333,
-      "characterCount": 35524,
-      "nonWhitespaceCharacterCount": 29510,
-      "newlineCount": 104,
-      "readingTimeInMinutes": 21.920754716981133,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Balboa",
-        "Principality of Balboa"
-      ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795633470768,
-      "sizeInBytes": 35588,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 19.363333333333333,
-        "wordCount": 5809,
-        "characterCount": 35524,
-        "nonWhitespaceCharacterCount": 29510,
-        "newlineCount": 104
-      },
-      "frontmatter": {
-        "aliases": [
-          "Balboa",
-          "Principality of Balboa"
-        ]
       }
     },
     "Organisations/Lurist organisations/Lurist Theological Currents.md": {
@@ -1491,8 +1273,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795553037113,
+      "createdDate": 1795596382119,
+      "modifiedDate": 1795596382119,
       "sizeInBytes": 7094,
       "sessionStart": {
         "noteCount": 1,
@@ -1518,8 +1300,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037113,
-      "modifiedDate": 1795633440075,
+      "createdDate": 1795596382118,
+      "modifiedDate": 1795596382118,
       "sizeInBytes": 1257,
       "sessionStart": {
         "noteCount": 1,
@@ -1528,44 +1310,6 @@
         "characterCount": 1253,
         "nonWhitespaceCharacterCount": 1048,
         "newlineCount": 9
-      }
-    },
-    "Organisations/Lurist organisations/Eastern Rite.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3661,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 12.203333333333333,
-      "characterCount": 22764,
-      "nonWhitespaceCharacterCount": 18907,
-      "newlineCount": 120,
-      "readingTimeInMinutes": 13.815094339622641,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Kharunite",
-        "Kharunites",
-        "Velkirian Rite"
-      ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795633470768,
-      "sizeInBytes": 22836,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 12.203333333333333,
-        "wordCount": 3661,
-        "characterCount": 22764,
-        "nonWhitespaceCharacterCount": 18907,
-        "newlineCount": 120
-      },
-      "frontmatter": {
-        "aliases": [
-          "Kharunite",
-          "Kharunites",
-          "Velkirian Rite"
-        ]
       }
     },
     "Organisations/Lurist organisations/Eternal Dominion.md": {
@@ -1590,8 +1334,8 @@
         "Theocracy of Eternal Dominion",
         "Theocracy of the Eternal Dominion"
       ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795633470768,
+      "createdDate": 1795596382117,
+      "modifiedDate": 1795606520634,
       "sizeInBytes": 13024,
       "sessionStart": {
         "noteCount": 1,
@@ -1620,6 +1364,44 @@
         ]
       }
     },
+    "Organisations/Lurist organisations/Eastern Rite.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3661,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 12.203333333333333,
+      "characterCount": 22764,
+      "nonWhitespaceCharacterCount": 18907,
+      "newlineCount": 120,
+      "readingTimeInMinutes": 13.815094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Kharunite",
+        "Kharunites",
+        "Velkirian Rite"
+      ],
+      "createdDate": 1795596382117,
+      "modifiedDate": 1795606520633,
+      "sizeInBytes": 22836,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 12.203333333333333,
+        "wordCount": 3661,
+        "characterCount": 22764,
+        "nonWhitespaceCharacterCount": 18907,
+        "newlineCount": 120
+      },
+      "frontmatter": {
+        "aliases": [
+          "Kharunite",
+          "Kharunites",
+          "Velkirian Rite"
+        ]
+      }
+    },
     "Organisations/Lurist organisations/Concordianism.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1639,8 +1421,8 @@
         "Concordianist",
         "Church of the West"
       ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795555001999,
+      "createdDate": 1795596382116,
+      "modifiedDate": 1795596382116,
       "sizeInBytes": 14718,
       "sessionStart": {
         "noteCount": 1,
@@ -1680,8 +1462,8 @@
         "Virellite",
         "Virellites"
       ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795633470768,
+      "createdDate": 1795596382115,
+      "modifiedDate": 1795606520632,
       "sizeInBytes": 30794,
       "sessionStart": {
         "noteCount": 1,
@@ -1730,8 +1512,8 @@
         "Seven Dozen Teachings",
         "Seven Instructions"
       ],
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795553037104,
+      "createdDate": 1795596382114,
+      "modifiedDate": 1795596382115,
       "sizeInBytes": 12508,
       "sessionStart": {
         "noteCount": 1,
@@ -1758,40 +1540,242 @@
         ]
       }
     },
-    "Organisations/Families & Houses/Suurial.md": {
+    "Organisations/Lavion and its Vassals/Vassals in Lavion.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 81,
+      "wordCount": 769,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.27,
-      "characterCount": 566,
-      "nonWhitespaceCharacterCount": 468,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.30566037735849055,
-      "linkCount": 2,
-      "embedCount": 1,
+      "pageCount": 2.5633333333333335,
+      "characterCount": 5512,
+      "nonWhitespaceCharacterCount": 4561,
+      "newlineCount": 131,
+      "readingTimeInMinutes": 2.90188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795553037096,
-      "sizeInBytes": 651,
+      "createdDate": 1795596382114,
+      "modifiedDate": 1795606520631,
+      "sizeInBytes": 5513,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.27,
-        "wordCount": 81,
-        "characterCount": 566,
-        "nonWhitespaceCharacterCount": 468,
-        "newlineCount": 9
+        "pageCount": 2.5633333333333335,
+        "wordCount": 769,
+        "characterCount": 5512,
+        "nonWhitespaceCharacterCount": 4561,
+        "newlineCount": 131
+      }
+    },
+    "Organisations/Lavion and its Vassals/Principality of Balboa.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1413,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.71,
+      "characterCount": 9189,
+      "nonWhitespaceCharacterCount": 7648,
+      "newlineCount": 72,
+      "readingTimeInMinutes": 5.332075471698113,
+      "linkCount": 14,
+      "embedCount": 1,
+      "aliases": [
+        "Balboan",
+        "Balboa",
+        "Principality"
+      ],
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795606520630,
+      "sizeInBytes": 9305,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.71,
+        "wordCount": 1413,
+        "characterCount": 9189,
+        "nonWhitespaceCharacterCount": 7648,
+        "newlineCount": 72
       },
       "frontmatter": {
         "tags": [
-          "family",
+          "balboa",
           "geopolitical",
+          "lavion"
+        ],
+        "aliases": [
+          "Balboan",
+          "Balboa",
+          "Principality"
+        ]
+      }
+    },
+    "Organisations/Lavion and its Vassals/Precedence in the Kingdom of Lavion, 15th C.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 657,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.19,
+      "characterCount": 5362,
+      "nonWhitespaceCharacterCount": 4102,
+      "newlineCount": 132,
+      "readingTimeInMinutes": 2.479245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
+      "sizeInBytes": 5464,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.19,
+        "wordCount": 657,
+        "characterCount": 5362,
+        "nonWhitespaceCharacterCount": 4102,
+        "newlineCount": 132
+      }
+    },
+    "Organisations/Lavion and its Vassals/Kingdom of Lavion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 445,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4833333333333334,
+      "characterCount": 2963,
+      "nonWhitespaceCharacterCount": 2505,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 1.679245283018868,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": [
+        "Lavion",
+        "the realm"
+      ],
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
+      "sizeInBytes": 3008,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.4833333333333334,
+        "wordCount": 445,
+        "characterCount": 2963,
+        "nonWhitespaceCharacterCount": 2505,
+        "newlineCount": 8
+      },
+      "frontmatter": {
+        "aliases": [
+          "Lavion",
+          "the realm"
+        ]
+      }
+    },
+    "Organisations/Lavion and its Vassals/Grand Academy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 990,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.3,
+      "characterCount": 6311,
+      "nonWhitespaceCharacterCount": 5277,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 3.7358490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Academy of the Isles",
+        "Grand Academy of the Broken Isles"
+      ],
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795609442812,
+      "sizeInBytes": 6473,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.3,
+        "wordCount": 990,
+        "characterCount": 6311,
+        "nonWhitespaceCharacterCount": 5277,
+        "newlineCount": 22
+      },
+      "frontmatter": {
+        "tags": [
+          "geopolitical",
+          "balboa",
           "organisation",
           "lavion"
         ],
-        "aliases": null
+        "aliases": [
+          "Academy of the Isles",
+          "Grand Academy of the Broken Isles"
+        ]
+      }
+    },
+    "Organisations/Lavion and its Vassals/Balboa.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5809,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 19.363333333333333,
+      "characterCount": 35524,
+      "nonWhitespaceCharacterCount": 29510,
+      "newlineCount": 104,
+      "readingTimeInMinutes": 21.920754716981133,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Balboa",
+        "Principality of Balboa"
+      ],
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795607769880,
+      "sizeInBytes": 35588,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 19.363333333333333,
+        "wordCount": 5809,
+        "characterCount": 35524,
+        "nonWhitespaceCharacterCount": 29510,
+        "newlineCount": 104
+      },
+      "frontmatter": {
+        "aliases": [
+          "Balboa",
+          "Principality of Balboa"
+        ]
+      }
+    },
+    "Organisations/Karsova.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 522,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.74,
+      "characterCount": 3143,
+      "nonWhitespaceCharacterCount": 2605,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 1.969811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
+      "sizeInBytes": 3143,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.74,
+        "wordCount": 522,
+        "characterCount": 3143,
+        "nonWhitespaceCharacterCount": 2605,
+        "newlineCount": 11
       }
     },
     "Organisations/Families & Houses/di Balboa.md": {
@@ -1814,8 +1798,8 @@
         "Princely House of Balboa",
         "Princely House"
       ],
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795633470768,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795606520626,
       "sizeInBytes": 4578,
       "sessionStart": {
         "noteCount": 1,
@@ -1841,6 +1825,42 @@
         ]
       }
     },
+    "Organisations/Families & Houses/Suurial.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 81,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.27,
+      "characterCount": 566,
+      "nonWhitespaceCharacterCount": 468,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.30566037735849055,
+      "linkCount": 2,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
+      "sizeInBytes": 651,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.27,
+        "wordCount": 81,
+        "characterCount": 566,
+        "nonWhitespaceCharacterCount": 468,
+        "newlineCount": 9
+      },
+      "frontmatter": {
+        "tags": [
+          "family",
+          "geopolitical",
+          "organisation",
+          "lavion"
+        ],
+        "aliases": null
+      }
+    },
     "Organisations/Families & Houses/de Lavion.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1861,8 +1881,8 @@
         "Royal House",
         "Lavienese Dynasty"
       ],
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795633470768,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795606520624,
       "sizeInBytes": 13399,
       "sessionStart": {
         "noteCount": 1,
@@ -1887,33 +1907,6 @@
         ]
       }
     },
-    "Organisations/Karsova.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 522,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.74,
-      "characterCount": 3143,
-      "nonWhitespaceCharacterCount": 2605,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 1.969811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553037104,
-      "modifiedDate": 1795553037104,
-      "sizeInBytes": 3143,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.74,
-        "wordCount": 522,
-        "characterCount": 3143,
-        "nonWhitespaceCharacterCount": 2605,
-        "newlineCount": 11
-      }
-    },
     "Organisations/Commonwealth of Principalities/List of the Principalities.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1929,8 +1922,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795553037096,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
       "sizeInBytes": 2230,
       "sessionStart": {
         "noteCount": 1,
@@ -1963,8 +1956,8 @@
         "The Sworn Common Weal of the Sovereign Princes of the West",
         "Commonweal of Princes"
       ],
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795553037096,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
       "sizeInBytes": 30302,
       "sessionStart": {
         "noteCount": 1,
@@ -1985,31 +1978,36 @@
         ]
       }
     },
-    "Organisations/Ancients/Remea.md": {
+    "Organisations/Beniotti.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 5215,
+      "wordCount": 3116,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 17.383333333333333,
-      "characterCount": 33432,
-      "nonWhitespaceCharacterCount": 28001,
-      "newlineCount": 98,
-      "readingTimeInMinutes": 19.67924528301887,
-      "linkCount": 0,
-      "embedCount": 0,
+      "pageCount": 10.386666666666667,
+      "characterCount": 19233,
+      "nonWhitespaceCharacterCount": 15967,
+      "newlineCount": 90,
+      "readingTimeInMinutes": 11.758490566037736,
+      "linkCount": 9,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795633470768,
-      "sizeInBytes": 33432,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
+      "sizeInBytes": 19266,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 17.383333333333333,
-        "wordCount": 5215,
-        "characterCount": 33432,
-        "nonWhitespaceCharacterCount": 28001,
-        "newlineCount": 98
+        "pageCount": 10.386666666666667,
+        "wordCount": 3116,
+        "characterCount": 19233,
+        "nonWhitespaceCharacterCount": 15967,
+        "newlineCount": 90
+      },
+      "frontmatter": {
+        "tags": [
+          "geopolitical"
+        ]
       }
     },
     "Organisations/Ancients/Sorceror-King.md": {
@@ -2030,8 +2028,8 @@
         "Sorcerer-Kings",
         "Rivian Epoch"
       ],
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795633470768,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795607769878,
       "sizeInBytes": 5888,
       "sessionStart": {
         "noteCount": 1,
@@ -2069,8 +2067,8 @@
         "Remean",
         "Remea"
       ],
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795633470768,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795607769878,
       "sizeInBytes": 8600,
       "sessionStart": {
         "noteCount": 1,
@@ -2097,63 +2095,31 @@
         ]
       }
     },
-    "Organisations/Beniotti.md": {
+    "Organisations/Ancients/Remea.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3116,
+      "wordCount": 5215,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 10.386666666666667,
-      "characterCount": 19144,
-      "nonWhitespaceCharacterCount": 15967,
-      "newlineCount": 90,
-      "readingTimeInMinutes": 11.758490566037736,
-      "linkCount": 9,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795640347877,
-      "sizeInBytes": 19174,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.386666666666667,
-        "wordCount": 3116,
-        "characterCount": 19233,
-        "nonWhitespaceCharacterCount": 15967,
-        "newlineCount": 90
-      },
-      "frontmatter": {
-        "tags": [
-          "geopolitical"
-        ]
-      }
-    },
-    "Minor Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 218,
-      "nonWhitespaceCharacterCount": 182,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.11320754716981132,
+      "pageCount": 17.383333333333333,
+      "characterCount": 33432,
+      "nonWhitespaceCharacterCount": 28001,
+      "newlineCount": 98,
+      "readingTimeInMinutes": 19.67924528301887,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795553037096,
-      "sizeInBytes": 218,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795607769877,
+      "sizeInBytes": 33432,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.1,
-        "wordCount": 30,
-        "characterCount": 218,
-        "nonWhitespaceCharacterCount": 182,
-        "newlineCount": 5
+        "pageCount": 17.383333333333333,
+        "wordCount": 5215,
+        "characterCount": 33432,
+        "nonWhitespaceCharacterCount": 28001,
+        "newlineCount": 98
       }
     },
     "notes/To Dos.md": {
@@ -2171,8 +2137,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037129,
-      "modifiedDate": 1795553037129,
+      "createdDate": 1795596382168,
+      "modifiedDate": 1795596382168,
       "sizeInBytes": 192,
       "sessionStart": {
         "noteCount": 1,
@@ -2181,33 +2147,6 @@
         "characterCount": 192,
         "nonWhitespaceCharacterCount": 147,
         "newlineCount": 5
-      }
-    },
-    "notes/canon_decisions.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2350,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.833333333333333,
-      "characterCount": 15601,
-      "nonWhitespaceCharacterCount": 13170,
-      "newlineCount": 83,
-      "readingTimeInMinutes": 8.867924528301886,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795549825699,
-      "modifiedDate": 1795640551269,
-      "sizeInBytes": 15604,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.833333333333333,
-        "wordCount": 2350,
-        "characterCount": 15683,
-        "nonWhitespaceCharacterCount": 13170,
-        "newlineCount": 83
       }
     },
     "notes/Likely Settings and Characters per Age.md": {
@@ -2225,8 +2164,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037129,
-      "modifiedDate": 1795553037129,
+      "createdDate": 1795596382167,
+      "modifiedDate": 1795596382167,
       "sizeInBytes": 1085,
       "sessionStart": {
         "noteCount": 1,
@@ -2235,6 +2174,60 @@
         "characterCount": 1085,
         "nonWhitespaceCharacterCount": 845,
         "newlineCount": 46
+      }
+    },
+    "notes/canon_decisions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2350,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.833333333333333,
+      "characterCount": 15683,
+      "nonWhitespaceCharacterCount": 13170,
+      "newlineCount": 83,
+      "readingTimeInMinutes": 8.867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596382169,
+      "modifiedDate": 1795607769887,
+      "sizeInBytes": 15686,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.833333333333333,
+        "wordCount": 2350,
+        "characterCount": 15683,
+        "nonWhitespaceCharacterCount": 13170,
+        "newlineCount": 83
+      }
+    },
+    "Minor Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 214,
+      "nonWhitespaceCharacterCount": 182,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795606685820,
+      "sizeInBytes": 214,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 214,
+        "nonWhitespaceCharacterCount": 182,
+        "newlineCount": 5
       }
     },
     "Media/Wages in 1420.md": {
@@ -2252,8 +2245,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795555001999,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
       "sizeInBytes": 12222,
       "sessionStart": {
         "noteCount": 1,
@@ -2262,33 +2255,6 @@
         "characterCount": 12092,
         "nonWhitespaceCharacterCount": 10047,
         "newlineCount": 64
-      }
-    },
-    "Media/Profanity in Lavion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 763,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5433333333333334,
-      "characterCount": 5401,
-      "nonWhitespaceCharacterCount": 4217,
-      "newlineCount": 112,
-      "readingTimeInMinutes": 2.879245283018868,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553037088,
-      "modifiedDate": 1795553037096,
-      "sizeInBytes": 5412,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5433333333333334,
-        "wordCount": 763,
-        "characterCount": 5401,
-        "nonWhitespaceCharacterCount": 4217,
-        "newlineCount": 112
       }
     },
     "Media/Travel on a 1420s Pontoon Liner.md": {
@@ -2306,8 +2272,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553037096,
-      "modifiedDate": 1795553037096,
+      "createdDate": 1795596382098,
+      "modifiedDate": 1795596382098,
       "sizeInBytes": 8650,
       "sessionStart": {
         "noteCount": 1,
@@ -2318,112 +2284,31 @@
         "newlineCount": 27
       }
     },
-    "Media/On Lurism/On the Origins of Saintly Sculpture.md": {
+    "Media/Profanity in Lavion.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 339,
+      "wordCount": 763,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.13,
-      "characterCount": 2247,
-      "nonWhitespaceCharacterCount": 1871,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 1.2792452830188679,
+      "pageCount": 2.5433333333333334,
+      "characterCount": 5401,
+      "nonWhitespaceCharacterCount": 4217,
+      "newlineCount": 112,
+      "readingTimeInMinutes": 2.879245283018868,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036988,
-      "modifiedDate": 1795553036988,
-      "sizeInBytes": 2249,
+      "createdDate": 1795596382097,
+      "modifiedDate": 1795596382098,
+      "sizeInBytes": 5412,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.13,
-        "wordCount": 339,
-        "characterCount": 2247,
-        "nonWhitespaceCharacterCount": 1871,
-        "newlineCount": 23
-      }
-    },
-    "Media/On Lurism/Threefold Image.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 544,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.8133333333333332,
-      "characterCount": 3613,
-      "nonWhitespaceCharacterCount": 2951,
-      "newlineCount": 64,
-      "readingTimeInMinutes": 2.0528301886792453,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036988,
-      "modifiedDate": 1795555001999,
-      "sizeInBytes": 3621,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.8133333333333332,
-        "wordCount": 544,
-        "characterCount": 3613,
-        "nonWhitespaceCharacterCount": 2951,
-        "newlineCount": 64
-      }
-    },
-    "Media/On Lurism/Fragmenta Ignis.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 701,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3366666666666664,
-      "characterCount": 4064,
-      "nonWhitespaceCharacterCount": 3228,
-      "newlineCount": 79,
-      "readingTimeInMinutes": 2.6452830188679246,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036988,
-      "modifiedDate": 1795555001999,
-      "sizeInBytes": 4072,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3366666666666664,
-        "wordCount": 701,
-        "characterCount": 4064,
-        "nonWhitespaceCharacterCount": 3228,
-        "newlineCount": 79
-      }
-    },
-    "Media/Notes of Orthobastimus.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 486,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.62,
-      "characterCount": 3606,
-      "nonWhitespaceCharacterCount": 2972,
-      "newlineCount": 68,
-      "readingTimeInMinutes": 1.8339622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036988,
-      "modifiedDate": 1795555001999,
-      "sizeInBytes": 3626,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.62,
-        "wordCount": 486,
-        "characterCount": 3606,
-        "nonWhitespaceCharacterCount": 2972,
-        "newlineCount": 68
+        "pageCount": 2.5433333333333334,
+        "wordCount": 763,
+        "characterCount": 5401,
+        "nonWhitespaceCharacterCount": 4217,
+        "newlineCount": 112
       }
     },
     "Media/Other Images/Woodwose-Portrait.png": {
@@ -2441,8 +2326,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553037088,
-      "modifiedDate": 1795553037088,
+      "createdDate": 1795596382086,
+      "modifiedDate": 1795596382097,
       "sizeInBytes": 6521129,
       "sessionStart": {
         "noteCount": 0,
@@ -2468,8 +2353,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553037071,
-      "modifiedDate": 1795553037071,
+      "createdDate": 1795596382061,
+      "modifiedDate": 1795596382061,
       "sizeInBytes": 4810435,
       "sessionStart": {
         "noteCount": 0,
@@ -2495,8 +2380,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553037054,
-      "modifiedDate": 1795553037054,
+      "createdDate": 1795596382033,
+      "modifiedDate": 1795596382033,
       "sizeInBytes": 4822338,
       "sessionStart": {
         "noteCount": 0,
@@ -2522,8 +2407,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553037038,
-      "modifiedDate": 1795553037038,
+      "createdDate": 1795596382008,
+      "modifiedDate": 1795596382008,
       "sizeInBytes": 5883714,
       "sessionStart": {
         "noteCount": 0,
@@ -2549,8 +2434,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553037021,
-      "modifiedDate": 1795553037021,
+      "createdDate": 1795596381992,
+      "modifiedDate": 1795596381992,
       "sizeInBytes": 4888343,
       "sessionStart": {
         "noteCount": 0,
@@ -2576,8 +2461,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553037004,
-      "modifiedDate": 1795553037004,
+      "createdDate": 1795596381961,
+      "modifiedDate": 1795596381961,
       "sizeInBytes": 4679442,
       "sessionStart": {
         "noteCount": 0,
@@ -2586,6 +2471,87 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "Media/On Lurism/Threefold Image.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 544,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8133333333333332,
+      "characterCount": 3613,
+      "nonWhitespaceCharacterCount": 2951,
+      "newlineCount": 64,
+      "readingTimeInMinutes": 2.0528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381948,
+      "modifiedDate": 1795596381948,
+      "sizeInBytes": 3621,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.8133333333333332,
+        "wordCount": 544,
+        "characterCount": 3613,
+        "nonWhitespaceCharacterCount": 2951,
+        "newlineCount": 64
+      }
+    },
+    "Media/On Lurism/On the Origins of Saintly Sculpture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 339,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.13,
+      "characterCount": 2247,
+      "nonWhitespaceCharacterCount": 1871,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 1.2792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381948,
+      "modifiedDate": 1795596381948,
+      "sizeInBytes": 2249,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.13,
+        "wordCount": 339,
+        "characterCount": 2247,
+        "nonWhitespaceCharacterCount": 1871,
+        "newlineCount": 23
+      }
+    },
+    "Media/On Lurism/Fragmenta Ignis.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 701,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3366666666666664,
+      "characterCount": 4064,
+      "nonWhitespaceCharacterCount": 3228,
+      "newlineCount": 79,
+      "readingTimeInMinutes": 2.6452830188679246,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381948,
+      "modifiedDate": 1795596381948,
+      "sizeInBytes": 4072,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.3366666666666664,
+        "wordCount": 701,
+        "characterCount": 4064,
+        "nonWhitespaceCharacterCount": 3228,
+        "newlineCount": 79
       }
     },
     "Media/Of the Remean Legion.md": {
@@ -2603,8 +2569,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036988,
-      "modifiedDate": 1795553036988,
+      "createdDate": 1795596381948,
+      "modifiedDate": 1795596381948,
       "sizeInBytes": 2066,
       "sessionStart": {
         "noteCount": 1,
@@ -2613,6 +2579,33 @@
         "characterCount": 2065,
         "nonWhitespaceCharacterCount": 1688,
         "newlineCount": 11
+      }
+    },
+    "Media/Notes of Orthobastimus.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 486,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.62,
+      "characterCount": 3606,
+      "nonWhitespaceCharacterCount": 2972,
+      "newlineCount": 68,
+      "readingTimeInMinutes": 1.8339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381948,
+      "modifiedDate": 1795596381948,
+      "sizeInBytes": 3626,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.62,
+        "wordCount": 486,
+        "characterCount": 3606,
+        "nonWhitespaceCharacterCount": 2972,
+        "newlineCount": 68
       }
     },
     "Media/How the Wind was Caged.md": {
@@ -2630,8 +2623,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036988,
-      "modifiedDate": 1795553036988,
+      "createdDate": 1795596381948,
+      "modifiedDate": 1795596381948,
       "sizeInBytes": 7687,
       "sessionStart": {
         "noteCount": 1,
@@ -2657,8 +2650,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036988,
-      "modifiedDate": 1795633470760,
+      "createdDate": 1795596381933,
+      "modifiedDate": 1795607769875,
       "sizeInBytes": 10009,
       "sessionStart": {
         "noteCount": 1,
@@ -2684,8 +2677,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036963,
-      "modifiedDate": 1795553036963,
+      "createdDate": 1795596381908,
+      "modifiedDate": 1795596381923,
       "sizeInBytes": 2039017,
       "sessionStart": {
         "noteCount": 0,
@@ -2711,36 +2704,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036979,
-      "modifiedDate": 1795553036979,
+      "createdDate": 1795596381933,
+      "modifiedDate": 1795596381933,
       "sizeInBytes": 83930,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Media/Crests and Heraldry/crest House Suurial.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1795553036971,
-      "modifiedDate": 1795553036971,
-      "sizeInBytes": 267545,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2765,9 +2731,36 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036979,
-      "modifiedDate": 1795553036979,
+      "createdDate": 1795596381933,
+      "modifiedDate": 1795596381933,
       "sizeInBytes": 118203,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Media/Crests and Heraldry/crest House Suurial.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1795596381933,
+      "modifiedDate": 1795596381933,
+      "sizeInBytes": 267545,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2792,8 +2785,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036979,
-      "modifiedDate": 1795553036979,
+      "createdDate": 1795596381933,
+      "modifiedDate": 1795596381933,
       "sizeInBytes": 380810,
       "sessionStart": {
         "noteCount": 0,
@@ -2819,8 +2812,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036979,
-      "modifiedDate": 1795553036979,
+      "createdDate": 1795596381933,
+      "modifiedDate": 1795596381933,
       "sizeInBytes": 383077,
       "sessionStart": {
         "noteCount": 0,
@@ -2846,8 +2839,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036979,
-      "modifiedDate": 1795553036979,
+      "createdDate": 1795596381933,
+      "modifiedDate": 1795596381933,
       "sizeInBytes": 265239,
       "sessionStart": {
         "noteCount": 0,
@@ -2873,8 +2866,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036971,
-      "modifiedDate": 1795553036971,
+      "createdDate": 1795596381923,
+      "modifiedDate": 1795596381923,
       "sizeInBytes": 353553,
       "sessionStart": {
         "noteCount": 0,
@@ -2900,8 +2893,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036971,
-      "modifiedDate": 1795553036971,
+      "createdDate": 1795596381923,
+      "modifiedDate": 1795596381923,
       "sizeInBytes": 183905,
       "sessionStart": {
         "noteCount": 0,
@@ -2927,8 +2920,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036963,
-      "modifiedDate": 1795553036971,
+      "createdDate": 1795596381923,
+      "modifiedDate": 1795596381923,
       "sizeInBytes": 90625,
       "sessionStart": {
         "noteCount": 0,
@@ -2954,8 +2947,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036954,
-      "modifiedDate": 1795553036954,
+      "createdDate": 1795596381908,
+      "modifiedDate": 1795596381908,
       "sizeInBytes": 545757,
       "sessionStart": {
         "noteCount": 0,
@@ -2981,36 +2974,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795553036954,
-      "modifiedDate": 1795553036954,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 378702,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "maps/Arlos_Circle_Sea_handdrawn.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1795549825699,
-      "modifiedDate": 1795549825699,
-      "sizeInBytes": 4839394,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3069,8 +3035,8 @@
         "stones",
         "grossweight"
       ],
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795553036949,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 1865,
       "sessionStart": {
         "noteCount": 1,
@@ -3118,33 +3084,6 @@
         ]
       }
     },
-    "Material Reality/Engineering/Ranged Arms.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1728,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.76,
-      "characterCount": 10728,
-      "nonWhitespaceCharacterCount": 8949,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 6.520754716981132,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795633470760,
-      "sizeInBytes": 10731,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.76,
-        "wordCount": 1728,
-        "characterCount": 10728,
-        "nonWhitespaceCharacterCount": 8949,
-        "newlineCount": 25
-      }
-    },
     "Material Reality/Engineering/The Fulminant Turn.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3160,8 +3099,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795633470760,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795609442812,
       "sizeInBytes": 18857,
       "sessionStart": {
         "noteCount": 1,
@@ -3187,8 +3126,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795553036949,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 3763,
       "sessionStart": {
         "noteCount": 1,
@@ -3197,6 +3136,33 @@
         "characterCount": 3763,
         "nonWhitespaceCharacterCount": 3095,
         "newlineCount": 13
+      }
+    },
+    "Material Reality/Engineering/Ranged Arms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1728,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.76,
+      "characterCount": 10728,
+      "nonWhitespaceCharacterCount": 8949,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 6.520754716981132,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795607769873,
+      "sizeInBytes": 10731,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.76,
+        "wordCount": 1728,
+        "characterCount": 10728,
+        "nonWhitespaceCharacterCount": 8949,
+        "newlineCount": 25
       }
     },
     "Material Reality/Engineering/Gunpowder and Steam.md": {
@@ -3214,8 +3180,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795553036949,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 932,
       "sessionStart": {
         "noteCount": 1,
@@ -3241,8 +3207,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795633470760,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795607769872,
       "sizeInBytes": 11553,
       "sessionStart": {
         "noteCount": 1,
@@ -3268,8 +3234,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795633470760,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795607769871,
       "sizeInBytes": 45521,
       "sessionStart": {
         "noteCount": 1,
@@ -3284,53 +3250,53 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2147,
+      "wordCount": 2860,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.156666666666666,
-      "characterCount": 13140,
-      "nonWhitespaceCharacterCount": 10895,
-      "newlineCount": 49,
-      "readingTimeInMinutes": 8.10188679245283,
+      "pageCount": 9.533333333333333,
+      "characterCount": 17436,
+      "nonWhitespaceCharacterCount": 14451,
+      "newlineCount": 65,
+      "readingTimeInMinutes": 10.79245283018868,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795640651529,
-      "sizeInBytes": 13140,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795677784986,
+      "sizeInBytes": 17436,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 9.533333333333333,
-        "wordCount": 2860,
-        "characterCount": 17436,
-        "nonWhitespaceCharacterCount": 14451,
-        "newlineCount": 65
+        "pageCount": 7.156666666666666,
+        "wordCount": 2147,
+        "characterCount": 13140,
+        "nonWhitespaceCharacterCount": 10895,
+        "newlineCount": 49
       }
     },
     "Material Reality/Engineering/Arlosian Material Science.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10434,
+      "wordCount": 10332,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 34.78,
-      "characterCount": 61533,
-      "nonWhitespaceCharacterCount": 50586,
+      "pageCount": 34.44,
+      "characterCount": 60876,
+      "nonWhitespaceCharacterCount": 50031,
       "newlineCount": 314,
-      "readingTimeInMinutes": 39.37358490566038,
+      "readingTimeInMinutes": 38.988679245283016,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036949,
-      "modifiedDate": 1795638824920,
-      "sizeInBytes": 61533,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795607769869,
+      "sizeInBytes": 60876,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 34.78,
-        "wordCount": 10434,
-        "characterCount": 61533,
-        "nonWhitespaceCharacterCount": 50586,
+        "pageCount": 34.44,
+        "wordCount": 10332,
+        "characterCount": 60876,
+        "nonWhitespaceCharacterCount": 50031,
         "newlineCount": 314
       }
     },
@@ -3349,8 +3315,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036946,
-      "modifiedDate": 1795553036946,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 10416,
       "sessionStart": {
         "noteCount": 1,
@@ -3376,8 +3342,8 @@
       "linkCount": 15,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036946,
-      "modifiedDate": 1795633470760,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795607769867,
       "sizeInBytes": 15734,
       "sessionStart": {
         "noteCount": 1,
@@ -3408,8 +3374,8 @@
         "pliants",
         "alchemical"
       ],
-      "createdDate": 1795553036946,
-      "modifiedDate": 1795553036946,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 9441,
       "sessionStart": {
         "noteCount": 1,
@@ -3443,8 +3409,8 @@
       "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036946,
-      "modifiedDate": 1795553036946,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 8710,
       "sessionStart": {
         "noteCount": 1,
@@ -3475,8 +3441,8 @@
         "brassback",
         "brassbacks"
       ],
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795553036938,
+      "createdDate": 1795596381892,
+      "modifiedDate": 1795596381892,
       "sizeInBytes": 17377,
       "sessionStart": {
         "noteCount": 1,
@@ -3495,33 +3461,6 @@
         ]
       }
     },
-    "Material Reality/Arlosian Mathematics.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 144,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.48,
-      "characterCount": 919,
-      "nonWhitespaceCharacterCount": 767,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.5433962264150943,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795633470760,
-      "sizeInBytes": 927,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.48,
-        "wordCount": 144,
-        "characterCount": 919,
-        "nonWhitespaceCharacterCount": 767,
-        "newlineCount": 5
-      }
-    },
     "Material Reality/Currencies.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3537,8 +3476,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795555001991,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 7846,
       "sessionStart": {
         "noteCount": 1,
@@ -3547,6 +3486,33 @@
         "characterCount": 7751,
         "nonWhitespaceCharacterCount": 6420,
         "newlineCount": 54
+      }
+    },
+    "Material Reality/Arlosian Mathematics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 144,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48,
+      "characterCount": 919,
+      "nonWhitespaceCharacterCount": 767,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.5433962264150943,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795606520620,
+      "sizeInBytes": 927,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.48,
+        "wordCount": 144,
+        "characterCount": 919,
+        "nonWhitespaceCharacterCount": 767,
+        "newlineCount": 5
       }
     },
     "Material Reality/Arlosian Dozenal.md": {
@@ -3567,8 +3533,8 @@
         "dozenal",
         "duodecimal"
       ],
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795633470760,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795606520620,
       "sizeInBytes": 12848,
       "sessionStart": {
         "noteCount": 1,
@@ -3583,6 +3549,87 @@
           "dozenal",
           "duodecimal"
         ]
+      }
+    },
+    "maps/Arlos_Circle_Sea_handdrawn.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1795596382164,
+      "modifiedDate": 1795596382166,
+      "sizeInBytes": 4839394,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Languages/Ukili'akima.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 39,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
+      "sizeInBytes": 39,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 39,
+        "nonWhitespaceCharacterCount": 34,
+        "newlineCount": 1
+      }
+    },
+    "Languages/Suurese/Ancient Aniric.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Languages/Suurese/Virellic.md": {
@@ -3600,8 +3647,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795553036938,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 161,
       "sessionStart": {
         "noteCount": 1,
@@ -3627,8 +3674,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795553036938,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 89,
       "sessionStart": {
         "noteCount": 1,
@@ -3636,60 +3683,6 @@
         "wordCount": 11,
         "characterCount": 89,
         "nonWhitespaceCharacterCount": 79,
-        "newlineCount": 1
-      }
-    },
-    "Languages/Suurese/Ancient Aniric.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795553036938,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Languages/Ukili'akima.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 39,
-      "nonWhitespaceCharacterCount": 34,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795553036938,
-      "sizeInBytes": 39,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 39,
-        "nonWhitespaceCharacterCount": 34,
         "newlineCount": 1
       }
     },
@@ -3708,8 +3701,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795555001991,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 161193,
       "sessionStart": {
         "noteCount": 1,
@@ -3738,8 +3731,8 @@
         "Engelemair",
         "Alvai tongue"
       ],
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795553036938,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 1434,
       "sessionStart": {
         "noteCount": 1,
@@ -3771,8 +3764,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036938,
-      "modifiedDate": 1795553036938,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 2060,
       "sessionStart": {
         "noteCount": 1,
@@ -3798,8 +3791,8 @@
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036938,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 267,
       "sessionStart": {
         "noteCount": 1,
@@ -3827,8 +3820,8 @@
       "aliases": [
         "Circulean"
       ],
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
       "sizeInBytes": 14186,
       "sessionStart": {
         "noteCount": 1,
@@ -3848,6 +3841,306 @@
         ]
       }
     },
+    "Geography/Settlements/Reme.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2195,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.316666666666666,
+      "characterCount": 14009,
+      "nonWhitespaceCharacterCount": 11652,
+      "newlineCount": 86,
+      "readingTimeInMinutes": 8.283018867924529,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": [
+        "Remea"
+      ],
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795606520618,
+      "sizeInBytes": 14123,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.316666666666666,
+        "wordCount": 2195,
+        "characterCount": 14009,
+        "nonWhitespaceCharacterCount": 11652,
+        "newlineCount": 86
+      },
+      "frontmatter": {
+        "tags": [
+          "historic",
+          "remean",
+          "city",
+          "timeline",
+          "antiquity",
+          "lurism"
+        ],
+        "aliases": [
+          "Remea"
+        ]
+      }
+    },
+    "Geography/Settlements/Virell.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6593,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 21.976666666666667,
+      "characterCount": 41037,
+      "nonWhitespaceCharacterCount": 33989,
+      "newlineCount": 234,
+      "readingTimeInMinutes": 24.879245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795607769866,
+      "sizeInBytes": 41176,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 21.976666666666667,
+        "wordCount": 6593,
+        "characterCount": 41037,
+        "nonWhitespaceCharacterCount": 33989,
+        "newlineCount": 234
+      },
+      "frontmatter": {
+        "tags": [
+          "city",
+          "lavion",
+          "rimec-suur",
+          "geopolitical"
+        ]
+      }
+    },
+    "Geography/Settlements/Paltos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 514,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7133333333333334,
+      "characterCount": 3221,
+      "nonWhitespaceCharacterCount": 2702,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 1.939622641509434,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
+      "sizeInBytes": 3221,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7133333333333334,
+        "wordCount": 514,
+        "characterCount": 3221,
+        "nonWhitespaceCharacterCount": 2702,
+        "newlineCount": 5
+      }
+    },
+    "Geography/Settlements/Port Singa.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2439,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.13,
+      "characterCount": 14535,
+      "nonWhitespaceCharacterCount": 12028,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 9.20377358490566,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
+      "sizeInBytes": 14579,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 8.13,
+        "wordCount": 2439,
+        "characterCount": 14535,
+        "nonWhitespaceCharacterCount": 12028,
+        "newlineCount": 44
+      },
+      "frontmatter": {
+        "tags": [
+          "city",
+          "geopolitical"
+        ]
+      }
+    },
+    "Geography/Settlements/Edomis.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 40,
+      "nonWhitespaceCharacterCount": 34,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
+      "sizeInBytes": 40,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 40,
+        "nonWhitespaceCharacterCount": 34,
+        "newlineCount": 1
+      }
+    },
+    "Geography/Settlements/East Skellington.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2138,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.126666666666667,
+      "characterCount": 12773,
+      "nonWhitespaceCharacterCount": 10570,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 8.067924528301887,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795596381876,
+      "sizeInBytes": 12773,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.126666666666667,
+        "wordCount": 2138,
+        "characterCount": 12773,
+        "nonWhitespaceCharacterCount": 10570,
+        "newlineCount": 35
+      }
+    },
+    "Geography/Settlements/City of Balboa.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2302,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.673333333333333,
+      "characterCount": 14797,
+      "nonWhitespaceCharacterCount": 12339,
+      "newlineCount": 74,
+      "readingTimeInMinutes": 8.686792452830188,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": [
+        "Balboa City",
+        "Balboa proper"
+      ],
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795606520617,
+      "sizeInBytes": 15071,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.673333333333333,
+        "wordCount": 2302,
+        "characterCount": 14797,
+        "nonWhitespaceCharacterCount": 12339,
+        "newlineCount": 74
+      },
+      "frontmatter": {
+        "tags": [
+          "geopolitical",
+          "lavion",
+          "balboa",
+          "rimec-suur",
+          "city",
+          "ertra"
+        ],
+        "aliases": [
+          "Balboa City",
+          "Balboa proper"
+        ]
+      }
+    },
+    "Geography/Settlements/Aramoor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2102,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.006666666666667,
+      "characterCount": 13154,
+      "nonWhitespaceCharacterCount": 10964,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 7.932075471698113,
+      "linkCount": 18,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381876,
+      "modifiedDate": 1795607769865,
+      "sizeInBytes": 13157,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.006666666666667,
+        "wordCount": 2102,
+        "characterCount": 13154,
+        "nonWhitespaceCharacterCount": 10964,
+        "newlineCount": 53
+      }
+    },
+    "Geography/Settlements/An-Mirda.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1028,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.4266666666666667,
+      "characterCount": 6518,
+      "nonWhitespaceCharacterCount": 5418,
+      "newlineCount": 38,
+      "readingTimeInMinutes": 3.879245283018868,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795606520616,
+      "sizeInBytes": 6637,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.4266666666666667,
+        "wordCount": 1028,
+        "characterCount": 6518,
+        "nonWhitespaceCharacterCount": 5418,
+        "newlineCount": 38
+      },
+      "frontmatter": {
+        "tags": [
+          "an-suur",
+          "antiquity",
+          "city",
+          "geopolitical",
+          "historic",
+          "lurism",
+          "timeline"
+        ]
+      }
+    },
     "Geography/Regions/Rim of Fire/Rim of Fire.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3863,8 +4156,8 @@
       "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 10597,
       "sessionStart": {
         "noteCount": 1,
@@ -3890,8 +4183,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 50,
       "sessionStart": {
         "noteCount": 1,
@@ -3922,8 +4215,8 @@
         "Wolves' Teeth",
         "Teeth"
       ],
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 3827,
       "sessionStart": {
         "noteCount": 1,
@@ -3965,8 +4258,8 @@
         "Lavienese",
         "House de Lavion"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795633470752,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795606520615,
       "sizeInBytes": 36802,
       "sessionStart": {
         "noteCount": 1,
@@ -4007,8 +4300,8 @@
         "the Svenish",
         "the matriarchy of the ice-sea"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795633470752,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795606520614,
       "sizeInBytes": 32835,
       "sessionStart": {
         "noteCount": 1,
@@ -4043,8 +4336,8 @@
       "aliases": [
         "Stranic"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 5320,
       "sessionStart": {
         "noteCount": 1,
@@ -4075,8 +4368,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 7761,
       "sessionStart": {
         "noteCount": 1,
@@ -4102,8 +4395,8 @@
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 12532,
       "sessionStart": {
         "noteCount": 1,
@@ -4138,8 +4431,8 @@
       "aliases": [
         "southern continent"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 11400,
       "sessionStart": {
         "noteCount": 1,
@@ -4180,8 +4473,8 @@
         "Mer-Hal",
         "the Confluence"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795633470752,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795606520613,
       "sizeInBytes": 27041,
       "sessionStart": {
         "noteCount": 1,
@@ -4220,8 +4513,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 7926,
       "sessionStart": {
         "noteCount": 1,
@@ -4230,33 +4523,6 @@
         "characterCount": 7917,
         "nonWhitespaceCharacterCount": 6575,
         "newlineCount": 43
-      }
-    },
-    "Geography/Regions/Circulean/Kiriya.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 71,
-      "nonWhitespaceCharacterCount": 60,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
-      "sizeInBytes": 72,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 71,
-        "nonWhitespaceCharacterCount": 60,
-        "newlineCount": 2
       }
     },
     "Geography/Regions/Circulean/Lu-An.md": {
@@ -4276,8 +4542,8 @@
       "aliases": [
         "Lonely Plains"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795633470752,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795607769864,
       "sizeInBytes": 12449,
       "sessionStart": {
         "noteCount": 1,
@@ -4295,6 +4561,33 @@
         "aliases": [
           "Lonely Plains"
         ]
+      }
+    },
+    "Geography/Regions/Circulean/Kiriya.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 71,
+      "nonWhitespaceCharacterCount": 60,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
+      "sizeInBytes": 72,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 71,
+        "nonWhitespaceCharacterCount": 60,
+        "newlineCount": 2
       }
     },
     "Geography/Regions/Circulean/Ertra.md": {
@@ -4315,8 +4608,8 @@
         "Peninsula",
         "Ertrese Peninsula"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 10406,
       "sessionStart": {
         "noteCount": 1,
@@ -4355,8 +4648,8 @@
         "An-Suur",
         "the Anish homeland"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795633470752,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795607769863,
       "sizeInBytes": 28499,
       "sessionStart": {
         "noteCount": 1,
@@ -4393,8 +4686,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795553036921,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 20,
       "sessionStart": {
         "noteCount": 1,
@@ -4405,304 +4698,31 @@
         "newlineCount": 2
       }
     },
-    "Geography/Settlements/Virell.md": {
+    "Flora & Fauna/Gryphoids/Royal Griffin.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6593,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 21.976666666666667,
-      "characterCount": 41037,
-      "nonWhitespaceCharacterCount": 33989,
-      "newlineCount": 234,
-      "readingTimeInMinutes": 24.879245283018868,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795633470760,
-      "sizeInBytes": 41176,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 21.976666666666667,
-        "wordCount": 6593,
-        "characterCount": 41037,
-        "nonWhitespaceCharacterCount": 33989,
-        "newlineCount": 234
-      },
-      "frontmatter": {
-        "tags": [
-          "city",
-          "lavion",
-          "rimec-suur",
-          "geopolitical"
-        ]
-      }
-    },
-    "Geography/Settlements/Reme.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2195,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.316666666666666,
-      "characterCount": 14009,
-      "nonWhitespaceCharacterCount": 11652,
-      "newlineCount": 86,
-      "readingTimeInMinutes": 8.283018867924529,
-      "linkCount": 13,
-      "embedCount": 0,
-      "aliases": [
-        "Remea"
-      ],
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795633470752,
-      "sizeInBytes": 14123,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.316666666666666,
-        "wordCount": 2195,
-        "characterCount": 14009,
-        "nonWhitespaceCharacterCount": 11652,
-        "newlineCount": 86
-      },
-      "frontmatter": {
-        "tags": [
-          "historic",
-          "remean",
-          "city",
-          "timeline",
-          "antiquity",
-          "lurism"
-        ],
-        "aliases": [
-          "Remea"
-        ]
-      }
-    },
-    "Geography/Settlements/Port Singa.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2439,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.13,
-      "characterCount": 14535,
-      "nonWhitespaceCharacterCount": 12028,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 9.20377358490566,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
-      "sizeInBytes": 14579,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.13,
-        "wordCount": 2439,
-        "characterCount": 14535,
-        "nonWhitespaceCharacterCount": 12028,
-        "newlineCount": 44
-      },
-      "frontmatter": {
-        "tags": [
-          "city",
-          "geopolitical"
-        ]
-      }
-    },
-    "Geography/Settlements/Paltos.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 514,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7133333333333334,
-      "characterCount": 3221,
-      "nonWhitespaceCharacterCount": 2702,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 1.939622641509434,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
-      "sizeInBytes": 3221,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.7133333333333334,
-        "wordCount": 514,
-        "characterCount": 3221,
-        "nonWhitespaceCharacterCount": 2702,
-        "newlineCount": 5
-      }
-    },
-    "Geography/Settlements/Edomis.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 40,
-      "nonWhitespaceCharacterCount": 34,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
-      "sizeInBytes": 40,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 40,
-        "nonWhitespaceCharacterCount": 34,
-        "newlineCount": 1
-      }
-    },
-    "Geography/Settlements/City of Balboa.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2302,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.673333333333333,
-      "characterCount": 14797,
-      "nonWhitespaceCharacterCount": 12339,
-      "newlineCount": 74,
-      "readingTimeInMinutes": 8.686792452830188,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": [
-        "Balboa City",
-        "Balboa proper"
-      ],
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795633470752,
-      "sizeInBytes": 15071,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.673333333333333,
-        "wordCount": 2302,
-        "characterCount": 14797,
-        "nonWhitespaceCharacterCount": 12339,
-        "newlineCount": 74
-      },
-      "frontmatter": {
-        "tags": [
-          "geopolitical",
-          "lavion",
-          "balboa",
-          "rimec-suur",
-          "city",
-          "ertra"
-        ],
-        "aliases": [
-          "Balboa City",
-          "Balboa proper"
-        ]
-      }
-    },
-    "Geography/Settlements/East Skellington.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2138,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.126666666666667,
-      "characterCount": 12773,
-      "nonWhitespaceCharacterCount": 10570,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 8.067924528301887,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795553036929,
-      "sizeInBytes": 12773,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.126666666666667,
-        "wordCount": 2138,
-        "characterCount": 12773,
-        "nonWhitespaceCharacterCount": 10570,
-        "newlineCount": 35
-      }
-    },
-    "Geography/Settlements/Aramoor.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2102,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.006666666666667,
-      "characterCount": 13154,
-      "nonWhitespaceCharacterCount": 10964,
-      "newlineCount": 53,
-      "readingTimeInMinutes": 7.932075471698113,
-      "linkCount": 18,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795633470752,
-      "sizeInBytes": 13157,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.006666666666667,
-        "wordCount": 2102,
-        "characterCount": 13154,
-        "nonWhitespaceCharacterCount": 10964,
-        "newlineCount": 53
-      }
-    },
-    "Geography/Settlements/An-Mirda.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1028,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.4266666666666667,
-      "characterCount": 6518,
-      "nonWhitespaceCharacterCount": 5418,
-      "newlineCount": 38,
-      "readingTimeInMinutes": 3.879245283018868,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036929,
-      "modifiedDate": 1795633470752,
-      "sizeInBytes": 6637,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.4266666666666667,
-        "wordCount": 1028,
-        "characterCount": 6518,
-        "nonWhitespaceCharacterCount": 5418,
-        "newlineCount": 38
-      },
-      "frontmatter": {
-        "tags": [
-          "an-suur",
-          "antiquity",
-          "city",
-          "geopolitical",
-          "historic",
-          "lurism",
-          "timeline"
-        ]
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Flora & Fauna/Gryphoids/Theronga.md": {
@@ -4724,8 +4744,8 @@
         "therongas",
         "longneck"
       ],
-      "createdDate": 1795553036921,
-      "modifiedDate": 1795633470752,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795607769862,
       "sizeInBytes": 1632,
       "sessionStart": {
         "noteCount": 1,
@@ -4761,8 +4781,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795633470752,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795607769861,
       "sizeInBytes": 10331,
       "sessionStart": {
         "noteCount": 1,
@@ -4771,33 +4791,6 @@
         "characterCount": 10331,
         "nonWhitespaceCharacterCount": 8738,
         "newlineCount": 136
-      }
-    },
-    "Flora & Fauna/Gryphoids/Royal Griffin.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795553036913,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     },
     "Flora & Fauna/Gryphoids/Gryphoids by Habitat.md": {
@@ -4815,8 +4808,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795555001991,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 18337,
       "sessionStart": {
         "noteCount": 1,
@@ -4825,6 +4818,33 @@
         "characterCount": 18337,
         "nonWhitespaceCharacterCount": 15234,
         "newlineCount": 126
+      }
+    },
+    "Flora & Fauna/Gryphoids/Gryphoid visualisation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 210,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7,
+      "characterCount": 1794,
+      "nonWhitespaceCharacterCount": 1461,
+      "newlineCount": 82,
+      "readingTimeInMinutes": 0.7924528301886793,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
+      "sizeInBytes": 1794,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7,
+        "wordCount": 210,
+        "characterCount": 1794,
+        "nonWhitespaceCharacterCount": 1461,
+        "newlineCount": 82
       }
     },
     "Flora & Fauna/Gryphoids/Fishtail Griffin.md": {
@@ -4847,8 +4867,8 @@
         "maritime griffin",
         "Balboan griffin"
       ],
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795553036913,
+      "createdDate": 1795596381861,
+      "modifiedDate": 1795596381861,
       "sizeInBytes": 505,
       "sessionStart": {
         "noteCount": 1,
@@ -4870,33 +4890,6 @@
         ]
       }
     },
-    "Flora & Fauna/Gryphoids/Gryphoid visualisation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 210,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7,
-      "characterCount": 1794,
-      "nonWhitespaceCharacterCount": 1461,
-      "newlineCount": 82,
-      "readingTimeInMinutes": 0.7924528301886793,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795553036913,
-      "sizeInBytes": 1794,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7,
-        "wordCount": 210,
-        "characterCount": 1794,
-        "nonWhitespaceCharacterCount": 1461,
-        "newlineCount": 82
-      }
-    },
     "data/timeline.yaml": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4912,8 +4905,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1795549825694,
-      "modifiedDate": 1795633470777,
+      "createdDate": 1795596382140,
+      "modifiedDate": 1795606520642,
       "sizeInBytes": 14366,
       "sessionStart": {
         "noteCount": 0,
@@ -4945,8 +4938,8 @@
         "Enlightened",
         "Lurism"
       ],
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795555001991,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795596381849,
       "sizeInBytes": 13272,
       "sessionStart": {
         "noteCount": 1,
@@ -4985,8 +4978,8 @@
         "animal spirits",
         "Animal Spirits"
       ],
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795553036913,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795596381849,
       "sizeInBytes": 3674,
       "sessionStart": {
         "noteCount": 1,
@@ -5002,6 +4995,197 @@
           "animal spirits",
           "Animal Spirits"
         ]
+      }
+    },
+    "Cosmology/Elements/Relational Materials.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2837,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.456666666666667,
+      "characterCount": 18265,
+      "nonWhitespaceCharacterCount": 15374,
+      "newlineCount": 84,
+      "readingTimeInMinutes": 10.705660377358491,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": [
+        "Relation-active",
+        "activating",
+        "Relationals",
+        "relational"
+      ],
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795619988571,
+      "sizeInBytes": 18367,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 9.456666666666667,
+        "wordCount": 2837,
+        "characterCount": 18348,
+        "nonWhitespaceCharacterCount": 15374,
+        "newlineCount": 84
+      },
+      "frontmatter": {
+        "aliases": [
+          "Relation-active",
+          "activating",
+          "Relationals",
+          "relational"
+        ],
+        "status": "early draft"
+      }
+    },
+    "Cosmology/Elements/The Six Elements.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2068,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.8933333333333335,
+      "characterCount": 13679,
+      "nonWhitespaceCharacterCount": 11257,
+      "newlineCount": 101,
+      "readingTimeInMinutes": 7.80377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "element",
+        "elemental",
+        "elemental relations",
+        "elemental relation",
+        "elements",
+        "Sixfold Circle"
+      ],
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795609442802,
+      "sizeInBytes": 13824,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.8933333333333335,
+        "wordCount": 2068,
+        "characterCount": 13679,
+        "nonWhitespaceCharacterCount": 11257,
+        "newlineCount": 101
+      },
+      "frontmatter": {
+        "aliases": [
+          "element",
+          "elemental",
+          "elemental relations",
+          "elemental relation",
+          "elements",
+          "Sixfold Circle"
+        ]
+      }
+    },
+    "Cosmology/Elements/Noble Element.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6048,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 20.16,
+      "characterCount": 35798,
+      "nonWhitespaceCharacterCount": 29452,
+      "newlineCount": 155,
+      "readingTimeInMinutes": 22.82264150943396,
+      "linkCount": 14,
+      "embedCount": 6,
+      "aliases": [
+        "Noble Elements",
+        "Phlogistophor",
+        "Anapagonia",
+        "Maregina",
+        "Piatros",
+        "Morwynt",
+        "Noble Six",
+        "Kuapakalipa"
+      ],
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795609442786,
+      "sizeInBytes": 35945,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 20.16,
+        "wordCount": 6048,
+        "characterCount": 35798,
+        "nonWhitespaceCharacterCount": 29452,
+        "newlineCount": 155
+      },
+      "frontmatter": {
+        "aliases": [
+          "Noble Elements",
+          "Phlogistophor",
+          "Anapagonia",
+          "Maregina",
+          "Piatros",
+          "Morwynt",
+          "Noble Six",
+          "Kuapakalipa"
+        ]
+      }
+    },
+    "Cosmology/Elements/Elemental Hazards.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 841,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8033333333333332,
+      "characterCount": 5109,
+      "nonWhitespaceCharacterCount": 4240,
+      "newlineCount": 37,
+      "readingTimeInMinutes": 3.1735849056603773,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795619978567,
+      "sizeInBytes": 5155,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.8033333333333332,
+        "wordCount": 841,
+        "characterCount": 5145,
+        "nonWhitespaceCharacterCount": 4240,
+        "newlineCount": 37
+      },
+      "frontmatter": {
+        "status": "early draft",
+        "canon": false
+      }
+    },
+    "Cosmology/Elements/Arlos Elemental Reality.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4657,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 15.523333333333333,
+      "characterCount": 30208,
+      "nonWhitespaceCharacterCount": 25442,
+      "newlineCount": 96,
+      "readingTimeInMinutes": 17.57358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795623866209,
+      "sizeInBytes": 30208,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 15.713333333333333,
+        "wordCount": 4714,
+        "characterCount": 30680,
+        "nonWhitespaceCharacterCount": 25760,
+        "newlineCount": 96
       }
     },
     "Cosmology/Aetheric Arts/Shaping.md": {
@@ -5025,8 +5209,8 @@
         "internal art",
         "Shaped"
       ],
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795633470743,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795607769857,
       "sizeInBytes": 14497,
       "sessionStart": {
         "noteCount": 1,
@@ -5063,8 +5247,8 @@
       "aliases": [
         "Scalarist"
       ],
-      "createdDate": 1795553036904,
-      "modifiedDate": 1795553036904,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795596381849,
       "sizeInBytes": 4769,
       "sessionStart": {
         "noteCount": 1,
@@ -5095,8 +5279,8 @@
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036904,
-      "modifiedDate": 1795633470743,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795609442761,
       "sizeInBytes": 14221,
       "sessionStart": {
         "noteCount": 1,
@@ -5122,8 +5306,8 @@
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036904,
-      "modifiedDate": 1795633470743,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795609442752,
       "sizeInBytes": 8531,
       "sessionStart": {
         "noteCount": 1,
@@ -5149,8 +5333,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036904,
-      "modifiedDate": 1795555001982,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795596381849,
       "sizeInBytes": 2889,
       "sessionStart": {
         "noteCount": 1,
@@ -5176,8 +5360,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795553036904,
-      "modifiedDate": 1795633470743,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795609442712,
       "sizeInBytes": 5907,
       "sessionStart": {
         "noteCount": 1,
@@ -5186,196 +5370,6 @@
         "characterCount": 5903,
         "nonWhitespaceCharacterCount": 4911,
         "newlineCount": 43
-      }
-    },
-    "Cosmology/Elements/The Six Elements.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2068,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.8933333333333335,
-      "characterCount": 13679,
-      "nonWhitespaceCharacterCount": 11257,
-      "newlineCount": 101,
-      "readingTimeInMinutes": 7.80377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "element",
-        "elemental",
-        "elemental relations",
-        "elemental relation",
-        "elements",
-        "Sixfold Circle"
-      ],
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795633470752,
-      "sizeInBytes": 13824,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.8933333333333335,
-        "wordCount": 2068,
-        "characterCount": 13679,
-        "nonWhitespaceCharacterCount": 11257,
-        "newlineCount": 101
-      },
-      "frontmatter": {
-        "aliases": [
-          "element",
-          "elemental",
-          "elemental relations",
-          "elemental relation",
-          "elements",
-          "Sixfold Circle"
-        ]
-      }
-    },
-    "Cosmology/Elements/Relational Materials.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2837,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 9.456666666666667,
-      "characterCount": 18348,
-      "nonWhitespaceCharacterCount": 15374,
-      "newlineCount": 84,
-      "readingTimeInMinutes": 10.705660377358491,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": [
-        "Relation-active",
-        "activating",
-        "Relationals",
-        "relational"
-      ],
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795633470743,
-      "sizeInBytes": 18436,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 9.456666666666667,
-        "wordCount": 2837,
-        "characterCount": 18348,
-        "nonWhitespaceCharacterCount": 15374,
-        "newlineCount": 84
-      },
-      "frontmatter": {
-        "aliases": [
-          "Relation-active",
-          "activating",
-          "Relationals",
-          "relational"
-        ]
-      }
-    },
-    "Cosmology/Elements/Noble Element.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6048,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 20.16,
-      "characterCount": 35798,
-      "nonWhitespaceCharacterCount": 29452,
-      "newlineCount": 155,
-      "readingTimeInMinutes": 22.82264150943396,
-      "linkCount": 14,
-      "embedCount": 6,
-      "aliases": [
-        "Noble Elements",
-        "Phlogistophor",
-        "Anapagonia",
-        "Maregina",
-        "Piatros",
-        "Morwynt",
-        "Noble Six",
-        "Kuapakalipa"
-      ],
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795633470743,
-      "sizeInBytes": 35945,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 20.16,
-        "wordCount": 6048,
-        "characterCount": 35798,
-        "nonWhitespaceCharacterCount": 29452,
-        "newlineCount": 155
-      },
-      "frontmatter": {
-        "aliases": [
-          "Noble Elements",
-          "Phlogistophor",
-          "Anapagonia",
-          "Maregina",
-          "Piatros",
-          "Morwynt",
-          "Noble Six",
-          "Kuapakalipa"
-        ]
-      }
-    },
-    "Cosmology/Elements/Elemental Hazards.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 841,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8033333333333332,
-      "characterCount": 5145,
-      "nonWhitespaceCharacterCount": 4240,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 3.1735849056603773,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795633470743,
-      "sizeInBytes": 5194,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.8033333333333332,
-        "wordCount": 841,
-        "characterCount": 5145,
-        "nonWhitespaceCharacterCount": 4240,
-        "newlineCount": 37
-      },
-      "frontmatter": {
-        "status": "early draft",
-        "canon": false
-      }
-    },
-    "Cosmology/Elements/Arlos Elemental Reality.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4714,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 15.713333333333333,
-      "characterCount": 30680,
-      "nonWhitespaceCharacterCount": 25760,
-      "newlineCount": 96,
-      "readingTimeInMinutes": 17.788679245283017,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1795553036913,
-      "modifiedDate": 1795633470743,
-      "sizeInBytes": 30680,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 15.713333333333333,
-        "wordCount": 4714,
-        "characterCount": 30680,
-        "nonWhitespaceCharacterCount": 25760,
-        "newlineCount": 96
       }
     },
     "CLAUDE.md": {
@@ -5393,8 +5387,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795549825669,
-      "modifiedDate": 1795633470743,
+      "createdDate": 1795596381849,
+      "modifiedDate": 1795597410696,
       "sizeInBytes": 6359,
       "sessionStart": {
         "noteCount": 1,
@@ -5405,98 +5399,6 @@
         "newlineCount": 82
       }
     },
-    "Lurist_Dress_The_Head.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4975,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 16.583333333333332,
-      "characterCount": 28250,
-      "nonWhitespaceCharacterCount": 23154,
-      "newlineCount": 181,
-      "readingTimeInMinutes": 18.77358490566038,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "head covering",
-        "clean brow",
-        "six-gored cap",
-        "contract headcloth",
-        "sailor's ring",
-        "masking nights"
-      ],
-      "createdDate": 1795642828323,
-      "modifiedDate": 1795642828703,
-      "sizeInBytes": 28377,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "aliases": [
-          "head covering",
-          "clean brow",
-          "six-gored cap",
-          "contract headcloth",
-          "sailor's ring",
-          "masking nights"
-        ]
-      }
-    },
-    "Lurist_Dress_The_Torso_and_Arms.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4351,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.503333333333334,
-      "characterCount": 24585,
-      "nonWhitespaceCharacterCount": 20128,
-      "newlineCount": 161,
-      "readingTimeInMinutes": 16.418867924528303,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "vestments",
-        "sleeve-binding",
-        "tender's cloth",
-        "creed band",
-        "wrist-thread",
-        "chain of office",
-        "wool rule",
-        "pyrewright"
-      ],
-      "createdDate": 1795642833043,
-      "modifiedDate": 1795642833340,
-      "sizeInBytes": 24734,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "aliases": [
-          "vestments",
-          "sleeve-binding",
-          "tender's cloth",
-          "creed band",
-          "wrist-thread",
-          "chain of office",
-          "wool rule",
-          "pyrewright"
-        ]
-      }
-    },
     "Lurist_Dress_The_Abdomen_Legs_and_Feet.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5505,16 +5407,70 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 5.723333333333334,
-      "characterCount": 10023,
+      "characterCount": 10102,
       "nonWhitespaceCharacterCount": 8239,
       "newlineCount": 80,
       "readingTimeInMinutes": 6.479245283018868,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1795642835985,
-      "modifiedDate": 1795642834537,
-      "sizeInBytes": 10023,
+      "createdDate": 1795677784950,
+      "modifiedDate": 1795677784950,
+      "sizeInBytes": 10102,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Lurist_Dress_The_Head.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4988,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 16.626666666666665,
+      "characterCount": 28565,
+      "nonWhitespaceCharacterCount": 23249,
+      "newlineCount": 189,
+      "readingTimeInMinutes": 18.82264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795677784958,
+      "modifiedDate": 1795677784960,
+      "sizeInBytes": 28565,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Lurist_Dress_The_Torso_and_Arms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4365,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.55,
+      "characterCount": 24904,
+      "nonWhitespaceCharacterCount": 20238,
+      "newlineCount": 171,
+      "readingTimeInMinutes": 16.471698113207548,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1795677784968,
+      "modifiedDate": 1795677784968,
+      "sizeInBytes": 24904,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

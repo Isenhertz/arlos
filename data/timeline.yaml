@@ -302,6 +302,14 @@ events:
     match: "Siege of Santra|Ereador"
     sources: ["Organisations/Commonwealth of Principalities/Commonwealth of Principalities.md"]
 
+  - id: crude-cells-academy
+    year: 1420
+    circa: true
+    era: aetheric
+    title: Crude chemical cells and Tension-coils fill the cabinets of the Grand Academy
+    match: "crude cell"
+    sources: ["Material Reality/Engineering/Arlosian Fulminance.md", "Timekeeping/Technology Snapshot 1420s.md"]
+
   - id: roburic-ii-reign
     year: 1498
     end: 1524
@@ -310,6 +318,28 @@ events:
     match: "Roburic II \\(|Roburic II \"(the )?Iron"
     sources: ["Geography/Regions/Circulean/The Varsenne Basin.md", "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
 
+  - id: natrium-quarrels
+    year: 1500
+    end: 1590
+    circa: true
+    era: imperial
+    title: A furnace works wins natrium from molten salt; the natrium quarrels open and run for the better part of a century
+    sources: ["Material Reality/Engineering/Arlosian Fulminance.md", "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
+
+  - id: coil-signalling
+    year: 1510
+    circa: true
+    era: imperial
+    title: Commonwealth coilwrights begin signalling actuators by pulses of Fulminance
+    sources: ["Material Reality/Engineering/Arlosian Fulminance.md", "Material Reality/Engineering/Aethermaton.md"]
+
+  - id: field-cell-stranu
+    year: 1540
+    era: imperial
+    title: The field-grade cell reaches the western harbours of the Commonwealth and Stranu
+    match: "field-grade cell"
+    sources: ["Material Reality/Engineering/Arlosian Fulminance.md", "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
+
   - id: undeclared-war
     year: 1541
     end: 1561
@@ -317,6 +347,20 @@ events:
     title: The Undeclared War in the Rim of Fire
     match: "Undeclared War"
     sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Timekeeping/Events/The Great War A Chronological Account.md"]
+
+  - id: fulminant-telegraph
+    year: 1545
+    circa: true
+    era: imperial
+    title: The first local fulminant telegraph links furnace cities to their outlying yards
+    sources: ["Material Reality/Engineering/Arlosian Fulminance.md"]
+
+  - id: compressor-coil
+    year: 1550
+    circa: true
+    era: imperial
+    title: Commonwealth coilwrights wind a coil strong enough to drive a compressor; the Companies field brassbacks with no choir engine
+    sources: ["Material Reality/Engineering/Arlosian Fulminance.md", "Material Reality/Engineering/Aethermaton.md", "Material Reality/Engineering/Arlosian Engines.md"]
 
   - id: great-war
     year: 1561
@@ -346,3 +390,9 @@ events:
     title: The Peace of Balboa ends the Great War
     match: "Peace of Balboa"
     sources: ["Timekeeping/Timelines/Timeline of the Circle Sea.md", "Timekeeping/Events/The Great War A Chronological Account.md", "Organisations/Lavion and its Vassals/Balboa.md"]
+
+  - id: fulminant-turn
+    year: 1574
+    era: imperial
+    title: The Peace congress opens the practice of the Charges to the academies; the Fulminant Turn begins
+    sources: ["Material Reality/Engineering/Arlosian Fulminance.md", "Timekeeping/Timelines/Timeline of the Circle Sea.md"]
